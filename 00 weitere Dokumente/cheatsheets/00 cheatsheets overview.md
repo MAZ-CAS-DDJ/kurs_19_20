@@ -1,15 +1,10 @@
 # Cheat Sheets to print
 
-## 01 Python Einstieg (thomas)
-
-## 02 APIs (barnaby)
-
-## 03 Scraping, Selenium (barnaby)
-
-## 04 Pandas, Geopandas (simon)
-
-## 05 Plotten (simon)
-
-## 06 PDF auslesen (barnaby)
-
-## 07 Netzwerkanalyse (thomas)
+0. Ordnerstruktur (Thierry)
+1. Python Einstieg (thomas)
+2. APIs (barnaby)
+3. Scraping, Selenium (barnaby)
+4. Pandas, Geopandas (simon)
+5. Plotten (simon)
+6. PDF auslesen (barnaby)
+7. Netzwerkanalyse (thomas)
