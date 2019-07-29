@@ -8,6 +8,7 @@ Anmeldeschluss	Mo, 05.08.2019
 
 ## Dokumenten-Archiv
 0. [Methodik der datenjournalistischen Recherche](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf)
+1. [Cheetssheets und weitere Dokumente](https://github.com/MAZ-CAS-DDJ/kurs_19_20/tree/master/00%20weitere%C2%A0Dokumente)
 
 ## Themen finden und datenjournalistische Recherchen planen
 **16. September 2019**
