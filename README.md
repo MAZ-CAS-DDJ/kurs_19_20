@@ -10,7 +10,7 @@ Anmeldeschluss	Mo, 05.08.2019
 0. [Methodik der datenjournalistischen Recherche](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf)
 
 ## Themen finden und datenjournalistische Recherchen planen
-**16. September 2018**
+**16. September 2019**
 
 0. [Begrüssung](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/00%20Start.md) (ds, bsk), 30'
 1. [Daten-getriebene Recherchen, die die Welt bewegt haben](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/01%20Stories.md) (ds, bsk), 20'
