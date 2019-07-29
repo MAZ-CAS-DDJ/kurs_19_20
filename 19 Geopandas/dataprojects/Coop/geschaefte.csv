@@ -1,0 +1,2076 @@
+hausnummer,latitude,longitude,name,ort,plz,strasse,typ
+42,46.837574,8.186167,coop-supermarkt-giswil,Giswil,6074,Brünigstrasse,retail
+2,46.728708,8.181781,coop-supermarkt-meiringen,Meiringen,3860,Alpwegern,retail
+32,46.897303,8.251211,coop-supermarkt-sarnen,Sarnen,6060,Marktstrasse,retail
+32,46.897303,8.251211,coop-restaurant-sarnen,Sarnen,6060,Marktstrasse,restaurant
+5,46.820871,8.404397,coop-supermarkt-engelberg,Engelberg,6390,Titliszentrum,retail
+5,46.820871,8.404397,coop-restaurant-engelberg,Engelberg,6390,Titliszentrum,restaurant
+139,46.754612,8.036984,coop-supermarkt-brienz,Brienz,3855,Hauptstrasse,retail
+1,46.937705,8.269723,coop-supermarkt-alpnach,Alpnach-Dorf,6055,Schoriederstrasse,retail
+4/6,46.958373,8.368674,coop-supermarkt-stans,Stans,6370,Buochserstrasse,retail
+4/6,46.958373,8.368674,coop-restaurant-stans,Stans,6370,Buochserstrasse,restaurant
+101,46.624278,8.035829,coop-supermarkt-grindelwald,Grindelwald,3818,Dorfstrasse,retail
+101,46.624237,8.035162,coop-vitality-grindelwald,Grindelwald,3818,Dorfstrasse,vitality
+2,46.981689,8.310388,coop-supermarkt-hergiswil-bahnhofstrasse,Hergiswil,6052,Bahnhofstrasse,retail
+,46.975536,8.341713,coop-supermarkt-stansstad,Stansstad,6362,Schützenmatte,retail
+5,46.964964,8.381035,coop-bau-hobby-b-h-stans,Stans,6370,Rieden,bh
+2,46.985953,8.311483,coop-supermarkt-hergiswil-landweg,Hergiswil,6052,Landweg,retail
+15,46.945754,8.00806,pronto-schuepfheim,Schüpfheim,6170,Hindervormüli,pronto
+9,46.947124,8.009205,coop-supermarkt-schuepfheim,Schüpfheim,6170,Hindervormüli,retail
+6,46.979175,8.415774,coop-supermarkt-buochs,Buochs,6374,Nähseydi,retail
+1,46.993344,8.06578,coop-supermarkt-entlebuch,Entlebuch,6162,Wilgutstrasse,retail
+19,47.017518,8.299724,coop-supermarkt-kriens-pilatusmarkt,Kriens,6010,Ringstrasse,retail
+19,47.017518,8.299724,coop-restaurant-kriens-pilatusmarkt,Kriens,6010,Ringstrasse,restaurant
+19,47.017536,8.299725,coop-vitality-kriens-pilatusmarkt,Kriens,6010,Ringstrasse,vitality
+19,47.017536,8.299725,christ-kriens-pilatusmarkt-christ,Kriens,6010,Ringstrasse,christ
+19,47.017525,8.300001,impo-kriens-pilatusmarkt-ip,Kriens,6010,Ringstrasse,impo
+19,47.017674,8.299372,coop-city-city-kriens-pilatusmarkt,Kriens,6010,Ringstrasse,city
+19,47.01804,8.298509,coop-bau-hobby-b-h-kriens,Kriens,6010,Ringstrasse,bh
+15,47.01785,8.302189,pronto-kriens-pilatusmarkt,Kriens,6010,Ringstrasse,pronto
+100,47.019457,8.311015,coop-supermarkt-horw,Horw,6048,Kantonsstrasse,retail
+12,47.026556,8.298869,lumimart-kriens,Kriens,6010,Nidfeldstrasse,lumimart
+2,47.029909,8.295542,interdiscount-kriens-pilatus,Kriens,6010,Nidfeldstrasse,id
+16,47.034196,8.274112,coop-vitality-kriens-schappe-center,Kriens,6010,Obernauerstrasse,vitality
+2,47.0344,8.273273,coop-supermarkt-kriens-schappe,Kriens,6010,Hobacherweg,retail
+40,46.689562,7.877089,coop-bau-hobby-b-h-interlaken,Interlaken,3800,Untere Bönigstrasse,bh
+4A,47.037888,8.179287,coop-supermarkt-malters-weihermatte,Malters,6102,Unterfeld,retail
+40,46.6896,7.876567,toptip-interlaken,Interlaken-Ost,3800,Untere Bönigstrasse,toptip
+4,47.038042,8.294225,pronto-kriens-langsaegestrasse,Kriens,6010,Langsägestrasse,pronto
+20,47.037314,8.308542,coop-supermarkt-luzern-hubelmatt,Luzern,6005,Breitlachenstrasse,retail
+5,46.690446,7.869148,coop-supermarkt-interlaken-bahnhof,Interlaken,3800,Untere Bönigstrasse,retail
+10,46.689681,7.869247,coop-supermarkt-interlaken-ost,Interlaken,3800,Untere Bönigstrasse,retail
+10,46.689681,7.869247,coop-restaurant-interlaken-ost,Interlaken,3800,Untere Bönigstrasse,restaurant
+23,47.036893,8.328298,coop-supermarkt-luzern-schoenbuehl,Luzern,6005,Langensandstrasse,retail
+15,46.680643,7.866234,coop-supermarkt-matten,Matten b. Interlaken,3800,Metzgergasse,retail
+56,47.046393,8.307018,coop-supermarkt-luzern-winkelried,Luzern,6000,Winkelriedstrasse,retail
+88,47.05104,8.271084,coop-supermarkt-littau,Littau,6014,Luzernerstrasse,retail
+26,46.68535,7.855905,pronto-interlaken-zentrum,Interlaken,3800,Höheweg,pronto
+15,47.048599,8.306685,coop-supermarkt-hirschmatt-luzern,Luzern,6003,Hirschmattstrasse,retail
+2,46.684968,7.854674,christ-interlaken-christ,Interlaken,3800,Höheweg,christ
+1,46.685203,7.854179,interdiscount-interlaken,Interlaken,3800,Höheweg,id
+12,47.050025,8.307274,impo-luzern-seidenhof-ip,Luzern,6003,Seidenhofstrasse,impo
+9,47.051151,8.299948,coop-supermarkt-luzern-kasernenplatz,Luzern,6003,Bruchstrasse,retail
+1,46.6849,7.853575,coop-supermarkt-interlaken-post,Interlaken,3800,Marktgasse,retail
+,47.050025,8.309696,interdiscount-luzern-bahnhof,Luzern,6003,Bahnhofshopping / Fach 3113,id
+,47.050264,8.310173,coop-supermarkt-luzern-bahnhof,Luzern,6003,Bahnhof SBB,retail
+1347,46.604973,7.922087,coop-supermarkt-wengen,Wengen,3823,Wengiboden,retail
+8,47.051751,8.303933,christ-luzern-kramgasse-christ,Luzern,6004,Kramgasse,christ
+35,46.683033,7.85245,impo-interlaken-ip,Interlaken,3800,Aarmühlestr.,impo
+18-20,47.052138,8.30386,coop-restaurant-luzern,Luzern,6000,Rössligasse,restaurant
+18-20,47.052138,8.303926,coop-supermarkt-city-luzern-food,Luzern,6000,Rössligasse,retail
+18-20,47.052138,8.303926,coop-city-city-luzern,Luzern,6000,Rössligasse,city
+20,47.052138,8.303926,impo-luzern-roessligasse-city-ip,Luzern,6004,Rössligasse,impo
+15,47.052141,8.304676,impo-luzern-weinmarkt-ip,Luzern,6004,Weinmarkt,impo
+,46.668946,8.586576,coop-supermarkt-goeschenen,Göschenen,6487,Breiti,retail
+35,46.684724,7.849835,coop-supermarkt-unterseen,Unterseen,3800,Bahnhofstrasse,retail
+19,46.678962,7.851373,pronto-interlaken-rugenpark,Interlaken,3800,Rugenparkstrasse,pronto
+39,47.053899,8.307692,impo-luzern-hertensteinstrasse-ip,Luzern,6004,Hertensteinstrasse,impo
+50,47.054115,8.307656,interdiscount-luzern-hertensteinstrasse,Luzern,6004,Hertensteinstrasse,id
+19,47.059972,8.2859,pronto-reussbuehl,Reussbühl,6015,Hauptstrasse,pronto
+9,47.056913,8.310045,coop-supermarkt-luzern-loewencenter,Luzern,6004,Zürichstrasse,retail
+9,47.056913,8.310045,coop-restaurant-loewencenter-lu,Luzern,6004,Zürichstrasse,restaurant
+6,47.046785,8.373958,coop-supermarkt-meggen,Meggen,6045,Dorfplatz,retail
+1,47.061179,8.308574,coop-supermarkt-luzern-schlossberg,Luzern,6004,Maihofstrasse,retail
+,46.598513,7.907164,coop-supermarkt-lauterbrunnen,Lauterbrunnen,3822,Bahnhofplatz,retail
+101,47.067946,8.315319,pronto-ebikon,Ebikon,6006,Maihofstrasse,pronto
+8-8E,47.05806,8.073329,coop-supermarkt-wolhusen,Wolhusen,6110,Bahnhofstrasse,retail
+1,47.073261,8.290494,coop-supermarkt-emmen,Emmenbrücke,6020,Fichtenstrasse,retail
+1,47.073261,8.290494,coop-restaurant-emmenbruecke,Emmenbrücke,6020,Fichtenstrasse,restaurant
+1,47.074114,8.287032,impo-emmenbruecke-ip,Emmenbrücke,6020,Stauffacherstrasse,impo
+1,47.07423,8.287099,christ-emmenbruecke-christ,Emmenbrücke,6020,Stauffacherstrasse,christ
+50,47.073838,8.292715,livique-emmen-meierhoefli,Emmenbrücke,6020,Seetalstrasse,livique
+44,47.074145,8.291364,pronto-emmenbruecke-seetalstr-,Emmenbrücke (LU),6020,Seetalstrasse,pronto
+2,46.876285,8.631486,pronto-altdorf-bahnhof,Altdorf,6460,Bahnhofplatz,pronto
+4,46.824318,8.649038,coop-supermarkt-erstfeld,Erstfeld,6472,Vordere Hofstatt,retail
+29,47.061064,8.073417,pronto-wolhusen,Wolhusen,6110,Menznauerstrasse,pronto
+30,46.634392,8.596199,coop-supermarkt-andermatt,Andermatt,6490,Gotthardstrasse,retail
+143,46.488143,8.269315,coop-supermarkt-muenster,Münster,3985,Furkastrasse,retail
+9a,46.855407,8.645029,coop-supermarkt-schattdorf-tellpark,Schattdorf,6467,Militärstrasse,retail
+1,47.080659,8.271465,interdiscount-emmenbruecke,Emmenbrücke 3,6020,Stauffacherstrasse,id
+4,47.080948,8.27139,coop-supermarkt-emmenbruecke-sprengi,Emmenbrücke,6020,Erlenstrasse,retail
+24,47.084304,8.272535,pronto-emmenbruecke-rothenburgstr-,Emmenbrücke,6020,Rothenburgstrasse,pronto
+3,47.07137,8.365052,coop-supermarkt-adligenswil,Adligenswil,6043,Im Zentrum,retail
+4,46.882049,8.644656,interdiscount-altdorf,Altdorf,6460,Marktgasse,id
+2,46.869559,8.650895,pronto-altdorf-schattdorf,Schattdorf,6467,Gotthardstrasse,pronto
+3,46.880931,8.64572,coop-supermarkt-altdorf,Altdorf,6460,Hellgasse,retail
+3,46.880931,8.64572,coop-restaurant-altdorf,Altdorf,6460,Hellgasse,restaurant
+8,47.082623,8.126992,coop-supermarkt-ruswil,Ruswil,6017,Hellbühlerstrasse,retail
+5,46.865606,8.654676,coop-supermarkt-schattdorf,Schattdorf,6467,Dorfstrasse,retail
+,47.082636,8.343201,coop-supermarkt-ebikon,Ebikon,6030,Hofmatt,retail
+3,47.093025,8.270669,coop-supermarkt-rothenburg,Rothenburg,6023,Grabenweg,retail
+1032,46.559616,7.893721,coop-supermarkt-muerren,Mürren,3825,Borthalten,retail
+,47.110439,8.233928,burger-burger-king-neuenkirch-west,Rothenburg,6023,A2 (Richtung Luzern),burger
+,47.110702,8.233603,coop-hotel-marche-bistro-neuenkirch-wes,Rothenburg,6023,A2 (Richtung Luzern),hotel
+,47.113045,8.231832,pronto-neuenkirch-ost-raststaette,Rothenburg,6023,LU Raststätte A2 / Neuenkirch Ost,pronto
+,47.113242,8.233179,marche-marche-neuenkirch-ost,Rothenburg,6023,A2 (Richtung Basel),marche
+14,47.082367,8.439596,coop-supermarkt-kuessnacht-am-rigi,Küssnacht am Rigi,6403,Bahnhofstrasse,retail
+36/38,46.996614,8.60752,coop-supermarkt-brunnen,Brunnen,6440,Bahnhofstrasse,retail
+80,47.10736,8.379587,pronto-root,Root,6037,Luzernstrasse,pronto
+,47.124544,8.19398,coop-supermarkt-sempach,Sempach,6204,Luzernerstrasse,retail
+46,46.999556,8.610214,pronto-brunnen-bahnhof,Brunnen,6440,Bahnhofstrasse,pronto
+36A,46.94042,7.778992,pronto-langnau-i-e-,Langnau,3550,Sägestrasse,pronto
+37,46.940413,7.778348,coop-bau-hobby-b-h-langnau-ilfiscenter,Langnau,3550,Sägestrasse,bh
+37,46.940413,7.778348,interdiscount-langnau-i-e-,Langnau,3550,Sägestrasse,id
+37,46.940431,7.778296,coop-supermarkt-langnau-ilfiscenter,Langnau,3550,Sägestrasse,retail
+37,46.940431,7.778296,coop-restaurant-langnau,Langnau,3550,Sägestrasse,restaurant
+37,46.940431,7.778296,coop-vitality-ilfis-center,Langnau,3550,Sägestrasse,vitality
+37,46.940431,7.778296,impo-langnau-ip,Langnau,3550,Sägestrasse,impo
+23,47.057246,8.53381,pronto-oberarth,Oberarth,6414,Gotthardstrasse,pronto
+1,47.049198,8.549374,coop-supermarkt-goldau-bahnhof,Goldau,6410,Bahnhofstrasse,retail
+5,47.050394,8.550307,coop-supermarkt-goldau,Goldau,6410,Centralstrasse,retail
+17,47.117963,8.391937,coop-supermarkt-root,Root,6037,Bahnhofstrasse,retail
+40,47.102418,8.450984,pronto-kuessnacht-am-rigi,Küssnacht am Rigi,6403,Zugerstrasse,pronto
+19,46.717931,7.714075,coop-supermarkt-sigriswil,Sigriswil,3655,Dorfstrasse,retail
+21,47.136841,8.132422,coop-supermarkt-nottwil-roesslipark,Nottwil,6207,Kantonsstrasse,retail
+21,46.922559,7.728712,coop-supermarkt-signau,Signau,3534,Dorfstrasse,retail
+62,46.528713,8.610768,coop-supermarkt-airolo,Airolo,6780,Via San Gottardo,retail
+156,47.027954,8.631398,pronto-seewen-bahnhofstrasse,Seewen,6423,Bahnhofstrasse,pronto
+7,47.032748,8.628031,coop-vitality-seewen,Seewen,6423,Steinbislin,vitality
+7b,47.032765,8.628084,lumimart-seewen-seewenmarkt,Seewen,6423,Steinbislin,lumimart
+,47.032772,8.628334,impo-seewen-ip,Seewen-Schwyz,6423,Steinbislin,impo
+3,47.032679,8.628582,pronto-seewen-steinbislin,Seewen,6423,Steinbislin,pronto
+7B,47.033085,8.628486,coop-bau-hobby-b-h-seewen-markt,Seewen,6423,Steinbislin,bh
+7,47.033456,8.628244,coop-supermarkt-seewen-markt,Seewen,6423,Steinbislin,retail
+7,47.033456,8.628244,coop-restaurant-seewen-markt,Seewen,6423,Steinbislin,restaurant
+3,47.123483,7.99511,interdiscount-wilisau,Willisau,6130,Kreuzstrasse,id
+7b,47.020128,8.64939,interdiscount-seewen-markt,Seewen SZ,6423,Steinbislin,id
+2,47.020311,8.651657,coop-supermarkt-schwyz,Schwyz,6430,Oberer Steisteg,retail
+,47.127368,7.997246,coop-supermarkt-willisau,Willisau,6130,Feldli,retail
+,47.127368,7.997246,coop-restaurant-willisau,Willisau,6130,Feldli,restaurant
+41A,47.128294,7.997309,pronto-willisau,Willisau,6130,Ettiswilerstrasse,pronto
+8,47.140661,8.426829,coop-supermarkt-rotkreuz,Rotkreuz,6343,Luzernerstrasse,retail
+4,47.165856,8.283619,coop-bau-hobby-b-h-hochdorf,Hochdorf,6280,Industriestrasse,bh
+1,47.165566,8.289998,pronto-hochdorf,Hochdorf,6280,Urswilstrasse,pronto
+29,46.688811,7.678958,interdiscount-spiez,Spiez,3700,Oberlandstrasse,id
+21,46.401428,8.132984,coop-supermarkt-fiesch,Fiesch,3984,Furkastrasse,retail
+48,47.168485,8.288251,interdiscount-hochdorf,Hochdorf,6280,Hauptstrasse,id
+6,47.168761,8.288664,coop-supermarkt-hochdorf,Hochdorf,6280,Bellevuestrasse,retail
+6,46.689447,7.675745,coop-supermarkt-spiez,Spiez,3700,Oberlandstrasse,retail
+70,46.678859,8.771095,coop-supermarkt-sedrun,Sedrun,7188,Via Alpsu,retail
+19,46.735925,7.658927,coop-supermarkt-hilterfingen,Hilterfingen,3652,Dorfstrasse,retail
+15,46.396779,8.131286,pronto-fiesch,Fiesch,3984,Nagereija,pronto
+2,47.147867,8.434122,pronto-rotkreuz,Rotkreuz,6343,Blegistrasse,pronto
+50,46.684498,7.66792,pronto-spiez,Spiez,3700,Simmentalstrasse,pronto
+38,46.629152,7.691346,pronto-reichenbach,Reichenbach im Kandertal,3713,Hauptstrasse,pronto
+20,47.172784,8.103815,interdiscount-sursee,Sursee,6210,Bahnhofstrasse,id
+26,47.173002,8.103356,coop-supermarkt-sursee-surseepark,Sursee,6210,Bahnhofstrasse,retail
+17,46.625196,7.69057,coop-supermarkt-reichenbach,Reichenbach,3713,Hauptstrasse,retail
+1,47.177894,8.125118,coop-bau-hobby-b-h-schenkon,Schenkon,6214,Zellgut,bh
+,47.178165,8.126401,coop-supermarkt-schenkon,Schenkon,6214,Zellfeld,retail
+,47.178165,8.126401,coop-restaurant-schenkon,Schenkon,6214,Zellfeld,restaurant
+1,46.745714,7.64346,coop-supermarkt-huenibach,Hünibach,3626,Zedtwitzweg,retail
+50,46.775758,7.633322,coop-supermarkt-steffisburg,Steffisburg,3612,Unterdorfstrasse,retail
+1,46.760281,7.631133,pronto-thun-krankenhausstrasse,Thun,3600,Krankenhausstrasse,pronto
+1,46.755298,7.630814,pronto-thun-am-bahnhof,Thun,3600,Panoramastrasse,pronto
+1b,47.184682,8.111918,pronto-schenkon,Schenkon,6214,Grenzstrasse,pronto
+2,46.754913,7.629687,coop-supermarkt-thun-bahnhof,Thun,3600,Seestrasse,retail
+57,46.75782,7.628637,impo-thun-baelliz-57-ip,Thun,3600,Bälliz,impo
+1,46.760584,7.62739,coop-supermarkt-city-thun-kyburg-food,Thun,3600,Schwäbisgasse,retail
+1,46.760584,7.62739,coop-city-city-kyburg,Thun,3600,Schwäbisgasse,city
+1,46.760584,7.62739,coop-restaurant-thun-kyburg,Thun,3600,Schwäbisgasse,restaurant
+1,46.760584,7.62739,take-it-thun-city-kyburg-take-it,Thun,3600,Schwäbisgasse,takeit
+1,46.760404,7.627259,impo-thun-kyburg-cc-ip,Thun,3600,Schwäbisgasse,impo
+25,46.759208,7.627294,interdiscount-thun-baelliz,Thun,3600,Bälliz,id
+2A,47.029373,7.744129,coop-supermarkt-sumiswald,Sumiswald,3454,Dorfgasse,retail
+,46.387789,8.058708,coop-supermarkt-bettmeralp,Bettmeralp,3992,Haus Walliserhof,retail
+71,46.743421,7.627383,pronto-thun-frutigenstrasse,Thun,3604,Frutigenstrasse,pronto
+6,46.758934,7.624269,coop-supermarkt-thun-rexmax,Thun,3600,Gewerbestrasse,retail
+27,46.74064,7.62261,coop-bau-hobby-b-h-thun-straettligen-markt,Thun,3604,Feldstrasse,bh
+32,46.740524,7.621942,coop-supermarkt-thun-straettligen-markt,Thun,3604,Schulstrasse,retail
+32,46.740524,7.621942,coop-restaurant-thun-straettligen-markt,Thun,3604,Schulstrasse,restaurant
+1A,47.17547,8.426298,coop-supermarkt-huenenberg,Hünenberg,6331,Eichengasse,retail
+38,46.760228,7.619247,pronto-thun-allmendstrasse,Thun,3600,Allmendstrasse,pronto
+24b,47.113252,7.853295,pronto-huttwil,Huttwil,4950,Luzernstrasse,pronto
+27,47.168992,7.992642,coop-supermarkt-schoetz,Schötz,6247,Luzernerstrasse,retail
+11,46.67563,7.638006,coop-supermarkt-wimmis,Wimmis,3752,Hauptstrasse,retail
+52,46.756461,7.617965,livique-thun-sued,Thun,3600,Mittlere Strasse,livique
+18,46.753479,7.615115,coop-supermarkt-thun-schoenau,Thun,3600,Schönaustrasse,retail
+16,46.837636,7.617685,coop-supermarkt-oberdiessbach,Oberdiessbach,3672,Bahnhofstrasse,retail
+4C,46.906074,7.638847,coop-supermarkt-grosshoechstetten,Grosshöchstetten,3506,Dorfstrasse,retail
+32,46.744348,7.615439,interdiscount-thun-straettligen-markt,Thun,3604,Schulstrasse,id
+131,46.778311,7.612434,lumimart-heimberg,Heimberg,3627,Bernstrasse,lumimart
+196,46.779714,7.612281,pronto-heimberg-bernstrasse,Heimberg,3627,Bernstrasse,pronto
+33,47.113798,7.844024,coop-supermarkt-huttwil,Huttwil,4950,Bahnhofstrasse,retail
+61,46.779818,7.608995,pronto-heimberg-center--automat-,Heimberg,3627,Blümlisalpstrasse,pronto
+61,46.779818,7.608995,interdiscount-heimberg-center-xxl,Heimberg,3627,Blümlisalpstrasse,id
+1,46.783426,7.608875,coop-supermarkt-heimberg-aarestrasse,Heimberg,3627,Aarestrasse,retail
+61,46.779828,7.608261,coop-supermarkt-heimberg-center,Heimberg,3627,Blümlisalpstrasse,retail
+61,46.779828,7.608261,coop-restaurant-heimberg-center,Heimberg,3627,Blümlisalpstrasse,restaurant
+61,46.779828,7.608261,impo-thun-heimberg-ip,Heimberg,3627,Blümlisalpstrasse,impo
+25,46.881236,7.624009,coop-supermarkt-konolfingen,Konolfingen,3510,Emmentalstrasse,retail
+3,47.190778,8.395702,coop-supermarkt-sins,Sins,5643,Luzernstrasse,retail
+31,46.909846,7.631996,pronto-grosshoechstetten,Grosshöchstetten,3506,Bernstrasse,pronto
+4,47.208051,8.1905,coop-supermarkt-beromuenster,Beromünster,6215,Bahnhofstrasse,retail
+ 11,46.378344,8.033372,coop-supermarkt-riederalp,Riederalp,3987,Bahnhofstrasse,retail
+45,46.764565,7.600595,coop-supermarkt-thun-lerchenfeld,Thun,3603,Lerchenfeldstrasse,retail
+14,47.181448,8.461767,coop-supermarkt-cham-seehof,Cham,6330,Zuger-  Seehofstrasse,retail
+15/17,47.181705,8.461205,interdiscount-cham,Cham,6330,Zugerstrasse,id
+2,47.137766,8.581137,coop-supermarkt-unteraegeri-chilematt,Unterägeri,6314,Waldheimstrasse,retail
+29,47.00532,7.684425,coop-supermarkt-luetzelflueh,Lützelflüh,3432,Dorfstrasse,retail
+4,46.924757,7.628256,coop-supermarkt-biglen,Biglen,3507,Bahnhofstrasse,retail
+1,46.700175,8.842145,coop-supermarkt-disentis,Disentis,7180,Via Acletta,retail
+22,46.743488,7.594931,coop-supermarkt-allmendingen,Thun,3608,Allmendingenstrasse,retail
+3,47.169052,8.515045,impo-zug-ip,Zug,6300,Schmidgasse,impo
+11,47.171505,8.51433,coop-supermarkt-city-zug-food,Zug,6304,Bundesplatz,retail
+11,47.171505,8.51433,coop-restaurant-zug,Zug,6304,Bundesplatz,restaurant
+11,47.171439,8.514685,christ-zug-alpenstrasse-christ,Zug,6304,Bundesplatz,christ
+11,47.171475,8.514646,impo-zug-city-ip,Zug,6300,Bundesplatz,impo
+11,47.171614,8.514279,coop-city-city-zug,Zug,6304,Bundesplatz,city
+6,47.171035,8.51647,coop-to-go-zug-neustadt-to-go,Zug,6300,Baarerstrasse,togo
+6,47.171017,8.516536,coop-supermarkt-zug-neustadt,Zug,6300,Baarerstrasse,retail
+6,47.171017,8.516536,coop-restaurant-zug-neustadt,Zug,6300,Baarerstrasse,restaurant
+,47.173664,8.515336,coop-to-go-zug-bahnhof-to-go,Zug,6300,Bahnhofplatz,togo
+,47.173664,8.515336,karma-shop-zug-bahnhof-karma,Zug,6300,Bahnhofplatz,karma
+8,47.186403,8.476034,toptip-cham,Cham,6330,Hinterbergstrasse,toptip
+8,47.186402,8.476086,coop-bau-hobby-b-h-cham,Cham,6330,Hinterbergstrasse,bh
+6,47.186652,8.475313,pronto-cham,Cham,6330,Hinterbergstrasse,pronto
+22,47.173243,8.517016,interdiscount-zug-metalli-xxl,Zug,6300,Baarerstrasse,id
+,47.174165,8.515557,coop-supermarkt-zug-bahnhof,Zug,6300,Bahnhof SBB,retail
+10,47.17792,8.505501,coop-supermarkt-zug-herti,Zug,6300,Hertizentrum,retail
+15,47.134969,8.613164,coop-supermarkt-oberaegeri,Oberägeri,6315,Hauptstrasse,retail
+13,47.223992,8.260124,coop-supermarkt-hitzkirch,Hitzkirch,6285,Bahnhofstrasse,retail
+2,46.587277,7.647075,coop-supermarkt-frutigen,Frutigen,3714,Bälliz,retail
+30,46.356726,8.047037,coop-supermarkt-moerel-filet,Mörel,3983,Furkastrasse,retail
+40,47.191604,8.47785,christ-steinhausen-zugerland-christ,Steinhausen,6312,Hinterbergstr.,christ
+11,46.774758,7.572292,coop-supermarkt-uetendorf,Uetendorf,3661,Dorfstrasse,retail
+64,47.184909,8.520101,pronto-baar-zugerstrasse,Baar,6340,Zugerstrasse,pronto
+7,47.196948,8.483734,coop-supermarkt-steinhausen,Steinhausen,6312,Bahnhofstrasse,retail
+26,47.017953,7.660414,coop-supermarkt-hasle-rueegsau,Hasle-Rüegsau,3415,Rüegsaustrasse,retail
+29,47.21009,7.985135,pronto-dagmersellen,Dagmersellen,6252,Altishoferstrasse,pronto
+6,47.212089,7.990303,coop-supermarkt-dagmersellen,Dagmersellen,6252,Luzernstrasse,retail
+13,47.195174,8.523793,interdiscount-baar,Baar,6340,Bahnhofstrasse,id
+3,47.195218,8.52386,coop-supermarkt-baar-gotthard,Baar,6340,Poststrasse,retail
+3,47.195227,8.523926,coop-restaurant-baar-gotthard,Baar,6340,Poststrasse,restaurant
+22,46.869705,7.563084,pronto-muensingen,Münsingen,3110,Thunstrasse,pronto
+6,46.874517,7.563436,coop-supermarkt-muensingen,Münsingen,3110,Dorfplatz,retail
+6A,47.195909,8.529747,coop-supermarkt-baar-oberdorf,Baar,6340,Oberdorfstrasse,retail
+14,47.246055,8.184932,pronto-menziken,Menziken,5737,Hauptstrasse,pronto
+2,46.87042,7.559242,toptip-muensingen,Münsingen,3110,Erlenauweg,toptip
+16,46.87078,7.559125,coop-bau-hobby-b-h-muensingen,Münsingen,3110,Industriestrasse,bh
+9,46.874405,7.559278,interdiscount-muensingen,Münsingen,3110,Alte Bahnhofstrasse,id
+75,47.237696,8.074471,coop-supermarkt-triengen,Triengen,6234,Kantonsstrasse,retail
+1,47.178778,8.588306,coop-supermarkt-menzingen,Menzingen,6313,Carmelweg,retail
+10,47.25163,8.182447,coop-supermarkt-reinach-ag,Reinach,5734,Obere Stumpenbachstrasse,retail
+10,47.25163,8.182447,coop-restaurant-reinach-ag,Reinach,5734,Obere Stumpenbachstrasse,restaurant
+10,47.25164,8.182421,interdiscount-reinach-ag,Reinach,5734,Obere Stumpenbachstrasse,id
+10,47.201623,8.540937,coop-restaurant-baar-delfin,Baar,6340,Lättichstrasse,restaurant
+274,46.494851,7.673109,coop-supermarkt-kandersteg,Kandersteg,3718,Bahnhofstrasse,retail
+4,46.928923,7.561448,coop-supermarkt-worb,Worb,3076,Bärenplatz,retail
+4,46.928923,7.561448,coop-restaurant-worb,Worb,3076,Bärenplatz,restaurant
+124,47.034395,7.630919,pronto-oberburg,Oberburg,3414,Emmentalstrasse,pronto
+35,47.036959,7.630797,coop-supermarkt-oberburg,Oberburg,3414,Progressastrasse,retail
+49,47.035935,7.629648,coop-bau-hobby-b-h-oberburg,Oberburg,3414,Emmentalstrasse,bh
+30,46.934143,7.559346,pronto-worb,Worb,3076,Bollstrasse,pronto
+4,46.891594,7.541628,pronto-rubigen,Rubigen,3113,Alte Belpstrasse,pronto
+2,47.166021,7.798455,coop-supermarkt-madiswil,Madiswil,4934,Unterdorfstrasse,retail
+7,47.264327,8.177563,coop-bau-hobby-b-h-reinach-ag,Reinach,5734,Europastrasse,bh
+68,47.265448,8.176627,pronto-reinach,Reinach,5734,Aarauerstrasse,pronto
+20,46.322855,7.989383,coop-supermarkt-naters,Naters,3904,Furkastrasse,retail
+14,47.056822,7.629367,coop-supermarkt-burgdorf-schuetzenmatte,Burgdorf,3400,Sägegasse,retail
+14,47.056822,7.629367,coop-restaurant-burgdorf-schuetzenmatte,Burgdorf,3400,Sägegasse,restaurant
+4,46.769237,7.509163,coop-supermarkt-wattenwil,Wattenwil,3665,Blumensteinstrasse,retail
+2,46.318685,7.988627,coop-supermarkt-brig-zentrum-post,Brig,3900,Nordstrasse,retail
+4,46.318211,7.988012,interdiscount-brig,Brig,3900,Bahnhofstrasse,id
+9,46.317625,7.988317,impo-brig-ip,Brig,3900,Bahnhofstrasse,impo
+11,46.317229,7.9883,christ-brig-christ,Brig,3900,Bahnhofstrasse,christ
+152,47.215806,8.573642,pronto-baar-sihlbruggstrasse,Baar,6340,Sihlbruggstrasse,pronto
+33,47.271305,8.343184,pronto-muri,Muri,5630,Luzernerstrasse,pronto
+7,47.059064,7.622847,coop-supermarkt-burgdorf-stadt,Burgdorf,3400,Bahnhofstrasse,retail
+2,47.126882,8.745705,coop-supermarkt-einsiedeln,Einsiedeln,8840,Schwanenstrasse,retail
+1,47.272664,8.340763,coop-supermarkt-muri-ag,Muri,5630,Seetalstrasse,retail
+1,47.272664,8.340763,coop-restaurant-muri-ag,Muri,5630,Seetalstrasse,restaurant
+1,47.272664,8.340763,coop-vitality-muripark,Muri,5630,Seetalstrasse,vitality
+23,47.058885,7.621846,interdiscount-burgdorf,Burgdorf,3400,Lyssachstrasse,id
+63,47.248098,7.970623,coop-supermarkt-reiden,Reiden,6260,Hauptstrasse,retail
+13,46.315113,7.986812,coop-supermarkt-brig,Brig,3902,Gliserallee,retail
+21-23,47.058912,7.62178,impo-burgdorf-ip,Burgdorf,3400,Lyssachstrasse,impo
+44,47.06064,7.621641,coop-supermarkt-burgdorf-take-it,Burgdorf,3400,Bahnhofstrasse,retail
+44,47.06064,7.621641,coop-supermarkt-burgdorf-bahnhof,Burgdorf,3400,Bahnhofstrasse,retail
+216,46.930922,7.530358,coop-supermarkt-ruefenacht,Rüfenacht,3075,Alte Bernstrasse,retail
+44,47.132486,8.744998,coop-supermarkt-einsiedeln-wissmueli-markt-k-,Einsiedeln,8840,Zürichstrasse,retail
+1,46.477862,8.799024,coop-supermarkt-faido,Faido,6760,Via Pian della Croce,retail
+102,47.062987,7.616357,pronto-burgdorf,Burgdorf,3400,Kirchbergstrasse,pronto
+,46.316305,8.492514,coop-supermarkt-bosco-gurin,Bosco Gurin,6685,Bosco Gurin,retail
+23,47.266846,8.424128,coop-supermarkt-obfelden,Obfelden,8912,Ottenbacherstrasse,retail
+75,47.139221,8.746085,pronto-einsiedeln,Einsiedeln,8840,Zürichstrasse,pronto
+17,46.860324,7.493716,coop-supermarkt-toffen,Toffen,3125,Bahnhofstrasse,retail
+3,46.307169,7.960355,coop-bau-hobby-b-h-brig-gamsen,Brig,3902,Industriestrasse,bh
+5,46.307069,7.960588,lumimart-brig,Brig-Gamsen,3900,Industriestrasse,lumimart
+3,46.89319,7.497673,coop-supermarkt-belp,Belp,3123,Schützenweg,retail
+3,46.893541,7.497778,coop-restaurant-belp,Belp,3123,Schützenweg,restaurant
+300,46.306168,7.960761,pronto-brig,Brig-Gamsen,3900,Kantonsstrasse,pronto
+6,47.295324,8.242063,coop-supermarkt-fahrwangen,Fahrwangen,5615,Bärenplatz,retail
+4,46.80965,7.478754,coop-supermarkt-riggisberg,Riggisberg,3132,Sonnenweg,retail
+10,47.29571,8.22775,coop-supermarkt-meisterschwanden,Meisterschwanden,5616,Hauptstrasse,retail
+24,47.260394,7.946699,coop-supermarkt-brittnau,Brittnau,4805,Dorfstrasse,retail
+ 15,47.274023,8.446068,interdiscount-affoltern-am-albis,Affoltern am Albis,8910,Büelstrasse,id
+15,47.274167,8.446031,christ-affoltern-coopark-christ,Affoltern am Albis,8910,Büelstrasse,christ
+15,47.274164,8.446388,coop-supermarkt-affoltern-am-albis,Affoltern am Albis,8910,Büelstrasse,retail
+15,47.274164,8.446388,coop-restaurant-affoltern-am-albis,Affoltern am Albis,8910,Büelstrasse,restaurant
+225,46.933061,7.506764,pronto-guemligen,Gümligen BE,3073,Worbstrasse,pronto
+1,46.933297,7.503941,coop-supermarkt-guemligen-zentrum-moos,Gümligen,3073,Turbenweg,retail
+1,46.933297,7.503941,coop-restaurant-guemligen-zentrum,Gümligen,3073,Turbenweg,restaurant
+22,47.212214,7.791348,interdiscount-langenthal-affenplatz,Langenthal,4900,St. Urbanstrasse,id
+7,47.211608,7.789324,christ-langenthal-christ,Langenthal,4900,Farbgasse,christ
+3,47.21228,7.79012,coop-supermarkt-langenthal-tell,Langenthal,4900,St. Urbanstrasse,retail
+3,47.21228,7.79012,coop-restaurant-langenthal-tell,Langenthal,4900,St. Urbanstrasse,restaurant
+14,47.212401,7.789012,impo-langenthal-ip,Langenthal,4900,Marktgasse,impo
+6,47.284218,8.453927,pronto-affoltern-am-albis,Affoltern am Albis,8910,Im Wängli,pronto
+7,47.203719,8.68384,coop-supermarkt-richterswil-obermatt,Richterswil,8805,Obermattstrasse,retail
+1,47.203517,8.685129,pronto-richterswil,Richterswil,8805,Obermattstrasse,pronto
+142,46.959286,7.500347,coop-supermarkt-ostermundigen-ruetiweg,Ostermundigen,3072,Bernstrasse,retail
+68,46.932155,7.484216,coop-supermarkt-muri,Muri,3074,Thunstrasse,retail
+,47.21964,8.661382,cindy-cindy-s-diner-herrlisberg-sue,Wädenswil,8820,A3 (Richtung Chur),cindy
+,47.220884,8.661133,cindy-cindy-s-diner-herrlisberg-no,Wädenswil,8820,A3 (Richtung Zürich),cindy
+301,47.245315,8.60835,coop-supermarkt-horgen-waldegg,Horgen,8810,Einsiedlerstrasse,retail
+57,46.296269,7.914619,coop-supermarkt-eyholz-center,Visp Eyholz,3930,Kantonsstrasse,retail
+57,46.296269,7.914619,coop-restaurant-eyholz-center,Visp Eyholz,3930,Kantonsstrasse,restaurant
+10,47.220797,7.781502,coop-supermarkt-langenthal-baeregg,Langenthal,4900,Bäreggstrasse,retail
+10,47.220806,7.781476,coop-vitality-langenthal,Langenthal,4900,Bäreggstrasse,vitality
+17,46.910805,7.470573,coop-supermarkt-kehrsatz,Kehrsatz,3122,Bernstrasse,retail
+1,47.086761,7.583908,coop-restaurant-kirchberg,Kirchberg,3422,Zürichstrasse,restaurant
+11,46.318427,8.601975,coop-supermarkt-cevio,Cevio,6675,Via Valmaggina,retail
+50,47.077921,7.574601,pronto-alchenflueh-lyssach-center,Alchenflüh,3422,Bernstrasse,pronto
+3,47.087624,7.584042,coop-supermarkt-kirchberg,Kirchberg,3422,Zürichstrasse,retail
+19,46.973923,7.496579,coop-supermarkt-bolligen,Bolligen,3065,Dorfmärit,retail
+9,47.072324,7.568597,coop-bau-hobby-b-h-lyssach,Lyssach,3421,Bernstrasse,bh
+34,47.311928,8.114356,coop-supermarkt-unterkulm,Unterkulm,5726,Hauptstrasse,retail
+9,47.072011,7.567793,interdiscount-lyssach,Lyssach,3421,Bernstrasse,id
+9,47.072029,7.567806,livique-lyssach,Lyssach,3421,Bernstrasse,livique
+103,47.217336,7.768675,pronto-langenthal,Langenthal,4900,Bützbergstrasse,pronto
+24,47.242089,7.821262,coop-supermarkt-roggwil,Roggwil,4914,Bahnhofstrasse,retail
+20,47.195156,8.723076,coop-supermarkt-wollerau,Wollerau,8832,Bahnhofstrasse,retail
+20,46.937744,7.476447,coop-supermarkt-bern-egghoelzli,Bern,3015,Weltpoststrasse,retail
+3,46.955651,7.483632,coop-supermarkt-ostermundigen-bahnhofstrasse,Ostermundigen,3072,Bahnhofstrasse,retail
+3,46.955651,7.483632,coop-restaurant-ostermundigen-bahnhof,Ostermundigen,3072,Bahnhofstrasse,restaurant
+3,46.95566,7.483632,interdiscount-ostermundigen,Ostermundigen,3072,Bahnhofstrasse,id
+33C,47.228239,7.786515,coop-bau-hobby-b-h-langenthal,Langenthal,4900,Gaswerkstrasse,bh
+2,47.279638,7.927016,coop-supermarkt-strengelbach,Strengelbach,4802,Streumattweg,retail
+43,47.185798,7.70329,coop-supermarkt-herzogenbuchsee,Herzogenbuchsee,3360,Bernstrasse,retail
+43,47.185798,7.70329,coop-restaurant-herzogenbuchsee,Herzogenbuchsee,3360,Bernstrasse,restaurant
+40,47.185361,7.701533,pronto-herzogenbuchsee,Herzogenbuchsee,3360,Bernstrasse,pronto
+14B,47.208474,8.705667,coop-supermarkt-richterswil-poststrasse,Richterswil,8805,Poststrasse,retail
+31,47.308584,8.051127,coop-supermarkt-schoeftland,Schöftland,5040,Dorfstrasse,retail
+15,46.9454,7.472761,coop-supermarkt-bern-freudenberg,Bern,3006,Giacomettistrasse,retail
+35,47.259032,8.59874,coop-supermarkt-horgen-leue-huus,Horgen,8810,Zugerstrasse,retail
+33,47.289258,7.94462,interdiscount-zofingen,Zofingen,4800,Vordere Hauptgasse,id
+3,46.493336,7.560709,coop-supermarkt-adelboden,Adelboden,3715,Landstrasse,retail
+39,47.213915,7.743704,coop-supermarkt-buetzberg,Bützberg,4922,Bernstrasse,retail
+13,47.23109,8.669105,interdiscount-waedenswil,Wädenswil,8820,Florhofstrasse,id
+8,47.261044,8.597225,pronto-horgen-am-bahnhof,Horgen,8810,Bahnhofstrasse,pronto
+9,47.231083,8.669726,coop-supermarkt-waedenswil-di-alt-fabrik,Wädenswil,8820,Florhofstrasse,retail
+90,47.23025,7.775555,pronto-aarwangen,Aarwangen,4912,Langenthalstrasse,pronto
+6,47.230344,8.672377,coop-supermarkt-waedenswil,Wädenswil,8820,Zugerstrasse,retail
+19,46.974119,7.481887,pronto-ittigen-talgut-zentrum,Ittigen,3063,Talgut-Zentrum,pronto
+19,46.974227,7.48169,coop-supermarkt-ittigen,Ittigen,3063,Talgut-Zentrum,retail
+19,46.974227,7.48169,coop-restaurant-ittigen,Ittigen,3063,Talgut-Zentrum,restaurant
+1,46.293785,7.881673,pronto-visp-bahnhof,Visp,3930,Bahnhofplatz,pronto
+4,47.292235,7.942626,coop-supermarkt-zofingen,Zofingen,4800,Aarburgerstrasse,retail
+4,47.292235,7.942626,coop-restaurant-zofingen,Zofingen,4800,Aarburgerstrasse,restaurant
+1,46.292561,7.879548,interdiscount-visp-brueckenweg,Visp,3930,Kantonsstrasse,id
+1,46.292462,7.87956,impo-visp-centerpark-ip,Visp,3930,Kantonsstrasse,impo
+1,46.292372,7.879702,coop-supermarkt-visp-center,Visp,3930,Kantonsstrasse,retail
+26,47.24219,8.65561,coop-supermarkt-au-waedenswil,Au,8804,Alte Landstrasse,retail
+1,46.296049,7.866248,pronto-visp,Visp,3930,Wehreyering,pronto
+8,47.017781,7.501677,pronto-urtenen-schoenbuehl,Urtenen-Schönbühl,3322,Sandstrasse,pronto
+2,46.973132,7.473383,lumimart-ittigen,Ittigen,3063,Mittelweg,lumimart
+8,47.018663,7.500875,coop-supermarkt-schoenbuehl-center,Urtenen-Schönbühl,3322,Sandstrasse,retail
+8,47.018663,7.500875,coop-restaurant-schoenbuehl,Urtenen-Schönbühl,3322,Sandstrasse,restaurant
+240,46.928538,7.450455,coop-supermarkt-wabern,Wabern,3084,Seftigenstrasse,retail
+85,46.961899,7.465151,coop-supermarkt-bern-wankdorf,Bern,3014,Papiermühlestrasse,retail
+7,47.28924,8.539851,coop-supermarkt-langnau-am-albis,Langnau am Albis,8135,Höflistrasse,retail
+7,47.28924,8.539851,ca-puccini-langnau-ca-puccini,Langnau am Albis,8135,Höflistrasse,capuccini
+85,46.963599,7.465691,sapori-ditalia-bern-wankdorf-sapori,Bern,3014,Papiermühlestrasse,sapori
+85,46.963599,7.465691,interdiscount-bern-wankdorf,Bern,3014,Papiermühlestrasse,id
+26,47.278227,8.575391,coop-supermarkt-oberrieden,Oberrieden,8942,Alte Landstrasse,retail
+71,46.963635,7.465586,christ-bern-wankdorf-christ,Bern,3014,Papiermühlestrasse,christ
+85,46.963617,7.465572,coop-restaurant-bern-wankdorf-center,Bern,3014,Papiermühlestrasse,restaurant
+85,46.963644,7.465572,impo-bern-wankdorf-ip,Bern,3014,Papiermühlestrasse,impo
+85,46.963626,7.465533,coop-vitality-bern-wankdorf,Bern,3014,Papiermühlestrasse,vitality
+12,47.02049,7.49805,coop-supermarkt-schoenbuehl-dorf,Schönbühl,3322,Zentrumsplatz,retail
+62,47.267057,7.834946,pronto-murgenthal,Murgenthal,4853,Hauptstrasse,pronto
+60,47.267504,7.835623,coop-supermarkt-murgenthal,Murgenthal,4853,Hauptstrasse,retail
+4,47.284542,8.564329,coop-bau-hobby-b-h-thalwil,Thalwil,8800,Bönirainstrasse,bh
+2,46.959275,7.455007,coop-supermarkt-bern-breitenrain,Bern,3014,Stauffacherstrasse,retail
+2,46.959275,7.455007,coop-restaurant-bern-breitenrain,Bern,3014,Stauffacherstrasse,restaurant
+92,47.042417,7.503482,interdiscount-jegenstorf,Jegenstorf,3303,Bernstrasse,id
+90,47.041887,7.502902,interdiscount-onlineshop-b2c-id-ch,Jegenstorf,3303,Bernstrasse,id
+24,46.948139,7.44598,coop-city-city-marktgasse,Bern,3011,Marktgasse,city
+24,46.948112,7.445967,coop-supermarkt-city-bern-marktgasse-food,Bern,3011,Marktgasse,retail
+32-34,46.948238,7.445691,impo-bern-marktgasse-ip,Bern,3001,Marktgasse,impo
+42,46.962819,7.452223,pronto-bern-standstrasse,Bern,3014,Standstrasse,pronto
+4,47.049819,7.506281,coop-supermarkt-jegenstorf,Jegenstorf,3303,Bernstrasse,retail
+55,46.948014,7.444561,christ-bern-marktgasse-christ,Bern,3011,Marktgasse,christ
+67,47.288676,8.573935,pronto-thalwil,Thalwil,8800,Seestrasse,pronto
+16/18,47.305104,7.928704,lumimart-oftringen,Oftringen,4665,Nordstrasse,lumimart
+2,46.948364,7.443379,coop-supermarkt-bern-spitalgasse,Bern,3011,Spitalgasse,retail
+6,46.948589,7.443445,interdiscount-be-waisenhausplatz,Bern,3011,Waisenhausplatz,id
+3,46.948652,7.443458,interdiscount-bern,Bern,3011,Neuengass-Unterführung,id
+833,46.780994,7.408166,coop-supermarkt-rueschegg-heubach,Rüschegg-Heubach,3154,Aeugstenschwand,retail
+2,46.979073,7.457616,coop-supermarkt-worblaufen,Worblaufen,3048,Tiefenaustrasse,retail
+35,46.94778,7.441606,impo-bern-spitalgasse-ip,Bern,3000,Spitalgasse,impo
+37,46.947627,7.441474,coop-supermarkt-bern-schauplatzgasse,Bern,3011,Spitalgasse,retail
+26,46.949219,7.442079,coop-hotel-bern-hotel-savoy,Bern,3011,Neuengasse,hotel
+53,46.949552,7.442039,coop-supermarkt-city-bern-ryfflihof-food,Bern,3011,Aarbergergasse,retail
+53,46.949552,7.442039,coop-city-city-ryfflihof,Bern,3011,Aarbergergasse,city
+53,46.949552,7.442039,coop-restaurant-bern-ryfflihof,Bern,3011,Aarbergergasse,restaurant
+53,46.949552,7.442039,christ-bern-ryfflihof-christ,Bern,3011,Aarbergergasse,christ
+53,46.949552,7.442039,take-it-bern-ryfflihof-take-it,Bern,3011,Aarbergergasse,takeit
+53,46.949606,7.441553,impo-bern-ryfflihof-ip,Bern,3011,Aarbergergasse /Neuengasse,impo
+3,46.949228,7.441317,coop-vitality-bern-ryfflihof,Bern,3011,Genfergasse,vitality
+60,46.939477,7.436982,coop-supermarkt-bern-sulgenbach,Bern,3007,Eigerstrasse,retail
+10a,46.948841,7.440936,coop-to-go-bern-bahnhof-to-go,Bern,3011,Bahnhofplatz,togo
+17,47.294961,8.564152,impo-thalwil-gotthardstrasse-ip,Thalwil,8800,Gotthardstrasse,impo
+10A,46.948841,7.440279,coop-supermarkt-bern-rbs,Bern,3011,Bahnhofplatz RBS,retail
+,46.948841,7.440279,zopf-bern-bhf-marche-z-z,Bern,3000,Neuengass Unterführung,zopf
+10,46.948931,7.439925,coop-supermarkt-bern-bahnhof,Bern,3011,Bahnhofplatz,retail
+1,47.296627,8.562071,coop-vitality-thalwil,Thalwil,8800,Florastrasse,vitality
+1,47.296627,8.562137,coop-supermarkt-thalwil,Thalwil,8800,Florastrasse,retail
+1,47.296627,8.562137,coop-restaurant-thalwil,Thalwil,8800,Florastrasse,restaurant
+1,47.296636,8.562124,interdiscount-thalwil,Thalwil,8800,Florastrasse,id
+54,47.308407,7.926116,pronto-oftringen,Oftringen,4665,Luzernerstrasse,pronto
+4,46.94787,7.43781,coop-supermarkt-bern-postparc,Bern,3008,Schanzenstrasse,retail
+1,47.346978,8.245157,coop-supermarkt-villmergen,Villmergen,5612,Dorfplatz,retail
+14,47.200457,8.778165,coop-supermarkt-pfaeffikon-sz-etzelstrasse,Pfäffikon,8808,Etzelstrasse,retail
+ 65,47.279735,8.615184,coop-supermarkt-feldmeilen,Feldmeilen,8706,General-Willestrasse,retail
+65,47.279686,8.615553,ca-puccini-feldmeilen-ca-puccini,Feldmeilen,8706,General-Wille-Strasse,capuccini
+81,47.269932,8.642801,interdiscount-meilen,Meilen,8706,Dorfstrasse,id
+140,47.268607,8.646512,coop-supermarkt-meilen,Meilen,8706,Dorfstrasse,retail
+4,46.930356,7.428264,coop-supermarkt-koeniz-steinhoelzli,Liebefeld,3097,Kirchstrasse,retail
+189,47.000381,7.461554,pronto-zollikofen,Zollikofen,3052,Bernstrasse,pronto
+5A,46.941096,7.431479,coop-supermarkt-bern-eigerplatz,Bern,3007,Eigerplatz,retail
+18,47.347612,8.16171,coop-supermarkt-seon,Seon,5703,Unterdorfstrasse,retail
+2,47.202934,8.778649,coop-supermarkt-pfaeffikon-bahnhof,Pfäffikon,8808,Bahnweg,retail
+1,47.348476,8.269849,pronto-wohlen-bahnhof,Wohlen,5610,Bahnhofplatz,pronto
+25,47.324181,8.468472,coop-supermarkt-bonstetten,Bonstetten,8906,Im Heumoos,retail
+1,46.997135,7.458555,coop-supermarkt-zollikofen,Zollikofen,3052,Maritgasse,retail
+1,46.997135,7.458555,coop-restaurant-zollikofen,Zollikofen,3052,Märitgasse,restaurant
+5,47.08522,7.523656,coop-supermarkt-fraubrunnen,Fraubrunnen,3312,Bahnhofstrasse,retail
+45,47.334085,8.024959,coop-supermarkt-koelliken,Kölliken,5742,Hauptstrasse,retail
+2-6,47.350252,8.270499,coop-supermarkt-wohlen,Wohlen,5610,Alte Bahnhofstrasse,retail
+2,47.350252,8.270499,coop-vitality-wohlen-cv,Wohlen,5610,Alte Bahnhofstrasse,vitality
+59,47.350481,8.27119,interdiscount-wohlen,Wohlen,5610,Zenralstrasse,id
+3,47.313027,8.525316,coop-supermarkt-adliswil,Adliswil,8134,Poststrasse,retail
+45,47.286236,8.612842,coop-supermarkt-herrliberg,Herrliberg,8704,Forchstrasse,retail
+1,47.312153,7.916535,interdiscount-oftringen-perry,Oftringen,4665,Bernstrasse,id
+27-29,46.909925,7.41505,coop-supermarkt-koeniz-schliern,Schliern,3098,Schaufelweg,retail
+1,47.311896,7.913306,coop-vitality-oftringen-perry-center,Oftringen,4665,Bernstrasse,vitality
+,47.311896,7.913306,christ-oftringen-christ,Oftringen,4665,Perry Center,christ
+18,47.255445,8.689723,coop-supermarkt-maennedorf,Männedorf,8708,Dammstrasse,retail
+1,47.31205,7.912964,coop-supermarkt-oftringen-perry-center,Oftringen,4665,Bernstrasse,retail
+1,47.31205,7.912964,impo-oftringen-perry-center-ip,Oftringen,4665,Bernstrasse,impo
+63,46.95637,7.432029,coop-supermarkt-bern-zaehringerstrasse,Bern,3012,Zähringerstrasse,retail
+20,46.945432,7.426777,coop-supermarkt-bern-brunnmatt,Bern,3007,Brunnmattstrasse,retail
+133,47.202224,8.789389,coop-bau-hobby-b-h-pfaeffikon-sz,Pfäffikon,8808,Churerstrasse,bh
+85,47.353362,8.253234,coop-bau-hobby-b-h-villmergen,Villmergen,5612,Anglikerstrasse,bh
+126,47.305978,7.888512,coop-supermarkt-rothrist,Rothrist,4852,Bernstrasse,retail
+93,47.262615,8.677139,coop-supermarkt-uetikon,Uetikon,8707,Bergstrasse,retail
+11,47.307669,8.554223,coop-supermarkt-rueschlikon,Rüschlikon,8803,Weingartenstrasse,retail
+6,47.200613,8.793229,interdiscount-pfaeffikon-sz-seedamm,Pfäffikon,8808,Seedamm-Center,id
+1,46.953896,7.428719,coop-supermarkt-bern-muesmatt,Bern,3012,Genossenweg,retail
+,47.200842,8.793671,christ-pfaeffikon-sz-seedamm-christ,Pfäffikon,8808,Seedamm Center,christ
+15,47.200611,8.794972,coop-supermarkt-pfaeffikon-sz-seedamm,Pfäffikon,8808,Gwattstrasse,retail
+5,46.923293,7.415477,coop-supermarkt-koeniz-stapfenmaerit,Köniz,3098,Stapfenstrasse,retail
+5,46.923293,7.415477,coop-restaurant-koeniz-stapfenmaerit,Köniz,3098,Stapfenstrasse,restaurant
+4+6,47.241593,8.724681,coop-supermarkt-staefa,Stäfa,8712,Kronenstrasse,retail
+23,46.314966,7.744218,coop-supermarkt-gampel,Gampel,3945,Bahnhofstrasse,retail
+7,47.131686,7.556786,coop-supermarkt-utzenstorf,Utzenstorf,3427,Unterdorfstrasse,retail
+2,47.351651,8.34857,coop-supermarkt-bremgarten,Bremgarten,5620,Sonnengutstrasse,retail
+2,47.313755,7.893855,pronto-rothrist,Rothrist,4852,Neue Aarburgerstrasse,pronto
+72,47.193941,8.817252,pronto-altendorf,Altendorf,8852,Zürcherstrasse,pronto
+200,47.326264,8.514248,coop-supermarkt-zuerich-leimbach,Zürich,8041,Leimbachstrasse,retail
+104,47.198008,8.812698,livique-altendorf,Altendorf,8852,Zürcherstrasse,livique
+2,47.355549,8.349378,pronto-bremgarten,Bremgarten,5620,Badenerstrasse,pronto
+43,47.350002,8.051629,pronto-oberentfelden,Oberentfelden,5036,Industriestrasse,pronto
+3,47.174189,7.59917,coop-supermarkt-kriegstetten,Kriegstetten,4566,Haltenstrasse,retail
+80,47.34883,8.036807,livique-oberentfelden,Oberentfelden,5036,Köllikerstrasse,livique
+125,47.362543,8.266242,pronto-wohlen,Wohlen,5610,Raimattstrasse,pronto
+17,47.307028,8.589256,coop-supermarkt-erlenbach,Erlenbach,8703,Seestrasse,retail
+30,47.358673,8.098971,coop-supermarkt-graenichen,Gränichen,5722,Mitteldorfstrasse,retail
+802,46.885441,7.388322,coop-supermarkt-niederscherli,Niederscherli,3145,Schwarzenburgstrasse,retail
+114,47.327449,8.529856,pronto-adliswil,Adliswil ZH,8134,Zürichstrasse,pronto
+1,46.943853,7.406169,coop-supermarkt-bern-europaplatz,Bern,3008,Europaplatz,retail
+1a,46.943853,7.406169,coop-vitality-bern,Bern,3008,Europaplatz,vitality
+11,47.32311,8.548989,coop-supermarkt-kilchberg,Kilchberg,8802,Bahnhofstrasse,retail
+39,47.019831,7.444688,coop-supermarkt-muenchenbuchsee,Münchenbuchsee,3053,Oberdorfstrasse,retail
+39,47.019831,7.444688,coop-restaurant-muenchenbuchsee,Münchenbuchsee,3053,Oberdorfstrasse,restaurant
+2,47.131173,7.537911,coop-supermarkt-baetterkinden,Bätterkinden,3315,Kyburgstrasse,retail
+8,47.173362,7.585264,pronto-obergerlafingen,Obergerlafingen,4564,Bolacker,pronto
+,47.309938,7.846597,pronto-gunzgen-sued-raststaette,Gunzgen,4616,Autobahnraststätte A1,pronto
+,47.310092,7.846519,marche-marche-gunzgen-sued,Kappel,4616,A1 (Richtung Zürich),marche
+3,47.361708,8.367712,coop-supermarkt-berikon,Berikon,8965,Bahnhofstrasse,retail
+6,47.370107,8.23171,pronto-dintikon,Dintikon,5606,Gartenweg,pronto
+61,47.342822,8.483085,coop-supermarkt-stallikon,Stallikon,8143,Sellenbüren,retail
+21,47.026568,7.444083,pronto-muenchenbuchsee,Münchenbuchsee,3053,Bielstrasse,pronto
+1,47.363706,8.091806,pronto-graenichen,Gränichen,5722,Mattenstrasse,pronto
+8,47.196504,7.612618,coop-supermarkt-subingen,Subingen,4553,Wachtelweg,retail
+16,47.317962,8.581581,coop-supermarkt-kuesnacht-dorf,Küsnacht,8700,Dorfstrasse,retail
+13A,47.353812,8.436602,coop-supermarkt-birmensdorf,Birmensdorf,8903,Zürcherstrasse,retail
+3,47.360569,8.051989,coop-supermarkt-unterentfelden,Unterentfelden,5035,Schinhuetweg,retail
+3,47.360764,8.0526,ca-puccini-unterentfelden-ca-puccini,Unterentfelden,5035,Schinhuetweg,capuccini
+52,47.361339,8.052633,coop-bau-hobby-b-h-unterentfelden,Unterentfelden,5035,Suhrenmattstrasse,bh
+89,46.937786,7.393408,pronto-bern-morgenstrasse,Bern,3018,Morgenstrasse,pronto
+1,47.171065,7.573057,coop-supermarkt-gerlafingen,Gerlafingen,4563,Kriegstettenstrasse,retail
+118,46.941348,7.39175,coop-restaurant-bern-buempliz,Bern,3018,Brünnenstrasse,restaurant
+118,46.941402,7.391763,interdiscount-bern-bruennenstrasse,Bern,3018,Brünnenstrasse,id
+117,46.941887,7.391855,coop-supermarkt-bern-buempliz,Bern,3018,Brünnenstrasse,retail
+127,47.336224,7.907304,pronto-aarburg,Aarburg,4663,Oltnerstrasse,pronto
+15,46.950928,7.3932,pronto-bern-bethlehem,Bern,3027,Eymattstrasse,pronto
+9,47.191192,8.854767,interdiscount-lachen,Lachen,8853,Oberdorfstrasse,id
+7/9,46.950712,7.392188,coop-supermarkt-bern-bethlehem,Bern,3027,Kasparstrasse,retail
+7/9,46.950712,7.392188,coop-bau-hobby-b-h-bern-bethlehem,Bern,3027,Kasparstrasse,bh
+7/9,46.950712,7.392188,coop-restaurant-bern-bethlehem,Bern,3027,Kasparstrasse,restaurant
+7+9,46.950712,7.392175,interdiscount-bern-bethlehem,Bern,3027,Kasparstrasse,id
+39,47.327262,8.574411,coop-bau-hobby-b-h-kuesnacht,Küsnacht,8700,Seestrasse,bh
+39,47.327262,8.574411,interdiscount-kuesnacht,Küsnacht,8700,Seestrasse,id
+7/9,46.950874,7.392044,livique-bern-bethlehem,Bern,3027,Kasparstrasse,livique
+6,47.19143,8.855868,coop-supermarkt-lachen,Lachen,8853,Feldstrasse,retail
+15,47.340169,8.530659,coop-supermarkt-zuerich-wollishofen,Zürich,8038,Alte Kalchbühlstrasse,retail
+5,47.234351,7.656161,coop-supermarkt-wangen-an-der-aare,Wangen an der Aare,3380,Vorstadt,retail
+3,47.198691,7.598913,pronto-derendingen,Derendingen,4552,Fabrikstrasse,pronto
+553,46.925249,7.37803,coop-supermarkt-niederwangen,Niederwangen,3172,Freiburgstrasse,retail
+110/112,47.359615,8.45392,pronto-birmensdorf,Birmensdorf,8903,Zürcherstrasse,pronto
+10,46.927488,7.377148,lumimart-niederwangen,Niederwangen,3172,Riedmoosstrasse,lumimart
+20,47.381651,8.239033,coop-supermarkt-dottikon,Dottikon,5605,Bahnhofstrasse,retail
+12,47.374293,8.077304,coop-supermarkt-suhr,Suhr,5034,Obere Dorfstrasse,retail
+101,47.346743,7.921477,coop-supermarkt-olten-wilerfeld,Olten,4600,Wilerweg,retail
+2,47.225321,8.817889,coop-supermarkt-rapperswil-bahnhof,Rapperswil,8640,Untere Bahnhofstrasse,retail
+35,47.196307,7.586026,coop-supermarkt-derendingen,Derendingen,4552,Steinmattstrasse,retail
+3,47.353718,7.945708,coop-supermarkt-dulliken,Dulliken,4657,Jurastrasse,retail
+,47.377879,8.089026,interdiscount-suhr,Suhr,5034,Bernstrasse-Ost,id
+,47.327045,8.601555,coop-supermarkt-kuesnacht-itschnach,Küsnacht,8700,Ecke Sonnenrein/Zumikerstrasse,retail
+339,47.347127,8.533104,coop-supermarkt-zuerich-wollishofen-seestr-,Zürich,8038,Seestrasse,retail
+,47.346091,7.909376,interdiscount-olten-saelipark,Olten,4600,Sälipark,id
+44,47.18187,7.563256,coop-supermarkt-biberist,Biberist,4562,Hauptstrasse,retail
+44,47.18187,7.563256,coop-restaurant-biberist,Biberist,4562,Hauptstrasse,restaurant
+44,47.181879,7.563242,coop-vitality-biberist,Biberist,4562,Hauptstrasse,vitality
+49,47.353567,7.934946,pronto-dulliken,Dulliken,4657,alte Landstrasse,pronto
+ 24,47.347102,7.908696,coop-supermarkt-olten-saelihof,Olten,4600,Von Roll-Strasse,retail
+40,46.948573,7.377085,coop-supermarkt-bern-gaebelbach,Bern,3027,Weiermattstrasse,retail
+101,47.336909,8.576668,coop-supermarkt-zollikon,Zollikon,8702,Alte Landstrasse,retail
+22,47.227547,8.822014,coop-supermarkt-rapperswil,Rapperswil,8640,Jägerweg,retail
+4,47.229064,8.820799,impo-rapperswil-ip,Rapperswil,8640,Zürcherstrasse,impo
+4,47.229172,8.820775,christ-rapperswil-christ,Rapperswil,8640,Zürcherstrasse,christ
+1,47.386272,8.130701,pronto-hunzenschwil,Hunzenschwil,5502,Gewerbestrasse,pronto
+2,47.269498,7.693503,coop-supermarkt-niederbipp,Niederbipp,4704,Bahnhofstrasse,retail
+10,47.316773,7.801191,livique-egerkingen-hausimol,Egerkingen,4622,Hausimollstrasse,livique
+1,47.317255,7.802451,coop-bau-hobby-b-h-egerkingen-gaeupark,Egerkingen,4622,Hausimollstrasse,bh
+10,46.819799,7.341903,coop-supermarkt-schwarzenburg,Schwarzenburg,3150,Bernstrasse,retail
+10,46.819799,7.341903,coop-restaurant-schwarzenburg,Schwarzenburg,3150,Bernstrasse,restaurant
+,47.228682,7.621477,marche-marche-deitingen-nord,Deitingen,4543,A1 (Richtung Bern),marche
+,47.226081,7.616833,cindy-cindy-s-diner-deitingen-sued,Deitingen,4543,A1 (Richtung Basel/Zürich),cindy
+3,47.317981,7.803091,coop-supermarkt-egerkingen-gaeupark,Egerkingen,4622,Hausimollstrasse,retail
+3,47.317981,7.803091,coop-restaurant-egerkingen-gaeupark,Egerkingen,4622,Hausimollstrasse,restaurant
+ 3,47.317981,7.803091,coop-vitality-einkaufszentrum-gaeupark,Egerkingen,4622,Hausimollstrasse,vitality
+3,47.317981,7.803091,take-it-egerkingen-gaeupark,Egerkingen,4622,Hausimollstrasse,takeit
+3,47.317981,7.803077,interdiscount-egerkingen-gaeupark,Egerkingen,4622,Hausimollstrasse,id
+1,47.368123,8.462264,coop-supermarkt-uitikon-waldegg,Uitikon,8142,Zürcherstrasse,retail
+4,47.233882,8.818903,interdiscount-rapperswil,Rapperswil,8640,Zürcherstrasse,id
+3,47.318548,7.803161,pronto-egerkingen-gaeupark,Egerkingen,4622,Hausimollstrasse,pronto
+2,47.389857,8.170654,interdiscount-lenzburg,Lenzburg,5600,Zeughausstrasse,id
+31,47.389892,8.170906,coop-supermarkt-lenzburg,Lenzburg,5600,Augustin-Keller-Strasse,retail
+31,47.389892,8.170906,coop-restaurant-lenzburg,Lenzburg,5600,Augustin-Keller-Strasse,restaurant
+31,47.389892,8.170906,coop-vitality-lenzburg,Lenzburg,5600,Augustin-Keller-Strasse,vitality
+31,47.389961,8.171371,impo-lenzburg-ip,Lenzburg,5600,Augustin-Keller-Strasse,impo
+1,47.175695,8.901946,coop-supermarkt-siebnen,Siebnen,8854,Stockbergstrasse,retail
+5,47.388539,8.137988,coop-restaurant-schafisheim,Schafisheim,5503,Rupperswilerstrasse,restaurant
+10,47.350534,7.90293,coop-supermarkt-city-olten,Olten,4600,Baslerstrasse,retail
+10,47.350534,7.90293,coop-city-city-olten,Olten,4600,Baslerstrasse,city
+10,47.350534,7.90293,coop-restaurant-olten,Olten,4600,Baslerstrasse,restaurant
+10,47.350534,7.90293,impo-olten-city-ip,Olten,4601,Baslerstrasse,impo
+10,47.350534,7.90293,christ-olten-baslerstrasse-christ,Olten,4600,Baslerstr.,christ
+,47.352133,7.907894,coop-supermarkt-olten-bahnhof,Olten,4600,Im Bahnhof,retail
+,46.439574,8.95296,coop-supermarkt-dongio,Dongio,6715,Centro Commerciale ISRA,retail
+5,47.373237,8.001861,coop-supermarkt-schoenenwerd,Schönenwerd,5012,Gösgerstrasse,retail
+37,47.351723,7.902411,interdiscount-olten-baslerstrasse,Olten,4600,Baslerstrasse,id
+32,47.373165,7.999887,pronto-schoenenwerd,Schönenwerd,5012,Gösgerstrasse,pronto
+9,47.334214,7.841663,coop-supermarkt-haegendorf,Hägendorf,4614,Eigasse,retail
+83,47.343381,7.871082,coop-supermarkt-wangen-bei-olten,Wangen bei Olten,4612,Dorfstrasse,retail
+19,47.273789,7.693074,pronto-niederbipp,Niederbipp,4704,Untere Dürrmühlestrasse,pronto
+1,47.358041,8.523241,coop-city-city-zuerich-sihlcity,Zürich,8045,Kalanderplatz,city
+1,47.358041,8.523241,impo-zuerich-sihlcity-city-ip,Zürich,8045,Kalanderplatz,impo
+1,47.358041,8.523241,christ-zuerich-sihlcity-christ,Zürich,8045,Kalanderplatz,christ
+1,47.358209,8.522596,interdiscount-zuerich-sihlcity,Zürich,8045,Kalanderplatz,id
+1,47.358068,8.523189,coop-supermarkt-zuerich-sihlcity-supermarkt,Zürich,8045,Kalanderplatz,retail
+1,47.358086,8.523216,coop-vitality-zuerich-sihl-city,Zürich,8045,Kalanderplatz,vitality
+20,47.341949,7.864269,pronto-wangen-bei-olten,Wangen b. Olten,4612,Dorfstrasse,pronto
+2,46.987895,7.384808,coop-supermarkt-uettligen,Uettligen,3043,Säriswilstrasse,retail
+13,47.304019,8.691562,coop-supermarkt-egg,Egg ZH,8132,Gewerbestrasse,retail
+2,47.289135,7.719691,coop-supermarkt-oensingen,Oensingen,4702,Mühlefeldcenter,retail
+45,47.201427,7.569557,coop-bau-hobby-b-h-zuchwil,Zuchwil,4528,Dorfackerstrasse,bh
+3,47.32147,7.794741,coop-supermarkt-egerkingen,Egerkingen,4622,Bahnhofstrasse,retail
+15,47.252851,7.647491,coop-supermarkt-wiedlisbach,Wiedlisbach,4537,Bahnhofstrasse,retail
+,47.202821,7.569547,interdiscount-zuchwil-xxl,Zuchwil,4528,Einkaufszentrum N5 (A5),id
+14,47.332706,8.623391,coop-supermarkt-zumikon,Zumikon,8126,Dorfplatz,retail
+17,47.231625,8.83674,coop-supermarkt-jona-eisenhof,Jona,8645,Allmeindstrasse,retail
+19,47.215995,7.58686,coop-supermarkt-luterbach,Luterbach,4542,Hauptstrasse,retail
+199,47.353372,8.559083,coop-supermarkt-zuerich-tiefenbrunnen,Zürich,8008,Seefeldstrasse,retail
+20,47.232475,8.837119,coop-vitality-jona,Jona,8645,Allmeindstrasse,vitality
+85,47.370501,8.491982,coop-supermarkt-zuerich-triemli,Zürich,8047,In der Ey,retail
+52,47.389721,8.070244,coop-supermarkt-buchs-ag,Buchs,5033,Mitteldorfstrasse,retail
+39,47.336808,8.618189,coop-supermarkt-zumikon-morgental,Zumikon,8126,Morgental,retail
+20,47.364952,8.521038,coop-supermarkt-zuerich-manessehof,Zürich,8045,Uetlibergstrasse,retail
+79,47.38503,8.422313,coop-supermarkt-urdorf,Urdorf,8902,Birmensdorferstrasse,retail
+9,47.22842,8.84874,lumimart-jona,Jona,8645,Feldlistrasse,lumimart
+9,47.22841,8.848819,coop-bau-hobby-b-h-jona,Jona,8645,Feldlistrasse,bh
+2,47.400744,8.215646,coop-supermarkt-othmarsingen,Othmarsingen,5504,Bünzweg,retail
+123,47.358103,8.554457,coop-supermarkt-zuerich-seefeld,Zürich,8008,Seefeldstrasse,retail
+10,47.364427,8.530957,coop-supermarkt-zuerich-enge-bahnhof,Zürich,8002,Tessinerplatz,retail
+3,47.364415,8.532188,pronto-zuerich-am-bahnhof-enge,Zürich,8002,Tessinerplatz,pronto
+120,47.229777,8.848855,coop-supermarkt-jona-center,Jona,8645,St. Gallerstrasse,retail
+8,46.311441,7.643967,coop-supermarkt-susten,Susten,3952,Bahnhofstrasse,retail
+134,47.347011,8.596643,coop-supermarkt-zollikerberg-neumuenster,Zollikerberg,8125,Forchstrasse,retail
+115,47.387469,8.026526,coop-bau-hobby-b-h-woeschnau,Wöschnau,5012,Industriestrasse,bh
+5,47.361527,7.900232,coop-supermarkt-trimbach,Trimbach,4632,Winznauerstrasse,retail
+54,47.203336,7.558963,coop-supermarkt-zuchwil,Zuchwil,4528,Hauptstrasse,retail
+334,47.375852,8.487069,ca-puccini-zuerich-a-park-ca-puccini,Zürich,8047,Albisriedstrasse,capuccini
+334,47.375888,8.487096,coop-supermarkt-zuerich-a-park,Zürich,8047,Albisriederstrasse,retail
+180,47.346122,8.601852,coop-supermarkt-zollikerberg,Zollikerberg,8125,Forchstrasse,retail
+3,47.370097,8.514271,coop-supermarkt-zuerich-zentrum-friesenberg,Zürich,8045,Friesenbergplatz,retail
+3C,47.391539,8.051657,sapori-ditalia-aarau-bahnhof-sapori,Aarau,5000,Bahnhofplatz,sapori
+3D,47.391868,8.052429,coop-supermarkt-aarau-bahnhof,Aarau,5000,Bahnhofplatz,retail
+11,47.391247,8.045653,impo-aarau-hintere-vorstadt-11-ip,Aarau,5000,Hintere Vorstadt,impo
+11,47.391265,8.045627,christ-aarau-christ,Aarau,5000,Hintere Vorstadt,christ
+10,47.391476,8.044901,impo-aarau-hintere-vorstadt-ip,Aarau,5000,Hintere Vorstadt,impo
+159,47.373698,8.50236,coop-supermarkt-zuerich-gutstrasse,Zürich,8047,Gutstrasse,retail
+17,47.391677,8.045976,coop-supermarkt-city-aarau-food,Aarau,5000,Igelweid,retail
+17,47.391677,8.045976,coop-city-city-aarau,Aarau,5000,Igelweid,city
+17,47.391677,8.045976,coop-restaurant-aarau,Aarau,5000,Igelweid,restaurant
+200,47.370729,8.515939,coop-supermarkt-zuerich-wiedikon,Zürich,8003,Birmensdorferstrasse,retail
+200,47.370729,8.515939,coop-restaurant-zuerich-wiedikon,Zürich,8003,Birmensdorferstrasse,restaurant
+200,47.370756,8.515926,coop-vitality-zuerich-wiedikon,Zürich,8003,Birmensdorferstrasse,vitality
+29,47.391888,8.04525,interdiscount-aarau-xxl,Aarau,5000,Graben,id
+42,46.994913,9.075389,coop-supermarkt-schwanden,Schwanden,8762,Hauptstrasse,retail
+35,47.363084,8.550033,coop-supermarkt-zuerich-brotgasse,Zürich,8008,Seefeldstrasse,retail
+116,47.366337,7.909713,coop-bau-hobby-b-h-trimbach,Trimbach,4632,Winznauerstrasse,bh
+19,47.367773,8.535713,coop-supermarkt-zuerich-bleicherweg,Zürich,8002,Bleicherweg,retail
+55,47.371372,8.525075,pronto-zuerich-wiedikon,Zürich,8004,Birmensdorferstrasse,pronto
+4,47.364351,8.554919,coop-supermarkt-zuerich-kreuzplatz,Zürich,8008,Forchstrasse,retail
+99,46.31598,7.625133,pronto-susten,Susten,3952,Kantonstrasse,pronto
+10,47.366568,8.547895,impo-zuerich-stadelhof-ip,Zürich,8001,Stadelhoferstrasse,impo
+18,47.3671,8.545867,impo-zuerich-bellevue-city-ip,Zürich,8024,Theaterstrasse,impo
+18,47.367091,8.545907,coop-supermarkt-city-zuerich-bellevue-food,Zürich,8024,Theaterstrasse,retail
+18,47.367091,8.545907,coop-restaurant-zuerich-bellevue,Zürich,8024,Theaterstrasse,restaurant
+10,47.366604,8.547856,coop-supermarkt-zuerich-stadelhofen,Zürich,8001,Stadelhoferstrasse,retail
+8,47.366604,8.547856,zopf-stadelhofen-bhf-marche-z-z,Zürich,8001,Stadelhoferstrasse,zopf
+18,47.367134,8.54608,coop-city-city-zuerich-bellevue,Zürich,8001,Theaterstrasse,city
+8,47.3666,8.548359,coop-to-go-zuerich-stadelhofen-to-go,Zürich,8001,Stadelhoferstrasse,togo
+20,47.368993,8.539776,interdiscount-zuerich-shop-ville,Zürich,8001,Bahnhofpassage,id
+16,47.370026,8.537096,coop-supermarkt-zuerich-baerengasse,Zürich,8001,Bärengasse,retail
+18,47.398362,8.062425,pronto-aarau-telli,Aarau,5004,Delfterstrasse,pronto
+67,47.398025,8.058209,coop-supermarkt-aarau-telli,Aarau,5004,Tellistrasse,retail
+67,47.398025,8.058209,coop-restaurant-aarau-telli,Aarau,5004,Tellistrasse,restaurant
+244,47.375819,8.517061,coop-supermarkt-zuerich-lochergut,Zürich,8004,Badenerstrasse,retail
+67,47.398593,8.05803,impo-aarau-telli-ip,Aarau,5004,Tellistrasse,impo
+120,47.374452,8.523747,pronto-zuerich-badenerstrasse-120,Zürich,8004,Badenerstrasse,pronto
+44,47.373438,8.528242,pronto-zuerich-stauffacher,Zürich,8004,Badenerstrasse,pronto
+300,47.377791,8.510043,interdiscount-zuerich-albisriederplatz,Zürich,8003,Zurlindenstrasse,id
+333,47.377691,8.511167,coop-supermarkt-zuerich-albisriederplatz,Zürich,8003,Badenerstrasse,retail
+15,47.373337,8.530425,coop-to-go-zuerich-stauffacher-to-go,Zürich,8004,Badenerstrasse,togo
+15,47.373427,8.53044,interdiscount-zuerich-stauffacher,Zürich,8004,Badenerstrasse,id
+15,47.373445,8.5304,coop-supermarkt-zuerich-stauffacher,Zürich,8004,Badenerstrasse,retail
+48,47.401913,8.080841,coop-supermarkt-rohr,Rohr,5032,Hauptstrasse,retail
+2,47.373756,8.529824,impo-zuerich-lutherstrasse-ip,Zürich,8004,Lutherstrasse,impo
+15,47.364144,8.566962,pronto-zuerich-klusplatz,Zürich,8032,Witikonerstrasse,pronto
+7,47.373416,8.534425,pronto-zuerich-loewenstrasse,Zürich,8001,Löwenstrasse,pronto
+34,47.373138,8.53622,interdiscount-zuerich-sihlstrasse-xxl,Zürich,8001,Sihlstrasse,id
+57,47.372925,8.537818,coop-supermarkt-city-zuerich-st--annahof-food,Zürich,8001,Bahnhofstrasse,retail
+57,47.372925,8.537818,coop-city-city-zuerich-st--annahof,Zürich,8001,Bahnhofstrasse,city
+57,47.372925,8.537818,coop-restaurant-zuerich-st--annahof,Zürich,8001,Bahnhofstrasse,restaurant
+57,47.372925,8.537818,take-it-city-st--annahof-take-it,Zürich,8001,Bahnhofstrasse,takeit
+57,47.372943,8.537766,impo-zuerich-st--annahof-city-ip,Zürich,8001,Bahnhofstrasse,impo
+19,46.555884,7.373528,coop-supermarkt-zweisimmen,Zweisimmen,3770,Thunstrasse,retail
+104,47.367819,8.56083,coop-supermarkt-zuerich-roemerhof,Zürich,8032,Klosbachstrasse,retail
+1,47.374267,8.537621,christ-zuerich-jelmoli-christ,Zürich,8021,Seidengasse,christ
+6,47.412054,8.223033,pronto-maegenwil,Mägenwil,5506,Weststrasse,pronto
+35,47.377116,8.526463,coop-supermarkt-zuerich-hohlstrasse,Zürich,8004,Hohlstrasse,retail
+9,47.398128,8.417865,coop-supermarkt-dietikon-brunau,Dietikon,8953,Birmendorferstrasse,retail
+575,47.38456,8.495942,pronto-zuerich-kiss,Zürich,8048,Badenerstrasse,pronto
+78,47.374937,8.539038,christ-zuerich-bahnhofstrasse-christ,Zürich,8001,Bahnhofstr.,christ
+14,47.38976,8.471991,coop-supermarkt-zuerich-suteracher,Zürich,8048,Am Suteracher,retail
+6,46.456249,7.442334,coop-supermarkt-lenk,Lenk,3775,Kronenplatz,retail
+6,47.387598,8.485287,coop-supermarkt-zuerich-lindenplatz,Zürich,8048,Lindenplatz,retail
+409,47.360161,8.59493,coop-supermarkt-zuerich-witikonerstrasse,Zürich,8053,Witikonerstrasse,retail
+19,47.204696,7.53843,coop-supermarkt-solothurn-rosengarten,Solothurn,4500,Rossmarktplatz,retail
+81,47.375954,8.539019,impo-zuerich-bahnhofstrasse-ip,Zürich,8001,Bahnhofstrasse,impo
+81,47.375981,8.538994,coop-vitality-zuerich-bahnhofstrasse,Zürich,8001,Bahnhofstrasse,vitality
+52,47.37628,8.537795,interdiscount-zuerich-loewenstrasse,Zürich,8001,Löwenstrasse,id
+650,47.387481,8.489218,coop-supermarkt-zuerich-altstetten,Zürich,8048,Badenerstrasse,retail
+30,46.89002,7.316912,pronto-flamatt,Flamatt,3175,Bernstrasse,pronto
+50,47.386351,8.498772,karma-shop-zuerich-letzipark-karma,Zürich,8048,Baslerstrasse,karma
+50,47.386351,8.498772,coop-to-go-letzipark-to-go,Zürich,8048,Baslerstrasse,togo
+50,47.386351,8.498772,interdiscount-zuerich-letzipark,Zürich,8066,Baslerstrasse,id
+50,47.38636,8.498772,coop-supermarkt-zuerich-letzipark,Zürich,8048,Baslerstrasse,retail
+50,47.38636,8.498772,coop-bau-hobby-b-h-zuerich-letzipark,Zürich,8048,Baslerstrasse,bh
+50,47.38636,8.498772,take-it-zuerich-letzipark-take-it,Zürich,8048,Baslerstrasse,takeit
+5,47.378098,8.534945,coop-supermarkt-zuerich-europaallee-passage,Zürich,8001,Europaalle,retail
+,47.386293,8.499181,impo-zuerich-letzipark-ip,Zürich,8066,Einkaufszentrum Letzipark,impo
+50,47.386486,8.498748,coop-vitality-zuerich-letzipark,Zürich,8048,Baslerstrasse,vitality
+2,46.24572,8.704692,coop-supermarkt-maggia,Maggia,6673,Via Lüvèira,retail
+1,47.376707,8.54212,coop-supermarkt-zuerich-bahnhofbruecke,Zürich,8001,Bahnhofbrücke,retail
+22+24,47.403744,8.402587,coop-supermarkt-dietikon-florastrasse,Dietikon,8953,Florastrasse,retail
+9,47.396847,8.448707,impo-schlieren-ip,Schlieren,8952,Uitikonerstr.,impo
+,47.37777,8.540077,christ-zuerich-hauptbahnhof,Zürich,8001,Passage Löwenstrasse,christ
+,47.377722,8.540367,coop-to-go-zuerich-hb-to-go,Zürich,8001,Halle Landesmuseum,togo
+,47.377777,8.540289,coop-supermarkt-zuerich-shopville-hb,Zürich,8021,Halle Löwenstrasse,retail
+61,47.377777,8.540289,impo-zuerich-shopville-ip,Zürich,8001,Löwenstrasse,impo
+10,47.39846,8.006909,coop-supermarkt-erlinsbach,Erlinsbach,5015,Stüsslingerstrasse,retail
+461,47.387483,8.498874,pronto-zuerich-letzipark,Zürich,8048,Hohlstrasse,pronto
+6,47.397295,8.448875,coop-supermarkt-schlieren-lilien,Schlieren,8952,Zürcherstrasse,retail
+6,47.397295,8.448875,coop-restaurant-schlieren-lilien,Schlieren,8952,Zürcherstrasse,restaurant
+,47.378235,8.540311,zopf-zuerich-bhf-marche-z-z,Zürich,8001,Passage Gessnerallee,zopf
+,47.378235,8.540311,interdiscount-zuerich-hauptbahnhof,Zürich,8001,Halle Landesmuseum / Zürich HB,id
+38,47.405818,8.392197,coop-supermarkt-dietikon-steinmuerlistrasse,Dietikon,8953,Steinmürlistrasse,retail
+20,46.889702,7.314092,coop-supermarkt-flamatt,Flamatt,3175,Bernstrasse,retail
+37-39,47.207522,7.536455,interdiscount-solothurn-hauptgasse-37,Solothurn,4500,Hauptgasse,id
+2,47.208035,7.536747,impo-solothurn-marktplatz-ip,Solothurn,4500,Marktplatz,impo
+1/3,47.041035,7.378978,coop-supermarkt-schuepfen,Schüpfen,3054,Leiernstrasse,retail
+812,47.393353,8.474485,pronto-zuerich-altstetten,Zürich-Altstetten,8048,Badenerstrasse,pronto
+12,47.208062,7.536337,christ-solothurn-manor-christ,Solothurn,4500,Gurzelngasse,christ
+42,47.380479,8.534253,coop-supermarkt-zuerich-zollstrasse,Zürich,8005,Zollstrasse,retail
+1,47.304124,7.694832,pronto-klus-balsthal,Klus-Balsthal,4710,Wengimattstrasse,pronto
+6-8,47.04017,9.069598,coop-supermarkt-glarus,Glarus,8750,Burgstrasse,retail
+560,47.390999,8.489168,pronto-zuerich-hohlstrasse,Zürich,8048,Hohlstrasse,pronto
+6,47.207245,7.533841,coop-supermarkt-solothurn-westring,Solothurn,4500,Schanzenstrasse,retail
+5,47.40025,8.441075,coop-supermarkt-schlieren-rietpark,Schlieren,8952,Goldschlägiplatz,retail
+11,47.406142,8.404114,pronto-dietikon-am-bahnhof,Dietikon,8953,Bahnhofplatz,pronto
+50-52,47.382842,8.529785,coop-to-go-zuerich-neugasse,Zürich,8005,Neugasse,togo
+1,47.38585,8.516893,coop-supermarkt-zuerich-maagplatz,Zürich,8005,Maagplatz,retail
+,47.392161,8.490012,coop-supermarkt-zuerich-westlink,Zürich,8048,Vulkanplatz,retail
+221,47.38649,8.517714,pronto-zuerich-prime-tower,Zürich,8005,Hardstrasse,pronto
+110,47.351238,8.642426,coop-supermarkt-ebmatingen-getraenkemarkt,Ebmatingen,8123,Zürichstrasse,retail
+75,47.376403,8.559713,coop-supermarkt-zuerich-fluntern,Zürich,8044,Zürichbergstrasse,retail
+48,47.38471,8.527254,coop-supermarkt-zuerich-josefstrasse,Zürich,8005,Röntgenstrasse,retail
+21,47.418725,8.269898,coop-vitality-reusstalcenter,Mellingen,5507,Birrfeldstrasse,vitality
+21,47.418752,8.269925,coop-supermarkt-mellingen,Mellingen,5507,Birrfeldstrasse,retail
+3,47.270128,8.823329,coop-supermarkt-bubikon,Bubikon,8608,Ritterhausstrasse,retail
+,47.305563,8.757301,coop-supermarkt-gossau-zh,Gossau,8625,Büelgass,retail
+106,47.391232,8.507942,coop-supermarkt-zuerich-hard-turm-park,Zürich,8005,Pfingstweidstrasse,retail
+1,47.067796,9.057758,pronto-netstal,Netstal,8754,Grosszaun,pronto
+,46.412378,8.977502,coop-supermarkt-malvaglia,Malvaglia,6713,Malvaglia,retail
+41,47.067397,9.058615,interdiscount-netstal,Netstal,8754,Molliserstrasse,id
+41,47.067388,9.058654,coop-supermarkt-netstal-wiggispark,Netstal,8754,Molliserstrasse,retail
+41,47.067388,9.058654,coop-bau-hobby-b-h-netstal-wiggispark,Netstal,8754,Molliserstrasse,bh
+41,47.067388,9.058654,coop-restaurant-netstal-wiggispark,Netstal,8754,Molliserstrasse,restaurant
+41,47.067378,9.05872,impo-netstal-wiggispark-ip,Netstal,8754,Molliserstrasse,impo
+73,47.382516,8.547962,coop-supermarkt-zuerich-universitaetstrasse,Zürich,8006,Universitätstrasse,retail
+11,47.257336,8.850019,coop-supermarkt-rueti,Rüti,8630,Bandwiesstrasse,retail
+18,47.390511,8.517743,coop-supermarkt-zuerich-puls-5,Zürich,8005,Giessereistrasse,retail
+101,47.384017,8.548033,coop-supermarkt-zuerich-rigiplatz,Zürich,8006,Universitätstrasse,retail
+2,46.89405,7.301813,coop-supermarkt-neuenegg,Neuenegg,3176,Dorfplatz,retail
+2,47.423385,8.305344,coop-supermarkt-niederrohrdorf,Niederrohrdorf,5443,Zentrum,retail
+2,47.423891,8.305047,coop-vitality-niederrohrdorf,Niederrohrdorf,5443,Zentrum,vitality
+1-3,47.414755,8.401302,coop-restaurant-personal-dietikon,Dietikon,8953,Reservatstrasse,restaurant
+10,46.739972,7.290074,coop-supermarkt-plaffeien,Plaffeien,1716,Oberi Matta,retail
+22,47.392623,8.524647,coop-supermarkt-zuerich-wipkingerbruecke,Zürich,8037,Röschibachstrasse,retail
+19,47.415097,8.047992,coop-supermarkt-kuettigen,Küttigen,5024,Hauptstrasse,retail
+705c,46.197033,7.839122,coop-supermarkt-graechen,Grächen,3925,Millegga,retail
+146,47.399623,8.497287,pronto-zuerich-hoengg,Zürich,8049,Am Wasser,pronto
+2,47.208086,7.515879,coop-supermarkt-solothurn-bruehl,Solothurn,4500,Brunngrabenstrasse,retail
+8a,47.41665,8.396274,pronto-dietikon,Dietikon,8953,Silbernstrasse,pronto
+1,47.316582,7.694759,coop-supermarkt-balsthal,Balsthal,4710,Kirchgässli,retail
+60,47.167397,8.980024,coop-supermarkt-reichenburg,Reichenburg,8864,Kantonsstrasse,retail
+12,47.3938,8.529585,coop-supermarkt-zuerich-scheffelstrasse,Zürich,8037,Scheffelstrasse,retail
+9,47.418303,8.392182,coop-supermarkt-dietikon-silbern,Dietikon,8953,Silbernstrasse,retail
+9,47.418303,8.392182,coop-restaurant-dietikon-silbern,Dietikon,8953,Silbernstrasse,restaurant
+9,47.418303,8.392182,coop-vitality-dietikon,Dietikon,8953,Silbernstrasse,vitality
+5,47.392226,8.538097,pronto-zuerich-hofwiesenstrasse,Zürich,8057,Hofwiesenstrasse,pronto
+20,47.418707,8.393316,coop-bau-hobby-b-h-dietikon,Dietikon,8953,Silbernstrasse,bh
+9,47.421623,8.36881,interdiscount-spreitenbach-shopping-center,Spreitenbach,8957,Hochhaus,id
+80,47.428308,8.275627,pronto-mellingen,Mellingen,5507,Bahnhofstrasse,pronto
+,47.421888,8.368351,christ-spreitenbach-tivoli-christ,Spreitenbach,8957,Shopping-Center,christ
+7,47.421985,8.368631,impo-spreitenbach-ip,Spreitenbach,8957,Hochhaus,impo
+,47.422066,8.368539,coop-supermarkt-spreitenbach-shopping-center,Spreitenbach,8957,Einkaufscenter Shoppi,retail
+9,47.40269,8.498302,coop-supermarkt-zuerich-hoenggermarkt,Zürich,8049,Regensdorferstrasse,retail
+43,47.429386,8.166797,pronto-holderbank,Holderbank,5113,Hauptstrasse,pronto
+149,47.410601,8.457793,coop-supermarkt-oberengstringen,Oberengstringen,8102,Zürcherstrasse,retail
+20,47.406413,8.481615,coop-supermarkt-zuerich-bombach,Zürich,8049,Frankentalerstrasse,retail
+6,47.424566,8.370836,livique-spreitenbach,Spreitenbach,8957,Pfadackerstrasse,livique
+25,47.419187,8.414436,pronto-geroldswil,Geroldswil,8954,Limmatalstrasse,pronto
+1-5,47.395721,8.540461,coop-supermarkt-zuerich-milchbuck,Zürich,8057,Milchbuckstrasse,retail
+10,47.346121,8.702067,coop-supermarkt-uster-niederuster,Uster,8610,Sonnenbergstrasse,retail
+2,47.211088,7.505614,pronto-bellach,Bellach,4512,Gurzelenstrasse,pronto
+5,47.422243,8.410489,coop-supermarkt-geroldswil,Geroldswil,8954,Poststrasse,retail
+11,47.428605,8.359574,lumimart-spreitenbach,Spreitenbach,8957,Güterstrasse,lumimart
+16,47.220086,7.515104,coop-supermarkt-langendorf,Langendorf,4513,Weissensteinstrasse,retail
+8/10,47.371008,8.641734,coop-supermarkt-faellanden,Fällanden,8117,Wigartenstrasse,retail
+10,47.407848,8.507613,coop-to-go-zuerich-eth-fusion-to-go,Zürich,8049,Vladimir-Prelog-Weg,togo
+15,47.41378,8.479546,coop-supermarkt-zuerich-ruetihof,Zürich,8049,Rütihofstrasse,retail
+14,47.408385,8.507955,coop-supermarkt-zuerich-eth-hoenggerberg,Zürich,8049,Wolfgang-Pauli-Strasse,retail
+15,47.212649,7.4966,coop-supermarkt-bellach,Bellach,4512,Dorfstrasse,retail
+40,47.345049,8.730682,coop-supermarkt-uster-oberuster,Uster,8610,Aathalstrasse,retail
+,47.43805,8.346984,burger-burger-king-wuerenlos,Würenlos,5436,A1,burger
+15,47.240742,8.919882,coop-supermarkt-eschenbach,Eschenbach,8733,Obergass,retail
+,47.351588,8.716201,coop-supermarkt-uster-bahnhof,Uster,8610,Uster Bahnhof,retail
+A1,47.43848,8.347243,impo-wuerenlos-ip,Würenlos,5436,Shopping-Brücke,impo
+A1,47.438531,8.347562,christ-wuerenlos-christ,Würenlos,5436,Shopping Brücke,christ
+,47.43855,8.34747,interdiscount-wuerenlos,Würenlos,5436,Shopping Brücke A1,id
+,47.438585,8.347629,marche-marche-wuerenlos,Würenlos,5436,A1,marche
+38,47.30644,8.816904,pronto-hinwil-center,Hinwil,8340,Wässeristrasse,pronto
+18,47.354194,8.713987,coop-supermarkt-uster-winterthurerstrasse,Uster,8610,Winterthurerstrasse,retail
+12,47.342088,7.703615,coop-supermarkt-muemliswil,Mümliswil,4717,Hintere Gasse,retail
+38,47.306535,8.818017,interdiscount-hinwil,Hinwil,8340,Wässeristrasse,id
+38,47.306626,8.817954,coop-supermarkt-hinwil-center,Hinwil,8340,Wässeristrasse,retail
+38,47.306626,8.817954,coop-restaurant-hinwil-center,Hinwil,8340,Wässeristrasse,restaurant
+35,47.408812,8.543845,interdiscount-zuerich-baumackerstrasse,Zürich,8050,Baumackerstrasse,id
+63,47.306752,7.628924,coop-supermarkt-matzendorf,Matzendorf,4713,Dorfstrasse,retail
+39/41,47.407708,8.549281,coop-supermarkt-zuerich-dorflinde,Zürich,8050,Schwamendingerstrasse,retail
+7,47.409869,8.545285,impo-zuerich-querstrasse-ip,Zürich,8050,Querstrasse,impo
+549,47.418868,8.505594,coop-supermarkt-zuerich-wehntalerstrasse,Zürich,8046,Wehntalerstrasse,retail
+5,46.774599,9.191055,coop-bau-hobby-b-h-ilanz,Ilanz,7130,Via Grüneck,bh
+447,47.397288,8.596398,pronto-zuerich-stettbach-bahnhof,Zürich-Stettbach,8051,Dübendorfstrasse,pronto
+1,47.41036,8.546567,coop-city-city-oerlikon,Zürich,8050,Wallisellenstrasse,city
+1,47.41036,8.546567,impo-zuerich-oerlikon-city-ip,Zürich,8050,Wallisellenstrasse,impo
+1,47.410377,8.546674,coop-supermarkt-city-zuerich-oerlikon-food,Zürich,8050,Wallisellenstrasse,retail
+14,47.299129,8.837649,coop-supermarkt-hinwil-hiwi-maert,Hinwil,8340,Gossauerstrasse,retail
+14,47.299165,8.837583,livique-hinwil,Hinwil,8340,Gossauerstrasse,livique
+370,47.41125,8.544731,coop-supermarkt-zuerich-hofwiesenstrasse,Zürich,8050,Hofwiesenstrasse,retail
+369,47.411472,8.544112,impo-zh-oerlikon-bahnhof,Zürich,8050,Hofwiesenstrasse,impo
+369,47.411471,8.544179,pronto-zuerich-oerlikon-bahnhof,Zürich,8050,Hofwiesenstrasse,pronto
+16,47.127192,9.055323,coop-supermarkt-niederurnen,Niederurnen,8867,Ziegelbrückstrasse,retail
+12,47.404854,8.571746,coop-supermarkt-zuerich-schwamendingen,Zürich,8051,Saatlenstrasse,retail
+1,47.448986,8.214971,coop-supermarkt-lupfig,Lupfig,5242,Hauserstrasse,retail
+24,46.774621,9.192601,coop-supermarkt-ilanz,Ilanz,7130,Via Crappa Grossa,retail
+4,47.412919,8.540459,coop-supermarkt-zuerich-eleven,Zürich,8050,Sophie Täuber Strasse,retail
+4,47.412919,8.540459,coop-restaurant-zuerich-eleven,Zürich,8050,Sophie Täuber Strasse,restaurant
+4,47.412919,8.540459,coop-vitality-oerlikon-center-eleven,Zürich,8050,Sophie Täuber Strasse,vitality
+2,47.412919,8.540459,coop-to-go-zuerich-eleven-to-go,Zürich,8050,Sophie-Taeuber-Strasse,togo
+4,47.412919,8.540459,interdiscount-zuerich-eleven,Zürich,8050,Sophie Täuber Strasse,id
+389,47.412204,8.546553,coop-to-go-zuerich-oerlikon-bhf-to-go,Zürich,8050,Schaffhauserstrasse,togo
+55,47.302634,8.834963,halba-schoggihuesli-schoggihuesli-hinwil,Hinwil,8340,Zürichstrasse,halba
+1,47.443164,8.362305,coop-supermarkt-wuerenlos,Würenlos,5436,Poststrasse,retail
+4,47.41377,8.54086,coop-bau-hobby-b-h-zuerich-oerlikon-eleven,Zürich,8050,Sophie-Taeuber-Strasse,bh
+5,47.412548,8.546401,coop-supermarkt-zuerich-andreasturm,Zürich,8050,Andreasstrasse,retail
+1,47.137564,9.049598,pronto-glarnerland-raststaette,Niederurnen,8867,Niederacher,pronto
+,47.137563,9.049677,marche-marche-glarnerland,Niederurnen,8867,A3,marche
+,47.137819,9.0507,burger-burger-king-glarnerland,Ziegelbrücke,8866,A3,burger
+16/4,47.39912,8.604691,lumimart-duebendorf,Dübendorf,8600,Ringstrasse/Parkplätze Industriestrasse,lumimart
+40,47.403521,8.589193,coop-supermarkt-zuerich-hirzenbachstrasse,Zürich,8051,Hirzenbachstrasse,retail
+199,47.425478,8.496886,coop-supermarkt-zuerich-muehlackerstrasse,Zürich,8046,Mühlackerstrasse,retail
+ 32,46.358082,8.971987,coop-supermarkt-biasca,Biasca,6710,Via A. Giovannini,retail
+126,47.324548,8.798744,interdiscount-wetzikon,Wetzikon,8620,Bahnhofstrasse,id
+1,47.430853,8.469501,christ-regensdorf-christ,Regensdorf,8105,Zentrum,christ
+333,47.411086,8.562669,coop-supermarkt-zuerich-precisa,Zürich,8050,Wallisellenstrasse,retail
+36/38,47.413974,8.551453,pronto-zuerich-main-tower,Zürich,8050,Thurgauerstrasse,pronto
+1,47.431379,8.469007,coop-supermarkt-regensdorf-zentrum,Regensdorf,8105,Zentrum,retail
+1,47.431379,8.469007,coop-city-regensdorf-city-outlet,Regensdorf,8105,Zentrum,city
+2,47.44915,8.328464,coop-supermarkt-neuenhof,Neuenhof,5432,Albertstrasse,retail
+1,47.431869,8.468566,impo-regensdorf-ip,Regensdorf,8105,Zentrum,impo
+8,47.401755,8.600271,livique-duebendorf-wohnland,Dübendorf,8600,Hochbordstrasse,livique
+4,47.326234,8.797728,coop-supermarkt-wetzikon,Wetzikon,8622,Kirchgasse,retail
+1,47.397326,8.616601,coop-supermarkt-duebendorf-center,Dübendorf,8600,Adlerstrasse,retail
+88,47.401268,8.604884,coop-bau-hobby-b-h-duebendorf,Dübendorf,8600,Neugutstrasse,bh
+1,47.382502,8.667594,impo-volketswil-volkiland-ip,Volketswil,8604,Industriestrasse,impo
+1,47.38251,8.667621,coop-supermarkt-volketswil-volkiland,Volketswil,8604,Industriestrasse,retail
+1,47.38251,8.667621,coop-restaurant-volkiland,Volketswil,8604,Industriestrasse,restaurant
+1,47.38251,8.667621,christ-volketswil-christ,Volketswil,8604,Industriestrasse,christ
+1,47.38251,8.667621,interdiscount-volketswil-volkiland,Volketswil,8604,Industriestrasse,id
+1,47.382535,8.667873,coop-vitality-volketswil-volkiland,Volketswil,8604,Industriestrasse,vitality
+5,47.382979,8.669234,coop-bau-hobby-b-h-volketswil,Volketswil,8604,Grabenwisstrasse,bh
+11,46.854765,7.24958,coop-supermarkt-schmitten,Schmitten,3185,F.X. Müllerstrasse,retail
+1,47.382395,8.67171,pronto-volkiland,Volketswil,8604,Chlirietstrasse,pronto
+8,47.204387,7.456296,coop-supermarkt-selzach,Selzach,2545,Dorfstrasse,retail
+20,46.296423,7.550092,pronto-sierre-route-de-la-gemmi,Sierre,3960,Route de la Gemmi,pronto
+22,47.45632,8.287512,interdiscount-daettwil,Dättwil,5405,Im Langacker,id
+12,47.380772,8.682943,pronto-volketswil-brunnenstrasse,Volketswil,8604,Brunnenstrasse,pronto
+99,47.408684,8.595585,christ-wallisellen-glatt,Wallisellen,8304,Neue Winterthurerstrasse,christ
+,47.225196,8.970162,coop-supermarkt-uznach-linthpark,Uznach,8730,Linth Park,retail
+,47.225185,8.970294,take-it-uznach-take-it,Uznach,8730,Linthpark,takeit
+499,47.421449,8.549647,pronto-zuerich-seebach,Zürich,8052,Schaffhauserstrasse,pronto
+82,47.409487,8.596212,coop-supermarkt-wallisellen-richti-shopping,Wallisellen,8304,Neue Winterthurerstrasse,retail
+2,47.437389,8.474877,coop-supermarkt-regensdorf-raegi-maert,Regensdorf,8105,Feldstrasse,retail
+69,47.424953,8.537792,coop-supermarkt-zuerich-schwellistrasse,Zürich,8052,Schwellistrasse,retail
+2,47.412861,8.592495,coop-vitality-wallisellen-bahnhofplatz,Wallisellen,8304,Bahnhofplatz,vitality
+2,47.413048,8.592725,coop-supermarkt-wallisellen-bahnhofplatz,Wallisellen,8304,Bahnhofplatz,retail
+42,47.458257,8.32904,coop-vitality-wettingen-taegipark,Wettingen,5430,Jurastrasse,vitality
+42,47.458294,8.328935,interdiscount-wettingen,Wettingen,5430,Jurastrasse,id
+1,47.442191,8.464947,interdiscount-regensdorf,Regensdorf,8105,Zentrum,id
+42-46,47.458746,8.329765,coop-supermarkt-wettingen-taegipark,Wettingen,5430,Jurastrasse,retail
+42,47.458746,8.329765,coop-bau-hobby-b-h-wettingen-taegipark,Wettingen,5430,Jurastrasse,bh
+42,47.458746,8.329765,coop-restaurant-wettingen-taegipark,Wettingen,5430,Jurastrasse,restaurant
+42-46,47.458746,8.329765,impo-wettingen-taegipark-ip,Wettingen,5430,Jurastrasse,impo
+15,47.13979,7.377748,coop-supermarkt-bueren,Büren an der Aare,3294,Bernstrasse,retail
+11,47.332036,8.81218,pronto-wetzikon,Wetzikon,8623,Hinwilerstrasse,pronto
+20,47.423625,8.56178,coop-supermarkt-opfikon-lindbergh-allee,Glattpark Opfikon,8152,Boulevard Lilienthal,retail
+285,47.443623,8.465757,pronto-regensdorf,Regensdorf,8105,Adlikerstrasse,pronto
+1,47.388774,8.679156,pronto-volketswil-lindenstrasse,Volketswil,8604,Lindenstrasse,pronto
+33,47.273637,8.914595,coop-supermarkt-wald-zh,Wald ZH,8636,Bahnhofstrasse,retail
+12,47.424349,8.560404,coop-vitality-opfikon,Opfikon,8152,Boulevard Lilienthal,vitality
+295,47.444374,8.465241,coop-bau-hobby-b-h-regensdorf,Regensdorf,8105,Adlikerstrasse,bh
+3,46.293955,7.534826,coop-restaurant-sierre,Sierre,3960,Avenue Max Huber,restaurant
+6,46.293865,7.534877,coop-supermarkt-sierre,Sierre,3960,Avenue Max Huber,retail
+7,46.293838,7.53454,coop-vitality-sierre,Sierre,3960,Avenue Max Huber,vitality
+151,47.461998,8.336119,pronto-wettingen-landstrasse,Wettingen,5430,Landstrasse,pronto
+1,47.412841,8.616825,pronto-dietlikon,Dietlikon,8305,Erlenweg,pronto
+10,46.292211,7.532772,pronto-sierre-gare,Sierre,3960,Place de la Gare,pronto
+28,47.412769,8.618612,coop-supermarkt-dietlikon-center,Dietlikon,8305,Industriestrasse,retail
+28,47.412769,8.618612,coop-restaurant-dietlikon-center,Dietlikon,8305,Industriestrasse,restaurant
+160,47.466608,8.291496,pronto-baden,Baden,5400,Mellingerstrasse,pronto
+28,47.412895,8.618575,interdiscount-dietlikon-industrie,Dietlikon,8305,Industriestrasse,id
+28,47.412923,8.618509,impo-dietlikon-industriestr--ip,Dietlikon,8305,Industriestrasse,impo
+28,47.413262,8.618756,coop-vitality-dietlikon,Dietlikon,8305,Industriestrasse,vitality
+29,47.429381,8.559039,pronto-glattbrugg,Opfikon-Glattbrugg,8152,Schaffhauserstrasse,pronto
+24,46.292546,7.530009,interdiscount-sierre-noes,Sierre,3969,Rue de Plantassage/Centre Manor,id
+68,47.428401,8.563697,coop-supermarkt-opfikon,Glattbrugg,8152,Talackerstrasse,retail
+25,47.413185,8.62102,livique-dietlikon,Dietlikon,8305,Industriestrasse,livique
+4,47.430677,8.559994,coop-supermarkt-glattbrugg-bahnhof,Glattbrugg,8152,Europastrasse,retail
+79,47.467246,8.325105,pronto-wettingen-landstrasse-79,Wettingen,5430,Landstrasse,pronto
+1,47.200421,7.424622,coop-supermarkt-bettlach,Bettlach,2544,Unterführungsstrasse,retail
+,46.124183,7.937078,coop-supermarkt-saas-grund,Saas Grund,3910,Hauptstrasse,retail
+2d,46.906007,7.236354,coop-supermarkt-laupen,Laupen,3177,Bahnweg,retail
+10,47.457734,8.438245,coop-supermarkt-buchs-zh,Buchs,8107,Zürcherstrasse,retail
+43,47.474443,8.213247,coop-supermarkt-windisch-hauserstrasse,Windisch,5200,Hauserstrasse,retail
+3,47.394413,7.748671,coop-supermarkt-oberdorf,Oberdorf,4436,Uli Schadweg,retail
+124,47.434268,8.567148,coop-supermarkt-glattbrugg,Glattbrugg,8152,Schaffhauserstrasse,retail
+70,47.419096,8.624398,pronto-bruettisellen,Brüttisellen,8306,Zürichstrasse,pronto
+3,46.815729,7.216606,coop-supermarkt-tafers,Tafers,1712,Thunstrasse,retail
+4,47.473762,8.307875,impo-baden-badstrasse-ip,Baden,5400,Badstrasse,impo
+9,47.074561,7.305552,interdiscount-lyss,Lyss,3250,Bielstrasse,id
+17,46.186209,8.733051,coop-supermarkt-verscio,Verscio,6653,Via Stradon,retail
+41,47.421925,8.618656,coop-supermarkt-dietlikon-bahnhofstrasse,Dietlikon,8305,Bahnhofstrasse,retail
+16,47.076594,7.306153,pronto-lyss-bahnhof,Lyss,3250,Bahnhofstrasse,pronto
+2,47.072749,7.302594,coop-supermarkt-lyss-stigli,Lyss,3250,Beundengasse,retail
+2,47.072749,7.302594,coop-restaurant-lyss-stigli,Lyss,3250,Beundengasse,restaurant
+2,47.072749,7.302594,coop-vitality-lyss,Lyss,3250,Beundengasse,vitality
+7,47.09953,7.320941,coop-supermarkt-busswil,Busswil b. Büren,3292,Bahnhofstrasse,retail
+28,47.475779,8.307696,coop-supermarkt-city-baden-food,Baden,5401,Bahnhofstrasse,retail
+28,47.475779,8.307696,coop-city-city-baden,Baden,5401,Bahnhofstrasse,city
+28,47.475779,8.307696,coop-restaurant-baden,Baden,5401,Bahnhofstrasse,restaurant
+28,47.475797,8.307603,impo-baden-bahnhofstrasse-city-ip,Baden,5400,Bahnhofstrasse,impo
+109,47.193959,7.404447,pronto-grenchen,Grenchen,2540,Solothurnstrasse,pronto
+30,47.077392,7.303847,pronto-lyss,Lyss,3250,Bielstrasse,pronto
+6,46.311753,7.48306,coop-supermarkt-crans-montana,Crans-Montana,3963,Route de Clovelli,retail
+5,47.476426,8.306499,coop-vitality-baden,Baden,5400,Langhaus,vitality
+5,47.476426,8.306499,interdiscount-baden-west,Baden,5400,Langhaus,id
+5,47.476426,8.306499,coop-to-go-baden-bahnhof-to-go,Baden,5400,Langhaus,togo
+5,47.476404,8.307109,coop-supermarkt-baden-bahnhof,Baden,5400,Langhaus,retail
+15,46.761984,7.208907,coop-supermarkt-giffers,Giffers,1735,Dorfstrasse,retail
+53,47.050669,7.283146,pronto-aarberg,Aarberg,3270,Leimernweg,pronto
+20,47.192382,7.397349,impo-grenchen-ip,Grenchen,2540,Solothurnerstrasse,impo
+20,47.192373,7.397296,coop-supermarkt-grenchen,Grenchen,2540,Solothurnstrasse,retail
+2,47.192373,7.397296,coop-restaurant-grenchen,Grenchen,2540,Bachstrasse,restaurant
+14,47.481232,8.210944,coop-supermarkt-windisch-bahnhof,Windisch,5210,Bahnhofstrasse,retail
+8,47.192697,7.397045,coop-vitality-grenchen,Grenchen,2540,Bettlachstr.,vitality
+6A,47.481552,8.211386,coop-supermarkt-brugg-campus,Windisch,5210,Bahnhofstrasse,retail
+4,47.481765,8.210554,coop-to-go-brugg-bahnhof-to-go,Brugg,5200,Bahnhofplatz,togo
+2,47.481904,8.208565,interdiscount-brugg-neumarkt-center,Brugg,5200,Neumarkt,id
+8/10,47.368913,8.782066,coop-supermarkt-pfaeffikon-zh,Pfäffikon,8330,Turmstrasse,retail
+11,47.042456,7.276433,coop-supermarkt-aarberg,Aarberg,3270,Bahnhofstrasse,retail
+11,47.042456,7.276433,coop-restaurant-aarberg,Aarberg,3270,Bahnhofstrasse,restaurant
+11,47.04251,7.276341,impo-aarberg-ip,Aarberg,3270,Bahnhofstrasse,impo
+20,47.482268,8.209261,coop-supermarkt-brugg-neumarkt,Brugg,5200,Alte Zürcherstrasse,retail
+7,47.482542,8.208641,interdiscount-brugg-neumarktplatz,Brugg,5200,Neumarktplatz,id
+9,47.193677,7.396095,interdiscount-grenchen,Grenchen,2540,Marktplatz,id
+8,47.482727,8.207927,impo-brugg-ip,Brugg,5200,Neumarktplatz,impo
+62,47.483364,8.241293,pronto-gebenstorf,Gebenstorf,5412,Landstrasse,pronto
+128,47.483423,8.192254,pronto-umiken,Umiken,5222,Baslerstrasse,pronto
+17,47.335205,8.855162,coop-supermarkt-baeretswil,Bäretswil,8344,Gupfstrasse,retail
+24,46.282359,7.51123,christ-sierre-manor-christ,Sierre,3960,Rue de Plantassage,christ
+,46.281035,7.512734,coop-supermarkt-sierre-rossfeld,Sierre,3960,Route des Lacustres,retail
+115,46.28074,7.510631,pronto-sierre-route-de-sion,Sierre,3960,Route de Sion,pronto
+115,46.280767,7.510566,livique-sierre,Sierre,3960,Route de Sion,livique
+115,46.280578,7.509982,coop-bau-hobby-b-l-sierre,Sierre,3960,Route de Sion,bh
+1,47.386846,8.755034,coop-supermarkt-fehraltorf,Fehraltorf,8320,Grundstrasse,retail
+,47.450265,8.561242,interdiscount-zuerich-flughafen,Zürich-Flughafen,8060,Airport Shopping,id
+4,46.307638,7.467844,coop-supermarkt-crans-sur-sierre,Crans,3963,Rue du Pas de l'Ours,retail
+,47.450213,8.562832,pronto-zuerich-flughafen,Kloten,8060,Airport Shopping,pronto
+166,47.487953,8.288813,pronto-nussbaumen,Nussbaumen,5415,Landstrasse,pronto
+41,46.10767,7.926231,coop-supermarkt-saas-fee,Saas Fee,3906,Untere Dorfstrasse,retail
+,47.489481,8.245047,coop-supermarkt-gebenstorf,Gebenstorf,5412,Geeligstrasse,retail
+,47.450719,8.562617,coop-supermarkt-zuerich-flughafen,Zürich Flughafen,8058,Flughafen Zürich,retail
+,47.450719,8.562617,christ-zuerich-flughafen-christ,Zürich-Flughafen,8060,Flughafen Zürich,christ
+,47.450719,8.562617,marche-marche-airport-zuerich,Zürich-Flughafen,8060,Postfach 2422,marche
+,47.450719,8.562617,marche-marche-bistro-airport-zuerich,Zürich Flughafen,8060,Postfach 2422,marche
+25,47.233361,9.020363,coop-supermarkt-gommiswald,Gommiswald,8737,Rickenstrasse,retail
+27,47.488596,8.291889,coop-supermarkt-nussbaumen,Nussbaumen bei Baden,5415,Kirchweg,retail
+2,47.181906,7.366526,coop-supermarkt-lengnau,Lengnau,2543,Bürenstrasse,retail
+35,47.463182,8.526285,coop-supermarkt-ruemlang-riedmatt,Rümlang,8153,Oberglatterstrasse,retail
+35,47.463377,8.525706,coop-bau-hobby-ruemlang-riedmatt-b-h,Rümlang,8153,Oberglattstrasse,bh
+44,46.850165,7.190831,coop-supermarkt-duedingen,Düdingen,3186,Hauptstrasse,retail
+6b,47.112982,7.301016,coop-supermarkt-studen,Studen,2557,Wydenpark,retail
+146,47.453157,8.580956,coop-supermarkt-kloten-center,Kloten,8302,Schaffhauserstrasse,retail
+113,47.450406,8.597062,pronto-kloten,Kloten,8302,Bassersdorferstrasse,pronto
+17,47.49435,8.340871,coop-supermarkt-ehrendingen,Ehrendingen,5420,Dorfstrasse,retail
+32,47.442603,8.631127,coop-supermarkt-bassersdorf,Bassersdorf,8303,Breitistrasse,retail
+134,46.475656,7.284522,interdiscount-gstaad,Gstaad,3780,Hauptstrasse,id
+20,46.476554,7.283387,coop-restaurant-gstaad,Gstaad,3780,Untergstaadstrasse,restaurant
+20,46.476554,7.283374,coop-supermarkt-gstaad,Gstaad,3780,Untergstaadstrasse,retail
+2,46.816419,9.266993,pronto-laax,Laax,7031,Via Uletsch,pronto
+10,47.428383,8.684758,coop-supermarkt-effretikon-effimaert,Effretikon,8307,Haldenstrasse,retail
+16,47.426791,8.692223,coop-supermarkt-effretikon-watt,Effretikon,8307,Illnauerstrasse,retail
+60D,47.501966,8.255111,coop-supermarkt-untersiggenthal,Untersiggenthal,5417,Dorfstrasse,retail
+8,46.810618,7.17736,pronto-fribourg-route-de-tavel,Fribourg-Schönberg,1700,Route de Tavel,pronto
+9,47.483574,8.466156,pronto-dielsdorf-center,Dielsdorf,8157,Niederhaslistrasse,pronto
+30,46.167281,8.762475,coop-supermarkt-losone-mezzana,Losone,6616,Via Mezzana,retail
+5,47.484297,8.465799,coop-restaurant-dielsdorf,Dielsdorf,8157,Niederhaslistrasse,restaurant
+5,47.484297,8.465799,christ-dielsdorf-christ,Dielsdorf,8157,Niederhaslistr.,christ
+5,47.484297,8.465799,impo-dielsdorf-cd-center-ip,Dielsdorf,8157,Niederhaslistr.,impo
+5,47.484369,8.465787,coop-supermarkt-dielsdorf,Dielsdorf,8157,Niederhaslistrasse,retail
+5,46.808936,7.173739,coop-supermarkt-fribourg-schoenberg,Fribourg,1700,Route Mon Repos,retail
+1,46.164699,8.768588,coop-supermarkt-losone-ipermercato-cattori,Losone,6616,Via Emmaus,retail
+1,46.164699,8.768588,coop-restaurant-losone-i--cattori-ristorante,Losone,6616,Via Emmaus,restaurant
+1,46.164699,8.768588,take-it-losone-i--cattori-take-it,Losone,6616,Via Emmaus,takeit
+1,46.164751,8.768745,interdiscount-losone,Losone,6616,Via Emmaus,id
+2,46.169293,8.781041,coop-supermarkt-locarno-solduno,Solduno,6604,Via del Passetto,retail
+104,46.165077,8.773142,pronto-losone,Losone,6616,Via Locarno,pronto
+3,47.464929,7.851711,coop-supermarkt-gelterkinden,Gelterkinden,4460,Allmend,retail
+80,46.833913,9.28142,coop-supermarkt-flims-stenna,Flims,7017,Via Nova,retail
+24,47.465082,7.846778,pronto-gelterkinden,Gelterkinden,4460,Sissacherstrasse,pronto
+15,46.773592,7.161998,pronto-marly,Marly,1723,Route de la Gruyère,pronto
+47,46.835836,9.283793,coop-vitality-apotheke---drogerie-flims,Flims Dorf,7017,Via Nova,vitality
+28,46.169139,8.794673,coop-supermarkt-locarno-piazza-grande,Locarno,6600,Piazza Grande,retail
+4,46.17188,8.80097,interdiscount-muralto,Muralto,6600,Piazza Stazione,id
+6,46.972416,7.193473,coop-supermarkt-kerzers,Kerzers,3210,Gerbeackerstrasse,retail
+,46.174881,8.812416,coop-supermarkt-minusio,Minusio,6648,Via Municipio,retail
+1,46.15565,8.771475,coop-supermarkt-ascona,Ascona,6612,Via Buonamano,retail
+2,47.49123,8.5039,coop-supermarkt-niederglatt,Niederglatt,8172,Sägereistrasse,retail
+58,46.176322,8.821907,pronto-minusio,Minusio,6648,Via Rinaldo Simen,pronto
+20,46.804428,7.154425,christ-fribourg-rue-de-romont-chr-,Fribourg,1701,Rue de Romont,christ
+48,47.463476,7.813662,coop-supermarkt-sissach,Sissach,4450,Hauptstrasse,retail
+4,46.819836,7.153754,interdiscount-granges-paccot,Granges-Paccot,1763,Route d'Agy,id
+12,46.803245,7.152571,coop-city-city-fribourg,Fribourg,1701,Avenue de la Gare,city
+10,46.803245,7.152571,christ-fribourg-av--de-la-gare,Fribourg,1700,Avenue de la Gare,christ
+12,46.803236,7.152545,coop-restaurant-fribourg,Fribourg,1701,Avenue de la Gare,restaurant
+14,46.803236,7.152545,take-it-fribourg-city-take-it-neu,Fribourg,1701,Avenue de la Gare,takeit
+1,46.820824,7.153081,coop-supermarkt-granges-paccot,Granges-Paccot,1763,Route d'Agy,retail
+1,46.820824,7.153081,coop-restaurant-granges-paccot,Granges-Paccot,1763,Route d'Agy,restaurant
+1,46.820787,7.153029,coop-vitality-fribourg,Granges-Paccot,1763,Route d'Agy,vitality
+12,46.803055,7.152179,coop-supermarkt-city-fribourg-food,Fribourg,1701,Avenue de la Gare,retail
+10,46.802929,7.151957,interdiscount-fribourg-c--c-,Fribourg,1700,Rue de la gare,id
+12,46.802938,7.151905,impo-fribourg-cc-ip,Fribourg,1701,Avenue de la Gare,impo
+9,47.393687,7.620413,coop-supermarkt-nunningen,Nunningen,4208,Bretzwilerstrasse,retail
+,46.803089,7.151118,sapori-ditalia-fribourg-gare-sapori,Fribourg,1700,Gare de Fribourg,sapori
+,46.803089,7.151118,coop-to-go-fribourg-gare-to-go,Fribourg,1700,Gare de Fribourg,togo
+15,46.780148,7.150337,coop-supermarkt-marly,Marly,1723,Route de Fribourg,retail
+1,46.794712,7.150259,pronto-fribourg,Fribourg,1700,Rte St-Nicolas-de-Flüe,pronto
+4,46.80341,7.150042,coop-supermarkt-fribourg-gare,Fribourg,1700,Rue Louis-d'Affry,retail
+37,47.50902,8.019161,interdiscount-frick,Frick,5070,Hauptstrasse,id
+37,47.509028,8.019214,coop-supermarkt-frick,Frick,5070,Hauptstrasse,retail
+37,47.509028,8.019214,coop-restaurant-frick,Frick,5070,Hauptstrasse,restaurant
+37,47.509038,8.019161,coop-vitality-frick,Frick,5070,Hauptstrasse,vitality
+4,47.509983,8.018919,coop-bau-hobby-b-h-frick,Frick,5070,Grubenstrasse,bh
+24 C,47.161815,7.29402,interdiscount-biel-boujean,Biel,2504,Zürichstrasse,id
+24C,47.162013,7.294125,coop-supermarkt-biel-boujean,Biel,2504,Zürichstrasse,retail
+24C,47.162013,7.294125,coop-restaurant-biel-boujean,Biel,2504,Zürichstrasse,restaurant
+,47.448976,8.699469,marche-marche-kemptthal,Kemptthal,8310,A1,marche
+15,47.510926,8.017336,pronto-frick,Frick,5070,Hauptstrasse,pronto
+8,47.46658,7.802039,interdiscount-sissach,Sissach,4450,Gewerbestrasse,id
+8,47.466589,7.802052,coop-bau-hobby-b-h-sissach,Sissach,4450,Gewerbestrasse,bh
+7,47.524788,8.244387,coop-supermarkt-wuerenlingen-aarepark,Würenlingen,5303,Kuhgässli,retail
+7,47.524834,8.244308,coop-restaurant-wuerenlingen-aarepark,Würenlingen,5303,Kuhgässli,restaurant
+2,46.809458,7.144206,coop-supermarkt-fribourg-jura,Fribourg,1700,Route du Champ des Fontaines,retail
+1,46.827802,7.145154,pronto-granges-paccot,Granges-Paccot,1763,Rte de la Chenevière,pronto
+7,47.525273,8.244541,interdiscount-wuerenlingen-siggenthal,Würenlingen,5303,Kuhgässlistrasse,id
+7,47.525309,8.244502,impo-wuerenlingen-aarepark-ip,Würenlingen,5303,Kuhgässlistrasse,impo
+,47.449961,8.701494,pronto-kemptthal-raststaette,Kemptthal,8310,Autobahnraststätte A1,pronto
+7,47.525516,8.244438,coop-vitality-wuerenlingen-im-aarepark,Würenlingen,5303,Kuhgässli,vitality
+23,47.526229,8.242909,pronto-wuerenlingen-aarepark,Würenlingen,5303,Industriestrasse,pronto
+23,47.526247,8.242909,coop-bau-hobby-b-h-wuerenlingen,Würenlingen,5303,Industriestrasse,bh
+139,47.143419,7.272278,coop-supermarkt-biel-mett,Biel,2504,Mettstrasse,retail
+43a,47.149577,7.276438,pronto-biel-laengfeldweg,Biel-Mett,2504,Längfeldweg,pronto
+142,47.161605,7.28409,lumimart-biel,Biel,2504,Solothurnstrasse,lumimart
+81,47.126699,7.255487,coop-supermarkt-biel-moserstrasse,Biel,2503,A. Moser-Strasse,retail
+27,47.15474,7.276225,coop-supermarkt-biel-boezingen,Biel,2504,Eisfeldstrasse,retail
+132,47.160638,7.280968,pronto-biel-solothurnstrasse,Biel,2504,Solothurnstrasse,pronto
+71,47.129244,7.255676,pronto-biel-brueggstrasse,Biel,2503,Brüggstrasse,pronto
+4,47.453797,7.736791,coop-supermarkt-bubendorf,Bubendorf,4416,Gewerbestrasse,retail
+4,47.453797,7.736791,coop-restaurant-bubendorf,Bubendorf,4416,Gewerbestrasse,restaurant
+8,46.174781,8.855437,impo-tenero-centro-ip,Tenero,6598,Via Brere,impo
+8,46.174772,8.855475,coop-vitality-tenero,Tenero,6598,Via Brere,vitality
+8,46.174772,8.855488,interdiscount-tenero-xxl,Tenero,6598,Via Brere,id
+8,46.174745,8.855501,coop-supermarkt-tenero,Tenero,6598,Via Brere,retail
+8,46.174745,8.855501,coop-bau-hobby-e-h-tenero,Tenero,6598,Via Brére,bh
+8,46.174745,8.855501,coop-restaurant-tenero,Tenero,6598,Via Brére,restaurant
+3,46.727328,7.136949,coop-supermarkt-treyvaux,Treyvaux,1733,Route d'Arconciel,retail
+,46.619729,7.160644,coop-supermarkt-charmey,Charmey,1637,Le Plan,retail
+20,46.698011,7.140211,coop-supermarkt-la-roche,La Roche,1634,Route de Fribourg,retail
+1,46.296488,7.396563,coop-supermarkt-anzere,Anzère,1972,Rue du Nord,retail
+49,47.119176,7.243152,pronto-port,Port,2562,Allmendstrasse,pronto
+6,47.505857,8.541136,coop-vitality-bachenbuelach,Bachenbülach,8184,Grabenstrasse,vitality
+2,47.506082,8.541114,interdiscount-bachenbuelach,Bachenbülach,8184,Grabenstrasse,id
+6,47.506121,8.541831,coop-supermarkt-bachenbuelach,Bachenbülach,8184,Grabenstrasse,retail
+6,47.506121,8.541831,coop-restaurant-bachenbuelach,Bachenbülach,8184,Grabenstrasse,restaurant
+6,47.506402,8.540656,pronto-bachenbuelach,Bachenbülach,8184,Grabenstrasse,pronto
+1,46.797964,7.124751,impo-villars-sur-glane-ip,Villars-sur-Glâne,1752,Route de Moncor,impo
+1,46.797964,7.124751,christ-villars-christ,Villars-sur-Glâne,1752,Route de Moncor,christ
+31,47.130395,7.244205,coop-bau-hobby-b-h-biel-bahnhof,Biel,2503,Salzhausstrasse,bh
+4-6,47.124784,7.23989,coop-supermarkt-nidau,Nidau,2560,Schulgasse,retail
+31,47.130241,7.243863,coop-vitality-biel-centre-bahnhof,Biel,2503,Salzhausstrasse,vitality
+31,47.130196,7.24381,impo-biel-bahnhof-ip,Biel,2500,Salzhausstrasse,impo
+31,47.129917,7.243574,livique-biel-salzhaus,Biel,2503,Salzhausstrasse,livique
+31,47.130241,7.243771,coop-supermarkt-biel-bahnhof,Biel,2503,Salzhausstrasse,retail
+31,47.130241,7.243771,coop-restaurant-biel-bahnhof,Biel,2503,Salzhausstrasse,restaurant
+1,46.798069,7.123807,coop-supermarkt-villars-sur-glane,Villars-sur-Glâne,1752,Route de Moncor,retail
+1,46.798069,7.123807,coop-restaurant-villars-sur-glane,Villars-sur-Glâne,1752,Route de Moncor,restaurant
+1,46.797997,7.123742,interdiscount-villars-sur-glane-centre,Villars-sur-Glâne,1752,Route de moncor,id
+88,47.507331,8.541272,coop-bau-hobby-b-h-buelach,Bülach,8180,Feldstrasse,bh
+31,47.130474,7.242913,interdiscount-biel-salzhaus,Biel,2502,Salzhausstrasse,id
+40,46.175056,7.573424,coop-supermarkt-grimentz,Grimentz,3961,Route de Moiry,retail
+60,47.280077,7.389655,pronto-moutier,Moutier,2740,Rue de Soleure,pronto
+12,47.134137,7.244086,interdiscount-biel-bahnhofstrasse,Biel,2502,Bahnhofstrasse,id
+39,47.138108,7.246906,impo-biel-ip,Biel,2502,Nidaugasse,impo
+4,47.132983,7.242983,coop-supermarkt-biel-sbb,Biel,2502,Bahnhofsplatz,retail
+1,47.1331,7.242983,pronto-biel-bahnhofspassage,Biel,2503,Robert-Walser-Platz,pronto
+4,47.133028,7.242917,pronto-biel-bahnhof,Biel,2500,Bahnhofplatz,pronto
+61,47.071713,7.201801,coop-supermarkt-taeuffelen,Täuffelen,2575,Hauptstrasse,retail
+35,47.138621,7.247049,coop-supermarkt-biel-nidaugasse,Biel,2502,Nidaugasse,retail
+35,47.138621,7.247049,coop-restaurant-biel-nidaugasse,Biel,2502,Nidaugasse,restaurant
+35,47.138621,7.247049,take-it-biel-nidaugasse-take-it,Biel,2502,Nidaugasse,takeit
+9,47.139808,7.246913,coop-supermarkt-city-biel---bienne-food,Biel-Bienne,2503,Dufourstrasse,retail
+9,47.139808,7.246913,coop-city-city-biel,Biel-Bienne,2503,Dufourstrasse,city
+9,47.139808,7.246913,impo-biel-cc-ip,Biel,2503,Dufourstrasse,impo
+9,47.140465,7.247161,interdiscount-biel-collegegasse,Biel,2502,Collègegasse,id
+48,46.937338,7.141667,pronto-murten,Murten,3280,Löwenberg,pronto
+11,47.13969,7.246057,christ-biel-nidaugasse-christ,Biel,2502,Nidaugasse,christ
+52,47.472941,7.758692,coop-supermarkt-lausen,Lausen,4415,Brühlstrasse,retail
+36,47.472617,7.755387,pronto-lausen,Lausen,4415,Hauptstrasse,pronto
+64,46.174961,8.891601,coop-supermarkt-riazzino-py,Riazzino,6595,Via Cantonale,retail
+,46.252789,9.022742,coop-supermarkt-claro,Claro,6702,Via Municipio,retail
+16,47.277494,7.368815,coop-supermarkt-moutier,Moutier,2740,Rue Industrielle,retail
+1,47.390846,7.538672,coop-supermarkt-breitenbach,Breitenbach,4226,Neumattstrasse,retail
+14,46.929774,7.121671,interdiscount-murten,Murten,3280,Bernstrasse,id
+138,47.51107,8.594188,coop-supermarkt-embrach,Embrach,8424,Dorfstrasse,retail
+8A,47.456453,8.773877,coop-supermarkt-kollbrunn,Kollbrunn,8483,Dorfstrasse,retail
+288,47.482638,8.702548,coop-bau-hobby-b-h-winterthur-toess,Winterthur,8406,Zürcherstrasse,bh
+10,46.824049,7.09907,pronto-belfaux,Belfaux FR,1782,Route de la Rosière,pronto
+1,46.926769,7.115031,coop-supermarkt-murten,Murten,3280,Bubenbergstrasse,retail
+115,46.251469,7.408086,coop-supermarkt-uvrier,Uvrier,1958,Route d'Italie,retail
+,46.785554,7.095004,interdiscount-matran,Matran,1753,Zone industrielle,id
+45,47.483985,7.735262,coop-supermarkt-liestal-stabhof,Liestal,4410,Rathausstrasse,retail
+34,47.484023,7.734559,interdiscount-liestal,Liestal,4410,Rathausstrasse,id
+2,47.51731,8.594416,pronto-embrach,Embrach,8424,Industriestrasse,pronto
+1,47.484516,7.73143,pronto-liestal-bahnhof,Liestal,4410,Bahnhofplatz,pronto
+19,46.261609,7.387809,coop-supermarkt-grimisuat,Grimisuat,1971,Route d'Ayent,retail
+1,46.78066,7.088855,coop-vitality-matran,Matran,1753,Route du Bois,vitality
+7,46.779769,7.088572,coop-bau-hobby-b-l-matran,Matran,1753,Route du Bois,bh
+,46.067406,7.776034,coop-supermarkt-taesch,Täsch,3929,Haus City,retail
+,46.780793,7.088068,pronto-matran-centre,Matran,1753,Route du Bois,pronto
+1,46.780775,7.088029,livique-matran,Matran,1753,Rte du Bois,livique
+1,46.780801,7.088016,coop-supermarkt-matran,Matran,1753,Route du Bois,retail
+1,46.780801,7.088016,coop-restaurant-matran,Matran,1753,Route du Bois,restaurant
+1,46.780801,7.088016,ca-puccini-matran-ca-puccini,Matran,1753,Route du Bois,capuccini
+135,47.490811,8.706167,coop-supermarkt-winterthur-toess,Winterthur,8406,Zürcherstrasse,retail
+2,47.265435,9.121308,coop-supermarkt-ebnat-kappel,Ebnat-Kappel,9642,Gillplatz,retail
+2,47.440086,8.84411,coop-supermarkt-turbenthal,Turbenthal,8488,Hofwiesweg,retail
+10,47.559624,8.060079,coop-supermarkt-laufenburg,Laufenburg,5080,Bahnhofstrasse,retail
+2,47.301748,9.08558,interdiscount-wattwil,Wattwil,9630,Bahnhofstrasse,id
+34,47.546373,7.952314,coop-supermarkt-stein-ag,Stein,4332,Schaffhauserstrasse,retail
+51,47.494934,8.712463,coop-supermarkt-winterthur-lokwerk,Winterthur,8406,Zürcherstrasse,retail
+51,47.494934,8.712463,coop-restaurant-winterthur-lokwerk,Winterthur,8406,Zürcherstrasse,restaurant
+51,47.495066,8.712731,interdiscount-winterthur-lokwerk,Winterthur,8406,Zürcherstrasse,id
+4,47.303204,9.086299,coop-supermarkt-wattwil,Wattwil,9630,Grünaustrasse,retail
+3,47.530947,8.580715,coop-supermarkt-rorbas,Rorbas,8427,Allmendstrasse,retail
+1,47.441734,7.589397,coop-supermarkt-grellingen,Grellingen,4203,Delsbergerstrasse,retail
+48,47.306906,9.087234,pronto-wattwil,Wattwil,9630,Wilerstrasse,pronto
+6,47.572292,8.248869,coop-supermarkt-kleindoettingen,Kleindöttingen,5314,Hauptstrasse,retail
+3,47.23789,7.278098,coop-supermarkt-bevilard-malleray,Bévilard-Malleray,2735,Rue Principale,retail
+236,47.484592,8.758805,coop-supermarkt-winterthur-seen,Winterthur,8405,Tösstalstrasse,retail
+3,47.499159,8.723236,coop-supermarkt-city-winterthur-food,Winterthur,8400,Bahnhofplatz,retail
+3,47.4993,8.723571,coop-city-city-winterthur,Winterthur,8400,Bahnhofplatz,city
+3,47.4993,8.723571,coop-restaurant-winterthur-city,Winterthur,8400,Bahnhofplatz,restaurant
+3,47.4993,8.723571,coop-to-go-winterthur-city-to-go,Winterthur,8400,Bahnhofplatz,togo
+17,47.525978,7.81555,coop-supermarkt-magden,Magden,4312,Sonnenplatz,retail
+5,47.499465,8.723243,impo-winterthur-stadttor-ip,Winterthur,8400,Bahnhofplatz,impo
+7,46.603006,7.10081,coop-supermarkt-broc,Broc,1636,Rue de Montsalvens,retail
+20,47.499361,8.725364,impo-winterthur-untertor-ip,Winterthur,8400,Untertor,impo
+271,47.510237,8.691574,coop-supermarkt-winterthur-wuelflingen,Winterthur,8408,Wülflingerstrasse,retail
+5,47.500294,8.723953,coop-supermarkt-winterthur-stadttor,Winterthur,8400,Bahnhofplatz,retail
+31,47.499521,8.7287,interdiscount-winterthur-marktgasse,Winterthur,8400,Marktgasse,id
+8/12,47.500569,8.725898,coop-supermarkt-winterthur-stadtgarten,Winterthur,8400,Bankstrasse,retail
+8/12,47.500569,8.725898,coop-restaurant-winterthur-stadtgarten,Winterthur,8400,Bankstrasse,restaurant
+8/12,47.500569,8.725898,take-it-winterthur-stadtgarten,Winterthur,8400,Bankstrasse,takeit
+12,47.500975,8.725775,coop-vitality-winterthur-stadtgarten,Winterthur,8400,Bankstrasse,vitality
+12,47.500975,8.725775,interdiscount-winterthur-bankstrasse,Winterthur,8400,Bankstrasse,id
+12,47.500994,8.725736,christ-winterthur-bankstr--christ,Winterthur,8400,Bankstrasse,christ
+394,47.516292,8.679767,pronto-winterthur-wuelflingenstrasse,Winterthur,8408,Wülflingerstrasse,pronto
+22,47.502223,7.721467,coop-supermarkt-frenkendorf,Frenkendorf,4402,Bahnhofstrasse,retail
+12,47.556856,8.502757,coop-supermarkt-glattfelden,Glattfelden,8192,Emmerstrasse,retail
+,46.209837,9.027053,marche-marche-bellinzona-nord,Bellinzona,6503,A2 (Direzione Chiasso),marche
+4,46.223254,9.047329,coop-supermarkt-castione,Castione,6532,Via Cantonale,retail
+,46.209503,9.027159,pronto-bellinzona-nord,Bellinzona,6500,Autobahnraststätte,pronto
+4,46.223507,9.048478,coop-bau-hobby-e-h-castione,Castione,6532,Via Cantonale,bh
+107,46.39136,9.233361,coop-supermarkt-mesocco,Mesocco,6563,Crimeo,retail
+1,47.005886,7.103969,coop-supermarkt-ins,Ins,3232,Gampelengasse,retail
+13,47.494951,8.756713,pronto-winterthur-grueze,Winterthur,8404,Rudolf Dieselstrasse,pronto
+8,47.005579,7.10355,coop-vitality-ins,Ins,3232,Bahnhofstrasse,vitality
+3,46.185773,8.992528,coop-supermarkt-sementina,Sementina,6514,Via Locarno,retail
+19,47.494771,8.758315,coop-vitality-winterthur-grueze-markt,Winterthur,8404,Rudolf-Dieselstrasse,vitality
+19,47.494824,8.758382,impo-winterthur-grueze-markt-ip,Winterthur,8404,Rudolf-Diesel-Str.,impo
+25,47.494414,8.759686,impo-internetshop-ip,Winterthur,8404,Rudolf-Diesel-Strasse,impo
+25,47.494414,8.759686,christ-internetshop-christ,Winterthur,8404,Rudolf-Diesel-Strasse,christ
+19,47.494914,8.758398,interdiscount-winterthur-gruezemarkt,Winterthur,8404,Rudolf-Diesel-Str.,id
+19,47.494923,8.758385,coop-supermarkt-winterthur-gruezemarkt,Winterthur,8404,Rudolf Diesel-Strasse,retail
+19,47.494923,8.758385,coop-bau-hobby-b-h-winterthur-gruezemarkt,Winterthur,8404,Rudolf-Dieselstrasse,bh
+19,47.494923,8.758385,coop-restaurant-winterthur-gruezemarkt,Winterthur,8404,Rudolf Diesel-Strasse,restaurant
+11,47.508466,8.717885,coop-supermarkt-winterthur-feldstrasse,Winterthur,8400,Feldstrasse,retail
+31,47.225502,9.199318,coop-supermarkt-nesslau,Nesslau,9650,Hauptstrasse,retail
+17,47.526355,8.66902,coop-supermarkt-neftenbach,Neftenbach,8413,Winterthurerstrasse,retail
+20,46.213389,9.04254,coop-supermarkt-arbedo,Arbedo,6517,Via alla Rotonda,retail
+31,46.152036,8.942489,pronto-cadenazzo,Cadenazzo,6593,Via Stazione,pronto
+28,47.419122,7.502098,coop-supermarkt-laufen,Laufen,4242,Bahnhofstrasse,retail
+16,47.419392,7.501979,coop-vitality-laufen,Laufen,4242,Bahnhofstrasse,vitality
+17,46.202245,9.030822,coop-supermarkt-bellinzona-nord,Bellinzona,6500,Via Gerretta,retail
+73,46.205733,9.03673,pronto-bellinzona,Bellinzona,6500,Via San Gottardo,pronto
+,46.18369,9.003298,coop-hotel-hotel-bellinzona-sud,Bellinzona,6513,A2 (Direzione Gottardo),hotel
+13,47.340852,7.3713,pronto-courrendlin,Courrendlin,2830,Rte de Delémont,pronto
+46,46.182244,9.001754,pronto-bellinzona-sued,Monte Carasso TI,6513,Autobahnraststätte,pronto
+113D,47.512438,7.718853,pronto-frenkendorf,Frenkendorf,4402,Rheinstrasse,pronto
+,46.182122,9.002178,marche-marche-bellinzona-sud,Monte Carasso,6513,A2 (Direzione Gottardo),marche
+10,47.43913,7.53472,coop-bau-hobby-b-h-zwingen,Zwingen,4222,Baselstrasse,bh
+11,47.589043,8.292186,coop-supermarkt-bad-zurzach,Bad Zurzach,5330,Baslerstrasse,retail
+17,46.228156,7.373712,pronto-sion,Sion,1950,Rue de casernes,pronto
+37,47.422658,7.500353,interdiscount-laufen,Laufen,4242,Hauptstrasse,id
+2,46.194718,9.024798,coop-supermarkt-bellinzona-centro,Bellinzona,6500,Via Gen. Guisan,retail
+2,46.194718,9.024798,coop-restaurant-bellinzona-centro,Bellinzona,6500,Via G. Guisan,restaurant
+95,47.469238,7.595523,coop-supermarkt-aesch,Aesch,4147,Hauptstrasse,retail
+7,46.192988,9.024307,interdiscount-bellinzona,Bellinzona,6500,Piazza del Sole,id
+6,47.43882,7.528701,pronto-zwingen,Zwingen,4222,Laufenstrasse,pronto
+152,47.518311,8.719861,interdiscount-winterthur-schaffhauserstr-,Winterthur,8400,Schaffhauserstrasse,id
+152,47.51833,8.719835,christ-winterthur-rosenberg-christ,Winterthur,8407,Schaffhauserstrasse,christ
+5,46.811978,9.401271,coop-supermarkt-bonaduz,Bonaduz,7402,Kirchstrasse,retail
+36,46.194923,9.028768,coop-supermarkt-bellinzona-stazione,Bellinzona,6500,Viale Stazione,retail
+36,46.183761,9.012393,coop-supermarkt-bellinzona-py,Bellinzona,6500,Via Franco Zorzi,retail
+,46.155969,8.966471,coop-vitality-s--antonino,S. Antonino,6592,"Centro Manor, La Rotonda",vitality
+1,46.601199,7.074798,pronto-bulle-la-tour-de-treme,La Tour-de-Trême,1635,Pra-Riond,pronto
+44,46.231316,7.362703,christ-sion-place-du-midi-christ,Sion,1950,Place du midi,christ
+44,46.231271,7.362755,coop-supermarkt-city-sion-food,Sion,1950,Place du Midi,retail
+44,46.231271,7.362755,coop-city-city-sion,Sion,1950,Place du Midi,city
+44,46.231271,7.362755,coop-restaurant-sion,Sion,1950,Place du Midi,restaurant
+2,46.231271,7.362755,impo-sion-city-ip,Sion,1950,Rue du Scex,impo
+4,46.154546,8.965939,coop-supermarkt-s--antonino,San Antonino,6592,Via Serrai,retail
+7,47.503984,8.770729,coop-supermarkt-winterthur-hegi,Winterthur,8409,Stäffelistrasse,retail
+,46.47402,7.133475,coop-supermarkt-chateau-d-oex,Château-d'Oex,1660,La Petite Ray,retail
+16,47.509053,8.758523,coop-supermarkt-winterthur-oberi,Winterthur,8404,Römertorstrasse,retail
+234,47.510016,8.759317,lumimart-winterthur,Winterthur,8404,Römerstrasse,lumimart
+19,46.229756,7.358039,interdiscount-sion-avenue-de-la-gare,Sion,1950,Avenue de la gare,id
+43,46.242327,7.339765,coop-supermarkt-saviese,Ormône-Savièse,1965,Rte de Savièse,retail
+,46.227481,7.359274,pronto-sion-gare,Sion,1950,Place de la gare,pronto
+2A,47.498778,8.797624,coop-supermarkt-raeterschen,Räterschen,8352,Stationsstrasse,retail
+70,46.62659,7.059963,coop-bau-hobby-b-l-bulle,Bulle,1630,Route de Riaz,bh
+16,46.226115,7.360675,coop-supermarkt-sion-sous-gare,Sion,1950,Rue de l'Industrie,retail
+50,46.625016,7.060066,coop-supermarkt-bulle-le-caro,Bulle,1630,Route de Riaz,retail
+50,46.625016,7.060066,coop-restaurant-bulle-le-caro,Bulle,1630,Route de Riaz,restaurant
+50,46.625043,7.06,interdiscount-bulle-rue-de-vevey,Bulle,1630,Route de Riaz,id
+50,46.624681,7.059428,impo-bulle-le-caro-ip,Bulle,1630,Route de Riaz,impo
+2,46.173758,9.010356,coop-supermarkt-giubiasco,Giubiasco,6512,Via Linoleum,retail
+20,46.168122,9.002799,pronto-giubiasco,Giubiasco,6512,Via Monte Ceneri,pronto
+21,46.623058,7.058095,interdiscount-bulle-rte-de-riaz,Bulle,1630,Rte de Riaz,id
+35,46.619385,7.057376,coop-supermarkt-bulle-ville,Bulle,1630,Grand-Rue,retail
+40,47.361568,7.374794,coop-supermarkt-courroux,Courroux,2822,Rue du 23 Juin,retail
+,46.149457,8.974315,interdiscount-san-antonino,S. Antonino,6592,Centro Acquisti,id
+49,47.551964,7.803446,pronto-rheinfelden,Rheinfelden,4310,Zürcherstrasse,pronto
+4-6,47.488665,7.608796,coop-supermarkt-dornach,Dornach,4143,Neuarlesheimerstrasse,retail
+11/13,47.123443,9.314547,coop-supermarkt-walenstadt,Walenstadt,8880,Bahnhofstrasse,retail
+12,47.063829,7.096617,coop-supermarkt-la-neuveville,La Neuveville,2520,Avenue des Collonges,retail
+18,47.520209,7.691292,coop-supermarkt-pratteln-bahnhof,Pratteln,4133,Bahnhofstrasse,retail
+18,47.520209,7.691292,coop-restaurant-pratteln-bahnhof,Pratteln,4133,Bahnhofstrasse,restaurant
+95,47.48996,7.608681,pronto-arlesheim,Arlesheim,4144,Birseckstrasse,pronto
+1,46.633173,7.04866,pronto-bulle-rue-de-battentin,Bulle,1630,Rue de Battentin,pronto
+46a,46.220777,7.355525,pronto-sion-r-d-la-drague,Sion,1950,Route de la Drague,pronto
+4,47.495024,7.620468,coop-supermarkt-arlesheim,Arlesheim,4144,Gartenweg,retail
+9,47.563366,7.842218,coop-supermarkt-moehlin,Möhlin,4313,Hauptstrasse,retail
+9,47.563366,7.842218,coop-restaurant-moehlin,Möhlin,4313,Hauptstrasse,restaurant
+,46.876582,7.03265,pronto-avenches,Avenches,1580,En Milavy,pronto
+8,47.582032,8.514388,coop-supermarkt-huentwangen,Hüntwangen,8194,Bauelenzelgstrasse,retail
+8,47.523276,7.695356,pronto-pratteln-gallenweg,Pratteln,4133,Gallenweg,pronto
+10,47.582149,8.514444,coop-bau-hobby-b-h-huentwangen,Hüntwangen,8194,Bauelenzelgstrasse,bh
+65,47.23127,7.213599,pronto-reconvilier,Reconvilier,2732,Rue du Bruye,pronto
+,46.877604,7.031645,coop-supermarkt-avenches-milavy,Avenches,1580,En Milavy,retail
+50,47.230746,7.212518,coop-supermarkt-reconvilier,Reconvilier,2732,Route du Bruye,retail
+10,47.522638,7.690786,pronto-pratteln-bahnhof,Pratteln,4133,Güterstrasse,pronto
+4,47.551534,7.785389,coop-supermarkt-rheinfelden-salmen-center,Rheinfelden,4310,Baslerstrasse,retail
+7,47.195036,7.177964,coop-supermarkt-sonceboz,Sonceboz,2605,Rue de la Gare,retail
+20,47.538841,7.734412,pronto-kaiseraugst,Kaiseraugst,4303,Lerchenweg,pronto
+5,47.538217,7.732031,coop-supermarkt-kaiseraugst,Kaiseraugst,4303,Junkholzweg,retail
+5,47.538217,7.732031,coop-restaurant-kaiseraugst,Kaiseraugst,4303,Junkholzweg,restaurant
+1,47.537845,7.730103,interdiscount-kaiseraugst,Kaiseraugst,4303,Junkholzweg,id
+1,47.537863,7.730117,coop-bau-hobby-b-h-kaiseraugst,Kaiseraugst,4303,Junkholzweg,bh
+3,47.537863,7.730117,coop-vitality-kaiseraugst,Kaiseraugst,4303,Junkholzweg,vitality
+3,47.537863,7.730117,impo-kaiseraugst-ip,Kaiseraugst,4303,Junkholzweg,impo
+3,47.526098,7.692156,lumimart-pratteln,Pratteln,4133,Rührbergweg,lumimart
+9,47.52595,7.689779,livique-pratteln,Pratteln,4133,Grüssenweg,livique
+21,47.090783,9.345061,coop-supermarkt-flums,Flums,8890,Marktstrasse,retail
+58,46.352169,7.199181,coop-supermarkt-les-diablerets,les Diablerets,1865,Route des Pillon,retail
+6,46.023343,7.74898,coop-supermarkt-zermatt,Zermatt,3920,Bahnofplatz,retail
+49,47.525045,7.683893,pronto-pratteln-hardstrasse,Pratteln,4133,Hardstrasse,pronto
+10,47.527559,7.690278,coop-supermarkt-pratteln-gruessen,Pratteln,4133,Grüssenweg,retail
+10,47.527559,7.690278,christ-pratteln-christ,Pratteln,4133,Grüssenweg,christ
+65,46.237438,9.127286,coop-supermarkt-roveredo-gr,Roveredo,6535,Piazéta,retail
+47,47.491497,7.589631,interdiscount-reinach-bl,Reinach,4153,Hauptstrasse,id
+27,47.536998,8.734086,coop-supermarkt-seuzach,Seuzach,8472,Strehlgasse,retail
+1,47.493759,7.593326,coop-supermarkt-reinach-bl,Reinach,4153,Austrasse,retail
+1,47.493759,7.593326,coop-restaurant-reinach-bl,Reinach,4153,Austrasse,restaurant
+9,47.362236,7.35094,pronto-delemont-gare,Delémont,2800,Place de la Gare,pronto
+72,47.530634,7.686707,halba-schoggihuesli-halba-schoggihuesli-pratteln,Pratteln,4133,Salinenstrasse,halba
+10,47.3639,7.350514,interdiscount-delemont-casino,Delémont,2800,Rue Pré Guillaume,id
+36,47.363278,7.349337,impo-delemont-ip,Delémont,2800,Rue de la Molière,impo
+1,47.523001,8.787699,coop-supermarkt-wiesendangen,Wiesendangen,8542,Attikerstrasse,retail
+26,47.493901,8.865095,coop-supermarkt-elgg,Elgg,8353,Bahnhofstrasse,retail
+1,47.364805,7.347057,coop-supermarkt-delemont,Delémont,2800,Rue de l'Avenir,retail
+56,47.361688,7.3401,pronto-delemont,Delémont,2800,Rue du Stand,pronto
+26,47.054457,7.067893,coop-supermarkt-le-landeron-rue-du-lac,Le Landeron,2525,Rue du Lac,retail
+15,47.482462,7.545743,coop-supermarkt-ettingen,Ettingen,4107,Hauptstrasse,retail
+15,47.506135,7.599826,coop-supermarkt-reinach-surbaum,Reinach,4153,Habshagstrasse,retail
+41,46.108364,7.501014,coop-supermarkt-evolene,Evolène,1983,Route Cantonale,retail
+29,46.698108,9.439399,coop-bau-hobby-b-h-thusis,Thusis,7430,Neue Kirchstrasse,bh
+ 67,46.697847,9.439389,interdiscount-thusis,Thusis,7430,Neudorfstrasse,id
+96,46.697918,9.439954,coop-supermarkt-thusis,Thusis,7430,Neudorfstrasse,retail
+78-80,47.527373,7.648025,interdiscount-muttenz,Muttenz,4132,Hauptstrasse,id
+8,47.527617,7.647495,coop-supermarkt-muttenz-dorf,Muttenz,4132,Brühlweg,retail
+1,47.527861,7.647057,coop-hotel-muttenz-hotel-baslertor,Muttenz,4132,St. Jakobsstrasse,hotel
+2,46.697504,9.442555,pronto-thusis,Thusis,7430,Pantunweg,pronto
+11,47.019883,7.041813,pronto-gals,Gals,3238,Bernstrasse,pronto
+96,46.836966,9.452482,coop-supermarkt-domat-ems,Domat-Ems,7013,Via Nova,retail
+164,46.618087,7.018167,coop-supermarkt-vuadens-neu,Vuadens,1628,Rue Principale,retail
+18,46.224002,7.304714,coop-supermarkt-conthey,Conthey,1964,Route Cantonale,retail
+23,47.49266,8.899662,coop-supermarkt-aadorf,Aadorf,8355,Wiesentalstrasse,retail
+22,47.493432,8.898396,pronto-aadorf,Aadorf,8355,Morgentalstrasse,pronto
+37,46.224423,7.302704,pronto-conthey-rue-de-la-gare,Conthey,1964,rue de la gare,pronto
+10,47.499111,7.55451,coop-supermarkt-therwil,Therwil,4106,Bahnhofstrasse,retail
+6,47.52126,7.607692,impo-muenchenstein-ip,Münchenstein,4142,Kaspar-Pfeifferstrasse,impo
+6,47.521278,7.607705,christ-muenchenstein-christ,Münchenstein,4142,Kaspar-Pfeifferstrasse,christ
+9,46.225162,7.296559,lumimart-conthey,Conthey,1964,Route Cantonale,lumimart
+8,47.521297,7.607121,coop-supermarkt-muenchenstein-gartenstadt,Münchenstein,4142,Stöckackerstrasse,retail
+8,47.521297,7.607121,coop-restaurant-muenchenstein-gartenstadt,Münchenstein,4142,Stöckackerstrasse,restaurant
+8,47.521297,7.607121,take-it-muenchenstein-garten-take-it,Münchenstein,4142,Stöckackerstrasse,takeit
+30,47.535048,7.641455,coop-supermarkt-muttenz-campus,Muttenz,4132,Hofackerstrasse,retail
+4,46.22445,7.295407,interdiscount-conthey,Conthey,1964,Rte. cantonale,id
+2,46.223965,7.295797,coop-supermarkt-conthey-bassin,Conthey,1964,Rue de la Madeleine,retail
+2,46.223965,7.295797,coop-restaurant-conthey-bassin,Conthey,1964,Rue de la Madeleine,restaurant
+2,46.223857,7.295823,coop-vitality-conthey,Conthey,1964,Rue de la Madeleine,vitality
+2,46.223848,7.295823,impo-conthey-ip,Conthey,1964,Rue de la Madeleine,impo
+22,47.196749,9.310427,coop-supermarkt-unterwasser,Unterwasser,9657,Dorfstrasse,retail
+2,46.223648,7.294839,pronto-conthey,Conthey,1964,Rue de la Madeleine,pronto
+65,47.524323,7.604489,pronto-muenchenstein,Münchenstein,4142,Bottmingerstrasse,pronto
+40,47.503958,7.554719,pronto-therwil,Therwil,4106,Oberwilerstrasse,pronto
+133,47.534116,7.628941,pronto-muttenz,Muttenz,4132,St.  Jakobsstrasse,pronto
+12,47.534087,7.624506,coop-hotel-coop-tagungszentrum,Muttenz,4132,Seminarstrasse,hotel
+155,47.535746,7.627367,coop-supermarkt-muttenz-freidorf,Muttenz,4132,St. Jakobs-Strasse,retail
+44,47.506622,7.553583,coop-bau-hobby-b-h-oberwil,Oberwil,4104,Mühlemattstrasse,bh
+34,47.507593,7.553718,coop-supermarkt-oberwil-muehlematt,Oberwil,4104,Mühlemattstrasse,retail
+34,47.507593,7.553718,coop-restaurant-oberwil-muehlematt,Oberwil,4104,Mühlemattstrasse,restaurant
+22,47.509373,7.55432,interdiscount-oberwil,Oberwil,4104,Mühlemattstrasse,id
+5,47.462874,8.996342,coop-supermarkt-sirnach,Sirnach,8370,Unterdorfstrasse,retail
+1,47.514487,7.557862,coop-supermarkt-oberwil-bahnhofstrasse,Oberwil,4104,Bahnhofstrasse,retail
+1,47.514487,7.557862,coop-restaurant-oberwil,Oberwil,4104,Bahnhofstrasse,restaurant
+15,47.514604,7.558021,coop-vitality-oberwil,Oberwil,4104,Hauptstrasse,vitality
+202-204,47.533658,7.604491,pronto-basel-reinacherstrasse,Basel,4053,Reinacherstrasse,pronto
+84,47.489232,7.500404,coop-supermarkt-baettwil-flueh,Bättwil,4112,Hauptstrasse,retail
+1,47.047319,9.420801,coop-supermarkt-mels-dorf,Mels,8887,Sarganserstrasse,retail
+397,47.54074,7.620292,coop-supermarkt-basel-st--jakob-park,Basel,4052,St. Jakobstrasse,retail
+397,47.54074,7.620292,impo-basel-st--jakobpark-ip,Basel,4052,St. Jakob-Strasse,impo
+83,47.539608,7.613767,pronto-basel-st--jakob,Basel,4052,Brüglingerstrasse,pronto
+13,46.845777,9.478753,coop-supermarkt-felsberg,Felsberg,7012,Vordere Gasse,retail
+81,47.337862,7.252844,coop-supermarkt-bassecourt,Bassecourt,2854,Rue de l'Abbé Monnin,retail
+81,47.337862,7.252844,coop-bau-hobby-b-l-bassecourt,Bassecourt,2854,Rue de l'Abbé Monnin,bh
+81,47.338447,7.253093,coop-restaurant-bassecourt,Bassecourt,2854,Rue de l'Abbé Monnin,restaurant
+88,47.534214,7.593152,coop-supermarkt-basel-hauenstein,Basel,4059,Hauensteinstrasse,retail
+43,47.526927,7.572907,coop-supermarkt-bottmingen,Bottmingen,4103,Baslerstrasse,retail
+8,47.336967,7.244551,interdiscount-bassecourt,Bassecourt,2854,R. de l'Abbé-Monnin,id
+63,47.04037,9.434969,coop-supermarkt-mels-pizolcenter,Mels,8887,Grossfeldstrasse,retail
+63,47.04037,9.434969,coop-restaurant-mels-pizolcenter,Mels,8887,Grossfeldstrasse,restaurant
+65,47.039485,9.4362,pronto-mels-pizolcenter,Mels,8887,Grossfeldstrasse,pronto
+8,47.012792,6.999136,pronto-marin,Marin,2074,Champs-Montants,pronto
+257,47.542014,7.597637,pronto-basel-gueterstrasse,Basel,4053,Güterstrasse,pronto
+61,47.445491,9.051689,coop-bau-hobby-b-h-rickenbach,Rickenbach bei Wil,9532,Toggenburgerstrasse,bh
+7,46.061944,8.929178,coop-supermarkt-taverne,Taverne,6807,Via Carvina,retail
+11,47.497841,8.953603,coop-supermarkt-waengi,Wängi,9545,Dorfstrasse,retail
+41 / 43,47.046406,9.436129,interdiscount-mels,Mels,8887,Grossfeldstrasse,id
+70,47.55287,7.621808,coop-supermarkt-birsfelden,Birsfelden,4127,Hauptstrasse,retail
+4,47.447047,9.053022,coop-supermarkt-rickenbach,Rickenbach bei Wil,9532,Breitenstrasse,retail
+4,47.447047,9.053022,coop-restaurant-rickenbach,Rickenbach bei Wil,9532,Breitenstrasse,restaurant
+4,47.447047,9.053022,coop-vitality-rickenbach-b--wil,Rickenbach bei Wil,9532,Breitenstrasse,vitality
+3,47.447047,9.053022,lumimart-rickenbach,Rickenbach bei Wil,9532,Breitestrasse,lumimart
+4,47.446959,9.05355,interdiscount-rickenbach-id,Rickenbach bei Wil,9532,Breitenstrasse,id
+4,47.479284,8.995589,coop-supermarkt-muenchwilen,Münchwilen,9542,Frauenfelderstrasse,retail
+6,47.479751,8.994926,pronto-muenchwilen,Münchwilen,9542,Frauenfelderstrasse,pronto
+190,47.542992,7.593111,coop-supermarkt-basel-gundeli,Basel,4053,Güterstrasse,retail
+190,47.542992,7.593111,coop-restaurant-basel-gundeli,Basel,4053,Güterstrasse,restaurant
+177,47.543757,7.592382,interdiscount-basel-gundeli,Basel,4053,Güterstrasse,id
+95,47.549592,7.606706,coop-supermarkt-basel-hardstrasse,Basel,4052,Hardstrasse,retail
+4,47.047396,9.440721,coop-supermarkt-sargans,Sargans,7320,Bahnhofstrasse,retail
+125,47.545381,7.588655,coop-supermarkt-basel-suedpark,Basel,4053,Güterstrasse,retail
+125,47.545381,7.588655,coop-vitality-basel-suedpark,Basel,4053,Güterstrasse,vitality
+125,47.545381,7.588655,take-it-basel-suedpark-take-it,Basel,4053,Güterstrasse,takeit
+37,47.555203,7.613738,coop-supermarkt-basel-breite,Basel,4052,Farnsburgerstrasse,retail
+142,47.555015,7.61306,pronto-basel-breite,Basel,4052,Zürcherstrasse,pronto
+,47.045349,9.44512,pronto-sargans-bahnhof,Sargans,7320,Bahnhof SBB,pronto
+90,47.539923,7.572754,coop-supermarkt-binningen,Binningen,4102,Hauptstrasse,retail
+115,47.546657,7.589668,pronto-basel-bahnhof-sbb,Basel,4053,Güterstrasse,pronto
+115,47.546657,7.589668,impo-basel-bahnhof-ip,Basel,4053,Güterstrasse,impo
+5,47.542031,7.57786,pronto-binningen,Binningen,4102,Baslerstrasse,pronto
+4,47.547879,7.590574,coop-supermarkt-basel-bahnhof-sbb,Basel,4051,Centralbahnplatz,retail
+3-4,47.547942,7.590614,coop-hotel-basel-hotel-victoria,Basel,4051,Centralbahnplatz,hotel
+62,47.602748,8.688371,coop-supermarkt-kleinandelfingen,Kleinandelfingen,8451,Schaffhauserstrasse,retail
+103,47.45845,9.048129,pronto-wil,Wil,9500,Toggenburgerstrasse,pronto
+2,47.551263,7.595725,interdiscount-basel-aeschenplatz,Basel,4052,Aeschenplatz,id
+11,46.846884,9.501353,pronto-chur-spundisstrasse,Chur,7000,Spundisstrasse,pronto
+4,47.013473,6.984756,coop-supermarkt-saint-blaise,Saint-Blaise,2072,Route de Neuchâtel,retail
+75,47.551786,7.594597,coop-supermarkt-basel-aeschenplatz,Basel,4051,Aeschenvorstadt,retail
+3,47.46441,9.041968,interdiscount-wil,Wil,9500,Zürcherstrasse,id
+10,47.551986,7.592818,impo-basel-sternengasse-ip,Basel,4051,Sternengasse,impo
+1,46.068529,8.968213,coop-supermarkt-tesserete,Tesserete,6950,Via Carlo Battaglini,retail
+7,46.822116,6.941864,coop-supermarkt-payerne,Payerne,1530,Place du Général Guisan,retail
+38,46.182443,7.290713,coop-supermarkt-nendaz,Haute-Nendaz,1997,Route des Ecluses,retail
+27,47.464651,9.044058,impo-wil-ip,Wil,9500,obere Bahnhofstrasse,impo
+1,47.520365,8.935016,coop-supermarkt-matzingen,Matzingen,9548,Thundorferstrasse,retail
+39,47.464605,9.045436,coop-restaurant-wil-stadtmarkt,Wil,9500,Obere Bahnhofstrasse,restaurant
+39,47.464622,9.045463,coop-supermarkt-wil-stadtmarkt,Wil,9500,Obere Bahnhofstrasse,retail
+93,47.526197,8.922895,pronto-matzingen,Matzingen,9548,Frauenfelderstrasse,pronto
+32/4,47.465386,9.044876,coop-city-city-wil,Wil,9500,Obere Bahnhofstrasse,city
+32/4,47.465386,9.044876,impo-wil-cc-ip,Wil,9500,Obere Bahnhofstrasse,impo
+9,46.847933,9.506534,livique-chur,Chur,7000,Sommeraustrasse,livique
+15,46.821409,6.938686,interdiscount-payerne-grand-rue,Payerne,1530,Grand-Rue,id
+9,46.848222,9.506991,coop-bau-hobby-b-h-chur,Chur,7000,Sommeraustrasse,bh
+132/134,47.565099,7.617904,coop-supermarkt-basel-baeumlihof,Basel,4058,Bäumlihofstrasse,retail
+35,46.84746,9.508287,coop-supermarkt-chur-west,Chur,7000,Raschärenstrasse,retail
+35,46.84746,9.508287,coop-restaurant-chur-west,Chur,7000,Raschärenstrasse,restaurant
+ 35,46.84746,9.508287,coop-vitality-chur,Chur,7000,Raschärenstrasse,vitality
+35,46.84746,9.508287,impo-chur-city-west-ip,Chur,7000,Raschärenstrasse,impo
+35,46.847478,9.508287,christ-chur-city-west-christ,Chur,7000,Raschärenstrasse,christ
+45,47.551327,7.580621,coop-supermarkt-basel-bachletten,Basel,4051,Steinenring,retail
+33,47.570795,7.632913,coop-supermarkt-riehen-rauracher,Riehen,4125,Rauracherstrasse,retail
+20,47.555245,7.589984,pronto-basel-barfuesserplatz,Basel,4051,Streitgasse,pronto
+18,47.554824,7.588694,coop-to-go-basel-barfuesserplatz-to-go,Basel,4051,Barfüsserplatz,togo
+75,47.555649,7.590796,coop-supermarkt-city-basel-pfauen-food,Basel,4051,Freie Strasse,retail
+75,47.555649,7.590796,coop-city-city-basel-pfauen,Basel,4051,Freie Strasse,city
+75,47.555649,7.590796,coop-restaurant-basel-pfauen,Basel,4051,Freie Strasse,restaurant
+15,47.555649,7.590796,per-piedi-city-basel-perpiedi,Basel,4001,Weisse Gasse,perpiedi
+75,47.555649,7.590796,christ-basel-pfauen-christ,Basel,4001,Freie Strasse,christ
+75,47.555649,7.590796,take-it-basel-city-pfauen-take-it,Basel,4002,Freie Strasse,takeit
+75,47.555649,7.590796,impo-basel-pfauen-city-ip,Basel,4051,Freie Strasse,impo
+37,46.849276,9.508894,interdiscount-chur,Chur,7000,Raschärenstrasse,id
+159,47.546551,7.56512,coop-supermarkt-basel-neuweilerplatz,Basel,4054,Holeestrasse,retail
+41,47.556039,7.588698,christ-basel-gerbergasse-christ,Basel,4001,Gerbergasse,christ
+11,47.223533,7.099201,coop-supermarkt-tramelan,Tramelan,2720,Rue Haute,retail
+5,47.557406,7.588157,impo-basel-gerbergasse-ip,Basel,4001,Gerbergasse,impo
+4,47.557416,7.587785,coop-city-city-am-marktplatz,Basel,4001,Gerbergasse,city
+19,47.557407,7.587758,impo-basel-am-marktplatz-ip,Basel,4001,Hutgasse,impo
+4,47.557443,7.587798,coop-restaurant-basel-am-marktplatz,Basel,4001,Gerbergasse,restaurant
+1,47.372309,9.195321,coop-supermarkt-degersheim,Degersheim,9113,Taastrasse,retail
+15,47.557497,7.5874,coop-vitality-basel-hutgasse,Basel,4001,Hutgasse,vitality
+19,47.557515,7.587254,coop-supermarkt-city-basel-marktplatz-food,Basel,4001,Hutgasse,retail
+263,47.57563,7.634938,pronto-riehen,Riehen,4125,Äussere Baselstrasse,pronto
+31,46.854275,9.513612,pronto-chur-ringstrasse,Chur,7000,Ringstrasse,pronto
+8,46.824173,6.930928,coop-bau-hobby-b-l-payerne,Payerne,1530,Route de Bussy,bh
+36,47.558873,7.587417,interdiscount-basel-markthof-xxl,Basel,4001,Marktplatz,id
+22,47.562387,7.596409,coop-vitality-basel-st--clara,Basel,4058,Clarastrasse,vitality
+41,47.562863,7.597022,coop-vitality-basel-europecenter,Basel,4058,Clarastrasse,vitality
+41,47.562899,7.597009,ca-puccini-basel-europe-ca-puccini,Basel,4058,Clarastrasse,capuccini
+43,47.563177,7.597621,coop-hotel-pullman-basel-europe,Basel,4058,Clarastrasse,hotel
+32,47.55203,8.878773,pronto-frauenfeld-zuercherstrasse,Frauenfeld,8500,Zürcherstrasse,pronto
+41,47.563294,7.597329,coop-supermarkt-basel-europe,Basel,4058,Clarastrasse,retail
+23,47.561591,7.592793,impo-basel-greifengasse-ip,Basel,4058,Greifengasse,impo
+11,47.561242,7.591795,christ-basel-greifengasse-christ,Basel,4058,Greifengasse,christ
+3,47.561063,7.59121,coop-supermarkt-basel-greifengasse,Basel,4058,Greifengasse,retail
+8,47.559584,7.587193,coop-supermarkt-basel-fischmaert,Basel,4051,Marktgasse,retail
+200,47.56739,7.607148,pronto-basel-badischer-bahnhof,Basel,4058,Schwarzwaldallee,pronto
+35,47.562447,7.591998,interdiscount-basel-webergasse,Basel,4058,Webergasse,id
+127,47.551798,7.562409,coop-supermarkt-basel-wanderstrasse,Basel,4054,Wanderstrasse,retail
+19,47.570327,7.609868,coop-supermarkt-basel-schorenweg,Basel,4058,Schorenweg,retail
+31,47.567327,7.601061,coop-supermarkt-basel-mattenstrasse,Basel,4058,Maulbeerstrasse,retail
+51/53,47.556392,7.571839,coop-supermarkt-basel-allschwilerstrasse,Basel,4055,Allschwilerstrasse,retail
+7/9,47.585046,7.650605,coop-supermarkt-riehen-schmiedgasse,Riehen,4125,Schmiedgasse,retail
+82,47.547091,7.54675,coop-restaurant-allschwil-letten,Allschwil,4123,Binningerstrasse,restaurant
+86,47.547487,7.547282,interdiscount-allschwil,Allschwil (BL),4123,Binningerstrasse,id
+84,47.547667,7.546805,coop-supermarkt-allschwil-letten-center,Allschwil,4123,Binningerstrasse,retail
+22,46.825574,6.924493,pronto-payerne,Payerne,1530,Route de Bussy,pronto
+5,46.85762,9.520169,coop-supermarkt-chur-kurfirsten,Chur,7000,Kurfirstenstrasse,retail
+53,47.560659,7.57573,coop-supermarkt-basel-spalemaert,Basel,4055,Missionsstrasse,retail
+57,47.560867,7.575305,coop-vitality-basel-pilger,Basel,4055,Missionsstrasse,vitality
+25,46.847201,9.524041,pronto-chur-kasernenstrasse,Chur,7000,Kasernernstrasse,pronto
+142,47.569104,7.590635,coop-supermarkt-basel-klybeck,Basel,4057,Klybeckstrasse,retail
+4,47.56021,7.567371,coop-supermarkt-basel-helvetiaplatz,Basel,4055,Obwaldnerstrasse,retail
+138,47.554363,8.895791,christ-frauenfeld-christ,Frauenfeld,8500,Zürcherstr.,christ
+138,47.554098,8.896873,coop-supermarkt-frauenfeld-schlosspark,Frauenfeld,8500,Zürcherstrasse,retail
+138,47.554098,8.896873,coop-restaurant-frauenfeld-schlosspark,Frauenfeld,8500,Zürcherstrasse,restaurant
+138,47.554467,8.896179,coop-vitality-frauenfeld,Frauenfeld,8500,Zürcherstrasse,vitality
+9,47.558519,7.559874,coop-supermarkt-allschwil-lindenplatz,Allschwil,4123,Lindenstrasse,retail
+66,46.8591,9.526812,coop-supermarkt-chur-tittwiesen,Chur,7000,Tittwiesenstrasse,retail
+1,47.316519,9.281924,coop-supermarkt-urnaesch,Urnäsch,9107,Schwägalpstrasse,retail
+3,46.853155,9.529152,pronto-chur-bahnhof,Chur,7000,Bahnhof,pronto
+28,47.551416,7.538191,coop-supermarkt-allschwil-dorf,Allschwil,4123,Baslerstrasse,retail
+70,47.557064,8.895613,interdiscount-frauenfeld-bahnhofplatz,Frauenfeld,8500,Bahnhofstrasse,id
+55,47.003055,6.951485,livique-neuchatel-portes-rouges,Neuchâtel,2000,Av. des Portes-Rouges,livique
+70-72,47.557193,8.896121,impo-frauenfeld-ip,Frauenfeld,8501,Bahnhofplatz,impo
+17,47.561225,8.887288,coop-supermarkt-frauenfeld-fallengatter,Frauenfeld,8500,Schaffhauserstrasse,retail
+36,47.569127,7.579672,coop-supermarkt-basel-elsaesserstrasse,Basel,4056,Elsässerstrasse,retail
+2,46.852436,9.53155,impo-chur-alexanderstrasse-cc-ip,Chur,7000,Alexanderstrasse,impo
+8,46.852696,9.5316,coop-city-city-chur,Chur,7000,Alexanderstrasse,city
+21,46.85191,9.531792,impo-chur-bahnhofstrasse-ip,Chur,7000,Bahnhofstrasse,impo
+3,46.850328,9.53219,christ-chur-christ,Chur,7000,Poststrasse,christ
+8,46.852864,9.532275,coop-supermarkt-city-chur-food,Chur,7000,Alexanderstrasse,retail
+119,47.557443,7.546918,pronto-allschwil,Allschwil,4123,Hegenheimermattweg,pronto
+40,47.008681,9.496972,pronto-bad-ragaz,Bad Ragaz,7310,Sarganserstrasse,pronto
+62,47.577946,7.596508,pronto-basel-hochbergerstrasse,Basel,4057,Hochbergerstrasse,pronto
+36,46.852443,9.534594,coop-supermarkt-chur-quader,Chur,7000,Quaderstrasse,retail
+36,46.852443,9.534594,coop-restaurant-chur-quader,Chur,7000,Quaderstrasse,restaurant
+10,46.995538,6.943717,interdiscount-neuchatel-la-maladiere-xxl,Neuchâtel,2000,Rue de Pierre-à-Mazel,id
+,46.995637,6.943703,christ-neuchatel-maladiere-christ,Neuchâtel,2000,Rue Pierre-à-Mazel,christ
+10,46.995592,6.943678,impo-neuchatel-la-maladiere-ip,Neuchâtel,2000,Pierre-à-Mazel,impo
+10,46.995538,6.943639,coop-vitality-neuchatel,Neuchâtel,2000,rue Pierre-à-Mazel,vitality
+3,47.435193,9.138804,pronto-uzwil,Uzwil,9240,Wattstrasse,pronto
+10,46.995383,6.943219,coop-supermarkt-neuchatel-maladiere,Neuchâtel,2000,Rue de la Pierre-à-Mazel,retail
+10,46.995383,6.943219,coop-restaurant-neuchatel-maladiere,Neuchâtel,2000,Rue de la Pierre-à-Mazel,restaurant
+10,46.995383,6.943219,ca-puccini-neuchatel-maladiere-ca-pucci,Neuchâtel,2000,Rue de la Pierre-à-Mazel,capuccini
+76,47.576766,7.591016,coop-supermarkt-basel-wiesenplatz,Basel,4057,Inselstrasse,retail
+6/10,47.565954,7.562336,coop-supermarkt-basel-michelbacher,Basel,4055,Michelbacherstrasse,retail
+,46.015811,8.912514,coop-supermarkt-bioggio,Bioggio,6934,Via Longa,retail
+63,46.852725,9.535903,interdiscount-chur-quader,Chur,7000,Quaderstrasse,id
+10,47.570681,7.573802,coop-supermarkt-basel-volta-zentrum,Basel,4056,Vogesenplatz,retail
+10,47.570681,7.573802,coop-restaurant-basel-volta-zentrum,Basel,4056,Vogesenplatz,restaurant
+5,47.003333,9.50216,coop-supermarkt-bad-ragaz,Bad Ragaz,7310,Freihofweg,retail
+1,47.436161,9.139087,coop-supermarkt-uzwil,Uzwil,9240,Wattstrasse,retail
+1,47.436188,9.139061,coop-restaurant-uzwil,Uzwil,9240,Wattstrasse,restaurant
+10,47.573489,7.57963,pronto-novartis--nicht-oeffentlich-,Basel,4056,Fabrikstrasse,pronto
+18,46.692931,6.913964,coop-supermarkt-romont,Romont,1680,Route de Belle Croix,retail
+228,47.417444,9.169677,pronto-flawil,Flawil SG,9230,Wilerstrasse,pronto
+228,47.417435,9.169717,pronto-kirchberg,Wil,9500,Wilerstrasse,pronto
+,46.779252,9.544203,coop-supermarkt-churwalden,Churwalden,7075,Im Wiher,retail
+3,46.997029,6.93692,pronto-neuchatel-gare,Neuchâtel,2000,Espace de l'Europe,pronto
+5,46.021269,8.936605,coop-supermarkt-vezia,Vezia,6943,Via San Gottardo,retail
+,46.996457,6.935847,coop-supermarkt-neuchatel-gare,Neuchâtel,2000,Gare de Neuchâtel,retail
+28,47.074195,9.480931,coop-supermarkt-truebbach,Trübbach,9477,Hauptstrasse,retail
+297,47.563859,8.908159,interdiscount-frauenfeld-thurgi,Frauenfeld,8500,Zürcherstrasse,id
+4,47.413786,9.185622,coop-supermarkt-flawil,Flawil,9230,Schweissbrunnstrasse,retail
+3,46.989937,6.930097,coop-supermarkt-city-neuchatel-food,Neuchâtel,2000,Rue des Epancheurs,retail
+3,46.989937,6.930097,coop-city-city-neuchatel,Neuchâtel,2000,Rue des Epancheurs,city
+3,46.989937,6.930097,coop-restaurant-neuchatel,Neuchâtel,2000,Rue des Epancheurs,restaurant
+3,46.989937,6.930097,impo-ne-epancheurs-cc-ip,Neuchâtel,2000,Rues des Epancheurs,impo
+18,47.445643,9.139708,coop-supermarkt-niederuzwil,Niederuzwil,9244,Henauer Strasse,retail
+4,46.990574,6.929684,coop-supermarkt-neuchatel-la-treille,Neuchâtel,2000,Rue de la Treille,retail
+4,46.990862,6.92976,interdiscount-neuchatel-rue-du-bassin,Neuchâtel,2000,Rue du Bassin,id
+8,46.990977,6.929207,impo-neuchatel-rue-de-seyon-ip,Neuchâtel,2000,Rue du Seyon,impo
+16,47.567418,8.90633,coop-supermarkt-frauenfeld-allmendcenter,Frauenfeld,8500,Juchstrasse,retail
+,47.011936,9.511595,burger-burger-king-heidiland,Maienfeld,7304,A13,burger
+,47.011597,9.511924,pronto-heidiland-raststaette,Maienfeld,7304,Autobahnraststätte,pronto
+16,47.567669,8.906363,livique-frauenfeld,Frauenfeld,8500,Juchstrasse,livique
+,47.011957,9.511937,marche-marche-heidiland,Maienfeld,7304,A13,marche
+5,46.02854,8.967339,coop-vitality-canobbio,Canobbio,6952,Via Sonvico,vitality
+26,46.012824,8.933017,coop-supermarkt-lugano-breganzona,Breganzona,6932,Via Vergiò,retail
+5,46.028448,8.967453,pronto-canobbio-ipermecato-resega,Canobbio,6952,Via Sonvico,pronto
+5,46.028352,8.96727,impo-canobbio-lugano-ip,Canobbio-Lugano,6952,Via Sonvico,impo
+5,46.028385,8.96749,interdiscount-canobbio-lugano,Canobbio-Lugano,6952,Via Sonvico,id
+79A,47.568529,8.90878,coop-bau-hobby-b-h-frauenfeld,Frauenfeld,8500,Langfeldstrasse,bh
+5,46.028321,8.967566,coop-supermarkt-canobbio-ipermercato-resega,Canobbio,6952,Via Sonvico,retail
+5,46.028321,8.967566,coop-restaurant-canobbio-ipermercato-resega,Canobbio,6952,Via Sonvico,restaurant
+,47.593702,7.603522,coop-hotel-marche-bistro-basel-weil,Basel,4016,A2 / A5 (Richtung Basel),hotel
+2,45.997334,8.902618,coop-supermarkt-agno,Agno,6982,Via Peschiera,retail
+1,47.153488,7.000012,coop-supermarkt-saint-imier,Saint-Imier,2610,Place du 16 Mars,retail
+,46.761817,6.890347,coop-supermarkt-granges-marnand,Granges-Marnand,1523,Chemin des Echelles,retail
+1,46.761969,6.890136,pronto-granges-pres-marnand,Granges prés Marnand,1523,Avenue de la Gare,pronto
+4,47.066166,9.498232,coop-supermarkt-balzers,Balzers,9496,Fabrikstrasse,retail
+77,47.068581,9.497495,pronto-balzers-fl,Balzers,9496,im Gagoz,pronto
+12,47.473171,9.112539,coop-supermarkt-zuzwil-herbergmarkt,Zuzwil,9524,Herbergstrasse,retail
+5,46.017297,8.958398,coop-supermarkt-lugano-nord,Lugano,6904,Via Beltramina,retail
+3,46.019964,8.969424,coop-supermarkt-lugano-pregassona,Pregassona,6963,Via Cassone,retail
+2,46.185804,7.207839,coop-supermarkt-leytron,Leytron,1912,Route de Saillon,retail
+12,45.985302,8.890371,pronto-magliaso,Magliaso,6983,Via Cantonale,pronto
+17,45.985279,8.890783,coop-supermarkt-magliaso,Magliaso,6983,Via Cantonale,retail
+2,46.172382,7.221388,coop-supermarkt-riddes,Riddes,1908,Rue de Pré-Giroud,retail
+137,46.988209,6.90987,coop-supermarkt-neuchatel-vauseyon,Neuchâtel,2006,Rue des Poudrières,retail
+1,46.008043,8.95215,interdiscount-lugano-via-ginevra,Lugano,6900,Via Ginevra,id
+16,47.357464,9.284717,coop-supermarkt-waldstatt,Waldstatt,9104,Dorfstrasse,retail
+1A,47.689584,8.495977,coop-supermarkt-neunkirch,Neunkirch,8213,Bahnhofstrasse,retail
+5,46.00431,8.950743,christ-lugano-via-soave-christ,Lugano,6900,Via Soave,christ
+1,46.009811,8.965098,coop-vitality-viganello,Viganello,6962,Via Molinazzo,vitality
+22,46.002856,8.949812,impo-lugano-via-nassa-ip,Lugano,6900,Via Nassa,impo
+1,46.009529,8.964677,coop-supermarkt-lugano-viganello,Viganello,6962,Via Molinazzo,retail
+29,45.973689,8.879701,coop-supermarkt-caslano,Caslano,6987,Via Stazione,retail
+22,46.002792,8.949849,coop-supermarkt-city-lugano-food,Lugano,6900,Via Nassa,retail
+22,46.002792,8.949849,coop-city-city-lugano,Lugano,6900,Via Nassa,city
+22,46.002659,8.949716,coop-restaurant-lugano,Lugano,6900,Via Nassa,restaurant
+56,47.69786,8.460611,coop-supermarkt-hallau,Hallau,8215,Hauptstrasse,retail
+2,46.919582,9.562875,pronto-zizers,Zizers,7205,Rappagugg,pronto
+15,46.00211,8.949714,christ-lugano-via-nassa-christ,Lugano,6900,Via Nassa,christ
+2,46.971283,9.551447,pronto-landquart,Landquart,7302,Tardis,pronto
+37,47.122579,9.489949,coop-supermarkt-sevelen,Sevelen,9475,Bahnhofstrasse,retail
+38,46.202888,7.167992,coop-supermarkt-ovronnaz,Ovronnaz,1911,Route des Muverans,retail
+5,46.966855,9.556347,coop-supermarkt-landquart,Landquart,7302,Werkstättestrasse,retail
+5,46.966855,9.556347,coop-restaurant-landquart,Landquart,7302,Werkstättestrasse,restaurant
+28,47.166941,9.466477,pronto-buchs,Buchs,9470,St. Gallerstrasse,pronto
+1,46.936861,9.565687,coop-supermarkt-zizers,Zizers,7205,Kronengasse,retail
+11,47.365527,7.154837,coop-supermarkt-saint-ursanne,Saint-Ursanne,2882,Rue du 23 Juin,retail
+26,47.376677,9.279383,pronto-herisau,Herisau,9100,Alpsteinstrasse,pronto
+54,47.680135,8.606475,coop-supermarkt-neuhausen-schuetzengut,Neuhausen am Rheinfall,8212,Zollstrasse,retail
+1,46.988571,6.891318,coop-supermarkt-peseux,Peseux,2034,Rue des Uttins,retail
+43,47.16593,9.473299,impo-buchs-sg-ip,Buchs,9470,Bahnhofstrasse,impo
+40,47.166291,9.47322,coop-supermarkt-buchs-sg,Buchs,9470,Bahnhofstrasse,retail
+30a,47.16651,9.474548,interdiscount-buchs-sg,Buchs,9470,Bahnhofstrasse,id
+82,47.417672,9.236687,pronto-gossau-moos-center,Gossau,9200,Wilerstrasse,pronto
+24,47.20978,7.000646,coop-supermarkt-les-breuleux,Les Breuleux,2345,Rue de la Gare,retail
+9,47.682841,8.619974,coop-supermarkt-neuhausen-posthof,Neuhausen,8212,Poststrasse,retail
+2,47.386449,9.278687,coop-supermarkt-herisau,Herisau,9100,Gossauer Strasse,retail
+,46.300188,7.051333,coop-supermarkt-villars-sur-ollon,Villars-sur-Ollon,1884,En Grand Pont,retail
+2,47.413605,9.249406,coop-bau-hobby-b-h-gossau,Gossau,9200,Poststrasse,bh
+2,47.696198,8.575735,coop-supermarkt-beringen,Beringen,8222,Schaffhauserstrasse,retail
+17,45.974812,8.928249,pronto-grancia-centro-lugano-sud,Grancia,6916,Via Cantonale,pronto
+1,45.973235,8.927058,coop-supermarkt-lugano-sud,Grancia,6916,Via Cantonale,retail
+,46.342558,7.011284,coop-supermarkt-leysin,Leysin,1854,Cime de L'Est A,retail
+75,47.416739,9.251514,impo-gossau-sg-ip,Gossau,9200,St. Gallerstrasse,impo
+75,47.41673,9.251527,coop-supermarkt-gossau-sg,Gossau,9200,St.Gallerstrasse,retail
+75,47.41673,9.251527,coop-restaurant-gossau-sg,Gossau,9200,St. Gallerstrasse,restaurant
+75,47.416784,9.251529,coop-vitality-gossau,Gossau,9200,St.Gallerstrasse,vitality
+7,46.520451,6.903541,coop-supermarkt-chatel-st-denis,Châtel-Saint-Denis,1618,Route Pra-de-Plan,retail
+238,47.694104,8.604625,pronto-beringen,Beringen,8222,Schauffhauserstrasse,pronto
+3,46.970043,6.86964,pronto-colombier,Colombier,2013,Allée au Port,pronto
+29,47.684341,8.660218,pronto-langwiesen,Langwiesen,8246,Hauptstrasse,pronto
+2,46.845969,6.843248,coop-supermarkt-estavayer-le-lac,Estavayer-Le-Lac,1470,Avenue de la Gare,retail
+12,47.057394,6.893077,coop-vitality-fontainemelon,Fontainemelon,2052,Av. Robert,vitality
+12,47.057565,6.893088,coop-supermarkt-fontainemelon,Fontainemelon,2052,Avenue Robert,retail
+30,47.69069,8.647417,coop-restaurant-feuerthalen-rhymarkt,Feuerthalen,8245,Schützenstrasse,restaurant
+30,47.690793,8.646979,interdiscount-feuerthalen-id,Feuerthalen,8245,Schützenstrasse,id
+30,47.690699,8.647417,coop-supermarkt-feuerthalen-rhymarkt,Feuerthalen,8245,Schützenstrasse,retail
+32,47.690699,8.647417,coop-bau-hobby-b-h-feuerthalen-rhymarkt,Feuerthalen,8245,Schützenstrasse,bh
+ 30,47.690829,8.647007,coop-vitality-feuerthalen,Feuerthalen,8245,Schützenstrasse,vitality
+31,47.106876,9.531902,interdiscount-vaduz,Vaduz,9490,Sägagass,id
+238,47.413577,9.270625,pronto-gossau-st--gallerstrasse,Gossau,9200,St. Gallerstrasse,pronto
+1,46.707533,6.839452,coop-supermarkt-lucens,Lucens,1522,Place de la Couronne,retail
+1,47.696364,8.633597,coop-supermarkt-schaffhausen-fronwagplatz,Schaffhausen,8200,Fronwagplatz,retail
+69,47.696283,8.634502,coop-restaurant-schaffhausen,Schaffhausen,8201,Vordergasse,restaurant
+69,47.696301,8.634489,coop-supermarkt-city-schaffhausen-food,Schaffhausen,8200,Vordergasse,retail
+69,47.696301,8.634489,coop-city-city-schaffhausen,Schaffhausen,8200,Vordergasse,city
+69,47.696301,8.634489,impo-sh-vordergasse-cc-ip,Schaffhausen,8200,Vordergasse,impo
+117,47.154391,9.510295,coop-supermarkt-vaduz-muehleholz,Vaduz,9490,Landstrasse,retail
+27,47.697553,8.633424,impo-schaffhausen-fronwagplatz-ip,Schaffhausen,8200,Fronwagplatz,impo
+19,47.143778,9.517006,pronto-vaduz-fl,Vaduz,9490,Landstrasse,pronto
+29,47.698146,8.632665,pronto-schaffhausen-bahnhof,Schaffhausen,8200,Bahnhofstrasse,pronto
+21A,46.965739,6.854456,coop-supermarkt-colombier,Colombier,2013,Route de Sombacour,retail
+33,47.698552,8.634286,interdiscount-schaffhausen-vorstadt,Schaffhausen,8200,Vorstadt,id
+20,47.140192,9.520757,coop-supermarkt-vaduz-staedtlemarkt,Vaduz FL,9490,Aeulestrasse,retail
+169,47.703931,8.615687,coop-supermarkt-schaffhausen-riet,Schaffhausen,8200,Rietstrasse,retail
+13,46.943698,6.845291,coop-supermarkt-cortaillod,Cortaillod,2016,Rue de la Fin,retail
+4,47.256808,6.999138,coop-supermarkt-saignelegier,Saignelégier,2350,Rue des Rangiers,retail
+303,47.439857,9.254569,pronto-arnegg,Arnegg,9212,Bischofszellerstrasse,pronto
+27,46.149363,7.175143,coop-supermarkt-saxon,Saxon,1907,Rue de Gottefrey,retail
+1,47.703042,8.645433,coop-supermarkt-schaffhausen-gruben,Schaffhausen,8200,Im Gruben,retail
+9,47.175364,9.509841,coop-supermarkt-schaan,Schaan FL,9494,Im Rietacker,retail
+4,46.949883,6.83763,coop-supermarkt-boudry,Boudry,2017,Rue Oscar Huguenin,retail
+462,47.408095,9.304509,interdiscount-st-gallen-stadion-xxl,St. Gallen,9015,Shopping Arena / Zürcherstrasse,id
+462,47.407856,9.304845,christ-st--gallen-zuercherstrasse-ch,St. Gallen,9015,Zürcherstrasse,christ
+23,45.955175,8.948199,coop-supermarkt-melide,Melide,6815,Via Cantonale,retail
+462,47.408625,9.306833,coop-supermarkt-st--gallen-shopping-arena,St. Gallen,9015,Zürcherstrasse,retail
+1,47.211211,9.494301,pronto-haag-center,Haag,9469,Rüti,pronto
+19,46.466595,6.894321,coop-supermarkt-blonay,Blonay,1807,Route du Village,retail
+80,46.43663,6.909741,pronto-montreux-am-bahnhof,Montreux,1820,Rue des Alpes,pronto
+,47.212116,9.495049,coop-supermarkt-haag,Haag,9469,Rüti,retail
+32,47.65325,8.853312,coop-supermarkt-stein-am-rhein,Stein am Rhein,8260,Kaltenbacherstrasse,retail
+4,46.431537,6.911313,coop-supermarkt-montreux,Montreux,1820,Rue de la Paix,retail
+26,46.432801,6.910403,christ-montreux-christ,Montreux,1820,Grand Rue,christ
+,47.213013,9.495718,coop-vitality-haag-center,Haag,9469,Im Rüti,vitality
+,47.213013,9.495718,impo-haag-ip,Haag,9469,Im Rüti,impo
+7,47.408079,9.311625,livique-st--gallen,St. Gallen-Winkeln,9015,Breitfeldstrasse,livique
+,47.213462,9.495748,christ-haag-christ,Haag,9469,Haag Center,christ
+,47.213462,9.495775,interdiscount-haag,Haag,9469,Haag-Center,id
+6B,46.431737,6.909841,interdiscount-montreux,Montreux,1820,Place du Marché,id
+4,47.409146,9.314061,lumimart-st--gallen,St. Gallen,9015,Bionstrasse,lumimart
+4,47.22439,6.956268,coop-supermarkt-le-noirmont,Le Noirmont,2340,Rue du Marché,retail
+2,46.097394,7.22532,coop-supermarkt-verbier,Verbier,1936,Rue du Centre Sportif,retail
+28,47.687124,8.753831,coop-supermarkt-diessenhofen,Diessenhofen,8253,Bahnhofstrasse,retail
+2,46.398281,6.925406,coop-supermarkt-villeneuve,Villeneuve,1844,Rue du Collège,retail
+6,47.601755,9.000537,coop-supermarkt-muellheim,Müllheim,8555,Frauenfelderstrasse,retail
+117,46.385027,6.93259,livique-villeneuve,Villeneuve,1844,Chemin de la Confrérie,livique
+4,45.953906,8.965565,coop-supermarkt-bissone-py,Bissone,6816,Via Campione,retail
+35,46.150947,7.146298,pronto-fully,Fully,1926,Chemin de la Maraiche,pronto
+33,46.150973,7.145598,coop-supermarkt-fully,Fully,1926,ch. de la Maraîches,retail
+13,47.33363,9.407329,coop-supermarkt-appenzell,Appenzell,9050,Zielstrasse,retail
+8,46.928959,6.812285,coop-supermarkt-bevaix,Bevaix,2022,Chemin de Closel,retail
+3,47.7467,8.480622,coop-supermarkt-schleitheim,Schleitheim,8226,Schaffhauserstrasse,retail
+18,46.3839,6.924216,coop-bau-hobby-b-l-rennaz,Rennaz,1847,Pré-De-La-Croix,bh
+18,46.3839,6.924203,coop-supermarkt-rennaz,Rennaz,1847,Pré-De-La-Croix,retail
+10,46.383055,6.922261,pronto-rennaz-riviera,Rennaz,1847,Pré-de-la-Croix,pronto
+18,47.565828,9.096957,interdiscount-weinfelden-thurmarkt,Weinfelden,8570,Fichtenstrasse,id
+18,47.565837,9.096958,pronto-weinfelden-thurmarkt,Weinfelden,8570,Fichtenstrasse,pronto
+18,47.566315,9.096933,coop-supermarkt-weinfelden-thurmarkt,Weinfelden,8570,Fichtenstrasse,retail
+18,47.566315,9.096933,coop-restaurant-weinfelden-thurmarkt,Weinfelden,8570,Fichtenstrasse,restaurant
+18,47.566315,9.096933,impo-weinfelden-thurmarkt-ip,Weinfelden,8570,Fichenstrasse,impo
+18,47.566649,9.096797,coop-vitality-weinfelden,Weinfelden,8570,Fichtenstrasse,vitality
+28,46.318967,6.96517,coop-supermarkt-aigle,Aigle,1860,Rue du Rhône,retail
+10,47.721378,8.665524,coop-supermarkt-schaffhausen-herblingen,Schaffhausen,8207,Stüdliackerstrasse,retail
+2A,46.668215,6.800228,coop-supermarkt-moudon,Moudon,1510,Avenue de Cerjat,retail
+18,47.42462,7.127049,pronto-porrentruy,Porrentruy,2900,Route de Courgenay,pronto
+204,47.41253,9.336063,coop-vitality-st--gallen-lerchenfeld,St. Gallen,9014,Zürcherstrasse,vitality
+1,46.316874,6.96376,pronto-aigle-gare,Aigle,1860,Place de la gare,pronto
+204,47.412709,9.336109,coop-supermarkt-st--gallen-lerchenfeld,St. Gallen Lerchenfeld,9014,Zürcherstrasse,retail
+,46.377073,6.918458,interdiscount-rennaz-riviera,Rennaz,1847,Centre Commercial Riviera,id
+15,47.207903,9.526616,pronto-eschen-fl,Eschen,9492,Essanestrasse,pronto
+9,47.4258,7.124087,coop-supermarkt-coop-alle,Alle,2942,Route de Porrentruy,retail
+29,46.570772,6.821505,coop-bau-hobby-b-l-oron-la-ville,Oron-La-Ville,1610,Route de Lausanne,bh
+31,46.570631,6.82028,coop-supermarkt-oron-la-ville,Oron-La-Ville,1610,Route de Lausanne,retail
+31,46.570631,6.82028,coop-restaurant-oron-la-ville,Oron-La-Ville,1610,Route de Lausanne,restaurant
+5,47.490498,9.237901,coop-supermarkt-bischofszell,Bischofszell,9220,Niederbürerstrasse,retail
+8,46.250387,7.013629,coop-supermarkt-bex,Bex,1880,Ruelle du Marché,retail
+17,47.415133,9.353333,pronto-st-gallen-fuerstenlandstrasse,St. Gallen,9000,Fürstenlandstrasse,pronto
+6,46.453134,6.857478,coop-supermarkt-la-tour-de-peilz,La Tour-De-Peilz,1814,Place des Anciens Fossés,retail
+6,46.453134,6.857478,coop-restaurant-la-tour-de-peilz,La Tour-De-Peilz,1814,Place des Anciens Fossés,restaurant
+,46.778698,9.677373,coop-supermarkt-arosa-dorf,Arosa,7050,Haus Lorez,retail
+2,46.478288,6.842194,coop-hotel-hotel-du-leman,Jongny,1805,Chemin de la Fontaine,hotel
+10,46.895984,6.775951,coop-supermarkt-saint-aubin,Saint-Aubin,2024,Rue du Senet,retail
+13,47.540772,9.183579,coop-supermarkt-sulgen,Sulgen,8583,Bahnhofstrasse,retail
+16,46.460944,6.847254,pronto-vevey,Vevey,1800,Rue de Clos,pronto
+28,46.460375,6.845086,coop-supermarkt-vevey,Vevey,1800,Rue du Simplon,retail
+3,46.462831,6.843523,coop-to-go-vevey-gare-to-go,Vevey,1800,Gare de Vevey,togo
+22,47.103788,6.834943,coop-supermarkt-la-chaux-de-fonds-etoile,La Chaux-de-Fonds,2300,Rue Fritz Courvoisier,retail
+16,46.783016,9.684784,coop-supermarkt-arosa-valsana,Arosa,7050,Poststrasse,retail
+5,46.463259,6.84275,pronto-vevey-gare,Vevey,1800,Place de la Gare,pronto
+8-10,46.461732,6.843145,interdiscount-vevey-rue-de-lausanne,Vevey,1800,rue de Lausanne,id
+11,47.095596,6.830293,coop-supermarkt-la-chaux-de-fonds-piscine,La Chaux-de-Fonds,2300,Rue de la Reuse,retail
+15,46.463366,6.840835,christ-vevey-st-antoine-christ,Vevey,1800,Ave. Général Guisan,christ
+15,46.463267,6.840758,impo-vevey-ip,Vevey,1800,Avenue Général-Guisan,impo
+15,46.463275,6.840615,interdiscount-vevey-st--antoine,Vevey,1800,Avenue Général-Guisan,id
+25,47.101931,6.829036,interdiscount-chaux-de-fonds-la-cite,La Chaux-de-Fonds,2300,Av. Léopold-Robert,id
+3,47.417147,7.077826,coop-supermarkt-porrentruy,Porrentruy,2900,Au Faubourg St-Germain,retail
+3,47.417147,7.077826,coop-restaurant-porrentruy,Porrentruy,2900,Sur les Ponts,restaurant
+23,47.100121,6.827041,christ-chx-de-fds-metropole-christ,La Chaux-de-Fonds,2300,Rue Daniel-Jeanrichard,christ
+27,46.560993,6.795285,interdiscount-oron-la-ville,Oron-la-Ville,1610,Route de Lausanne,id
+5,47.421165,7.080104,pronto-porrentruy-gare,Porrentruy,2900,Place de la Gare,pronto
+4,47.110647,6.828871,coop-supermarkt-la-chaux-de-fonds-bel-air,La Chaux-de-Fonds,2300,Rue du Ravin,retail
+8a,47.42231,9.368638,coop-supermarkt-st--gallen-bahnhof,St. Gallen,9001,Bahnhofplatz,retail
+5,46.673757,9.683858,coop-supermarkt-filisur,Filisur,7477,Bahnhofstrasse,retail
+2,47.422639,9.369392,interdiscount-st--gallen-bahnhof-id,St. Gallen,9000,Bahnhofplatz,id
+28,47.421728,9.371705,impo-st--gallen-neumarkt-ip,St. Gallen,9000,Kornhausstrasse,impo
+25,47.422065,9.371466,coop-vitality-st--gallen-beim-neumarkt,St. Gallen,9000,Vadianstrasse,vitality
+18,47.422559,9.371536,pronto-st--gallen-kornhausstrasse,St. Gallen,9000,Kornhausstrasse,pronto
+151,47.094572,6.817159,coop-vitality-la-chaux-de-fonds,La Chaux-de-Fonds,2300,Av. Léopold-Robert,vitality
+151,47.094814,6.816946,interdiscount-chaux-de-fonds-les-entilles,La Chaux-de-Fonds,2300,Av. Léopold Robert,id
+151,47.094588,6.816777,coop-supermarkt-la-chaux-de-fonds-entilles,La Chaux-de-Fonds,2300,Avenue Léopold Robert,retail
+151,47.094588,6.816777,coop-bau-hobby-b-l-chaux-de-fonds-entilles,La Chaux-de-Fonds,2300,Avenue Léopold Robert,bh
+151,47.094588,6.816777,coop-restaurant-la-chaux-de-fonds-entilles,La Chaux-de-Fonds,2300,Avenue Léopold Robert,restaurant
+1,46.703447,6.754437,coop-supermarkt-thierrens,Thierrens,1410,Rue de la Poste,retail
+4,46.217732,7.006341,coop-supermarkt-saint-maurice,Saint-Maurice,1890,Rue Joseph-Hyacinthe Barman,retail
+48,47.424356,9.374346,coop-supermarkt-st--gallen-neugasse,St. Gallen,9000,Neugasse,retail
+27,47.42415,9.375333,impo-st--gallen-multergasse-ip,St. Gallen,9000,Multergasse,impo
+16,46.799927,6.745444,coop-supermarkt-yvonand,Yvonand,1462,Grand-Rue,retail
+1,47.426124,9.376227,interdiscount-st--gallen-marktgasse,St. Gallen,9000,Marktgasse,id
+6,47.426176,9.376865,coop-city-city-st--gallen,St. Gallen,9004,Am Bohl,city
+6,47.426176,9.376865,impo-sg-cc-ip,St. Gallen,9000,Am Bohl,impo
+6,47.426194,9.376865,coop-supermarkt-city-st--gallen-food,St. Gallen,9004,Am Bohl,retail
+38-40,47.089395,6.807974,pronto-la-chaux-de-fonds,La Chaux-de-Fonds,2300,Rue de la Fiaz -,pronto
+26,47.746307,8.70604,coop-supermarkt-thayngen,Thayngen,8240,Bahnhofstrasse,retail
+,46.266076,6.953321,pronto-collombey-parc-du-rhone,Collombey,1868,Route du Montagnier,pronto
+1,46.264962,6.953772,coop-supermarkt-collombey,Collombey,1868,Z.A. Pré Jacquet,retail
+1,46.264962,6.953772,coop-restaurant-collombey,Collombey,1868,Z.A. Pré Jacquet,restaurant
+171,46.970096,9.683898,pronto-schiers,Schiers,7220,Dorfstrasse,pronto
+2,46.969677,9.684144,coop-supermarkt-schiers,Schiers,7220,Dorfstrasse,retail
+20,47.088655,6.802543,coop-supermarkt-la-chaux-de-fonds-eplatures,La Chaux-de-Fonds,2300,Boulevard des Eplatures,retail
+20,47.088655,6.802543,impo-chaux-de-fds-eplatures-ip,La Chaux-de-Fonds,2300,Boulevard des Eplatures,impo
+149,47.664042,8.979402,coop-supermarkt-steckborn,Steckborn,8266,Seestrasse,retail
+1,46.246648,6.966668,pronto-monthey,Monthey,1870,Route des Ilettes,pronto
+1,46.333689,6.890431,coop-supermarkt-vouvry,Vouvry,1896,Chemin du Grand Clos,retail
+21,46.261424,6.946787,christ-monthey-manor-christ,Monthey,1870,Avenue de l'Europe,christ
+26,46.253688,6.950954,impo-monthey-central-ip,Monthey,1870,Avenue de la Gare,impo
+17,46.253046,6.950234,coop-supermarkt-monthey,Monthey,1870,Avenue du Théatre,retail
+20,46.078443,7.139201,coop-supermarkt-sembrancher,Sembrancher,1933,Route des Parties,retail
+1,46.078143,7.138117,pronto-sembrancher,Sembrancher,1933,Route du Grand-St-Bernard,pronto
+1,46.263265,6.927885,interdiscount-collombey-xxl,Collombey,1868,Z.A. Pré Jacquet,id
+218,47.434754,9.402211,pronto-st--gallen-st--fiden,St. Gallen,9000,Rorschacherstrasse,pronto
+28,45.873991,8.945925,coop-supermarkt-arzo,Arzo,6864,Via St. Andrea,retail
+,46.126647,7.060469,marche-marche-relais-st--bernard,Martigny,1920,A9 (Direction Martigny),marche
+53,46.110983,7.075982,interdiscount-martigny-avenue-de-fully,Martigny,1920,Av. de Fully,id
+53,46.111036,7.075736,pronto-martigny-cristal,Martigny,1920,Avenue de Fully,pronto
+ 53,46.111007,7.075245,coop-supermarkt-martigny-cristal,Martigny,1920,Avenue de Fully,retail
+ 53,46.111007,7.075245,coop-restaurant-martigny-cristal,Martigny,1920,Avenue de Fully,restaurant
+1,47.46167,9.380532,pronto-wittenbach,Wittenbach,9300,Grünaustrasse,pronto
+6,47.437432,9.412455,pronto-st--gallen-gallusmarkt,St. Gallen,9016,Favrestrasse,pronto
+1,46.48243,6.774716,coop-supermarkt-chexbres,Chexbres,1071,Chemin Praz-Routoz,retail
+45,47.062345,6.757335,pronto-le-locle,Le Locle,2400,Rue Girardet,pronto
+6,47.437798,9.413171,impo-st--gallen-gallus-markt-ip,St. Gallen,9016,Favrestrasse,impo
+6,47.437888,9.413161,interdiscount-st--gallen-gallus-markt,St. Gallen,9016,Favrestrasse,id
+6,47.437906,9.413162,coop-supermarkt-st--gallen-gallusmarkt,St. Gallen,9016,Favrestrasse,retail
+6,47.437906,9.413162,coop-restaurant-st--gallen-gallusmarkt,St. Gallen,9016,Favrestrasse,restaurant
+96,46.099122,7.082902,pronto-martigny,Martigny,1920,Rte du Levant,pronto
+3,46.103457,7.077067,coop-supermarkt-martigny-ville,Martigny,1920,Rue de la Poste,retail
+94,46.098411,7.082803,coop-bau-hobby-b-l-martigny,Martigny,1920,Rue du Levant,bh
+10,46.102118,7.074528,interdiscount-martigny-avenue-de-la-gare,Martigny,1920,av. de la Gare,id
+115,47.544633,9.277149,pronto-amriswil,Amriswil (TG),8580,Weinfelderstrasse,pronto
+21,45.876377,8.98024,coop-bau-hobby-e-h-mendrisio-tigestim,Mendrisio,6850,Via Angelo Maspoli,bh
+2,47.057112,6.747266,coop-supermarkt-le-locle,Le Locle,2400,Rue de la Banque,retail
+2,45.853155,8.939855,coop-supermarkt-stabio,Stabio,6855,Via Ligornetto,retail
+31,45.865945,8.976676,coop-vitality-mendrisio,Mendrisio,6850,Via Giorgio Bernasconi,vitality
+31,45.865596,8.976512,coop-supermarkt-mendrisio,Mendrisio,6850,Via Giorgio Bernasconi,retail
+11,47.545196,9.295983,interdiscount-amriswil,Amriswil,8580,Weinfelderstrasse,id
+2,46.538122,6.731105,coop-supermarkt-savigny,Savigny,1073,Route des Miguettes,retail
+9,47.311082,9.563041,pronto-oberriet,Oberriet,9463,Rheinstrasse,pronto
+18,47.547394,9.301973,coop-supermarkt-amriswil,Amriswil,8580,Bahnhofstrasse,retail
+2,47.323508,9.568909,coop-supermarkt-oberriet,Oberriet,9463,Bahnhofstrasse,retail
+6,47.656538,9.133212,coop-supermarkt-taegerwilen,Tägerwilen,8274,Bahnhofstrasse,retail
+3,46.488125,6.728684,coop-supermarkt-cully,Cully,1096,Rue de la Gare,retail
+1,46.914109,9.777585,coop-supermarkt-kueblis,Küblis,7240,Untergasse,retail
+16,47.650172,9.172054,pronto-kreuzlingen-karussell,Kreuzlingen,8280,Sonnenstrasse,pronto
+16,47.650595,9.173253,interdiscount-kreuzlingen,Kreuzlingen,8280,Sonnenstrasse,id
+16,47.650622,9.173254,coop-supermarkt-kreuzlingen-karussell,Kreuzlingen,8280,Sonnenstrasse,retail
+16,47.650622,9.173254,coop-restaurant-kreuzlingen-karussell,Kreuzlingen,8280,Sonnenstrasse,restaurant
+16,47.650622,9.173254,ca-puccini-kreuzlingen-ca-puccini,Kreuzlingen,8280,Sonnenstrasse,capuccini
+16,47.650628,9.173414,christ-kreuzlingen-christ,Kreuzlingen,8280,Sonnenstr.,christ
+16,47.650817,9.173447,impo-kreuzlingen-karussell-ip,Kreuzlingen,8280,Sonnenstrasse,impo
+16,47.650834,9.173474,coop-vitality-kreuzlingen-karussell,Kreuzlingen,8280,Sonnenstrasse,vitality
+1,47.505717,9.407753,interdiscount-arbon,Arbon,9320,St. Gallerstrasse,id
+34,47.381405,9.546981,coop-supermarkt-altstaetten,Altstätten,9450,Rorschacherstrasse,retail
+3,47.638107,9.203257,coop-bau-hobby-b-h-kreuzlingen,Kreuzlingen,8280,"Leubernstrasse, Postfach14",bh
+3,47.638693,9.202545,livique-kreuzlingen,Kreuzlingen,8280,Leubernstrasse,livique
+3,47.638889,9.202684,coop-supermarkt-kreuzlingen-ziilcenter,Kreuzlingen,8280,Leubernstrasse,retail
+126,47.639491,9.203303,pronto-kreuzlingen-romanshornerstr-,Kreuzlingen,8280,Romanshornerstrasse,pronto
+3,45.845359,9.016277,coop-supermarkt-serfontana,Serfontana,6836,via al Ponte,retail
+,45.845359,9.016277,coop-restaurant-serfontana,Serfontana,6836,Centro Commerciale Serfontana,restaurant
+,46.781138,6.641159,pronto-yverdon-gare,Yverdon,1400,Place de la Gare,pronto
+84,47.500774,9.42382,pronto-arbon-landquartstrasse,Arbon,9320,Landquartstrasse,pronto
+86,47.501186,9.42446,coop-bau-hobby-b-h-arbon-k-,Arbon,9320,Landquartstrasse,bh
+,47.495146,7.014753,coop-supermarkt-boncourt,Boncourt,2926,Route de la Nods,retail
+7,46.500741,6.695468,coop-supermarkt-lutry-la-corniche,Lutry,1095,La Petite Corniche,retail
+1,46.780348,6.636221,coop-supermarkt-yverdon-bel-air,Yverdon,1400,Rue d'Orbe,retail
+1,46.780348,6.636221,coop-restaurant-yverdon-bel-air,Yverdon,1400,Rue d'Orbe,restaurant
+1,46.780339,6.636221,interdiscount-yverdon-bel-air,Yverdon,1400,Rue d'Orbe,id
+2,46.505832,6.688493,coop-supermarkt-lutry,Lutry,1095,Route de l'Ancienne Ciblerie,retail
+38,47.603998,9.287386,coop-supermarkt-guettingen,Güttingen,8594,Hauptstrasse,retail
+133,47.389196,9.561771,pronto-luechingen,Lüchingen,9450,Rorschacherstrasse,pronto
+1,47.521273,9.413044,pronto-arbon-egnacherstrasse,Arbon,9320,Egnacherstrasse,pronto
+1+3,46.792745,9.820625,interdiscount-davos-platz,Davos Platz,7270,Bahnhofstrasse,id
+1,46.792914,9.820724,coop-supermarkt-davos,Davos Platz,7270,Bahnhofstrasse,retail
+1,46.792914,9.820724,coop-restaurant-davos,Davos Platz,7270,Bahnhofstrasse,restaurant
+63,46.79657,9.821476,pronto-davos-platz,Davos-Platz,7270,Promenade,pronto
+,46.789403,6.625477,pronto-yverdon,Yverdon,1400,Route de Sainte Croix,pronto
+17,47.511329,9.429964,impo-arbon-novaseta-ip,Arbon,9320,"Novaseta, St. Gallerstrasse",impo
+2,47.47956,9.469385,coop-supermarkt-goldach,Goldach,9403,Thannstrasse,retail
+12,47.510553,9.431184,pronto-arbon-novaseta,Arbon,9320,Klarastrasse,pronto
+15,47.511464,9.43054,christ-arbon-christ,Arbon,9320,St. Gallerstr.,christ
+15,47.511472,9.430581,coop-supermarkt-arbon-novaseta,Arbon,9320,St.Gallerstrasse,retail
+15,47.511472,9.430581,coop-restaurant-arbon-novaseta,Arbon,9320,St. Gallerstrasse,restaurant
+4,47.510883,9.432404,coop-supermarkt-arbon-hamel,Arbon,9320,Stickereistrasse,retail
+,46.78902,6.622326,interdiscount-montagny-pres-yverdon,Montagny-près-Yverdon,1442,En Chamard,id
+31,46.789935,6.620675,coop-supermarkt-montagny-pres-yverdon,Montagny-près-Yverdon,1442,En Chamard,retail
+5,46.789935,6.620675,coop-restaurant-montagny-pres-yverdon,Montagny-près-Yverdon,1442,En Chamard,restaurant
+5,46.790869,6.620452,coop-bau-hobby-b-l-montagny,Montagny-près-Yverdon,1442,En Chamard,bh
+51,46.790905,6.620438,livique-montagny,Montagny-près-Yverdon,1442,En Chamard,livique
+28E,46.797597,9.827903,pronto-davos-talstrasse,Davos Platz,7270,Talstrasse,pronto
+10,46.543714,6.660354,coop-supermarkt-epalinges,Epalinges,1066,Chemin des Croisettes,retail
+111,47.497253,9.455219,coop-supermarkt-horn,Horn,9326,Seestrasse,retail
+10,45.834443,9.035553,coop-supermarkt-chiasso-dogana-py,Chiasso,6830,Via Maestri Comacini,retail
+22,46.542852,6.65931,coop-bau-hobby-b-l-epalinges,Epalinges,1066,Chemin des Croisettes,bh
+73,47.565447,9.365956,pronto-romanshorn,Romanshorn,8590,Bahnhofstrasse,pronto
+4,46.641937,6.631249,coop-supermarkt-echallens,Echallens,1040,Route d'Orbe,retail
+52,47.478629,9.481426,pronto-rorschach-st--gallerstrasse,Rorschach,9400,St. Gallerstrasse,pronto
+,46.921993,6.624417,coop-supermarkt-couvet,Couvet,2108,Près de la Porte,retail
+143,46.803524,9.835375,pronto-davos-dorf,Davos-Dorf,7260,Promenade,pronto
+35,47.479715,9.485091,pronto-rorschach-thurgauerstrasse,Rorschach,9400,Thurgauerstrasse,pronto
+41,47.56355,9.377226,coop-supermarkt-romanshorn,Romanshorn,8590,Alleestrasse,retail
+41,47.56355,9.377226,coop-restaurant-romanshorn,Romanshorn,8590,Alleestrasse,restaurant
+12,47.478031,9.490786,coop-vitality-rorschach,Rorschach,9400,Marktplatz,vitality
+12,47.478019,9.490971,coop-supermarkt-rorschach,Rorschach,9400,Marktplatz,retail
+12,47.478019,9.490971,coop-restaurant-rorschach,Rorschach,9400,Marktplatz,restaurant
+1,47.565317,9.379164,pronto-romanshorn-bahnhof,Romanshorn,8590,Im Bahnhof,pronto
+2,47.443775,9.532144,coop-supermarkt-heiden,Heiden,9410,Rosentalstrasse,retail
+12,47.477791,9.496231,interdiscount-rorschach,Rorschach,9400,Hauptstrasse,id
+1,46.510585,6.65821,coop-supermarkt-pully,Pully,1009,Avenue des Collèges,retail
+9,46.525854,6.652177,coop-supermarkt-lausanne-chailly,Lausanne,1012,Avenue de Chailly,retail
+3,46.532924,6.646756,coop-supermarkt-la-sallaz,Lausanne,1010,Place de la Sallaz,retail
+11,46.175249,6.870903,coop-supermarkt-champery,Champéry,1874,Route de la Fin,retail
+33,46.554081,6.634945,coop-supermarkt-le-mont-sur-lausanne,Le Mont-sur-Lausanne,1052,Route de Lausanne,retail
+15,46.513963,6.647138,coop-supermarkt-lausanne-chissiez,Lausanne,1006,Chemin des Faverges,retail
+3,46.530932,6.634663,coop-supermarkt-lausanne-rouvraie,Lausanne,1018,Av. Parc-de-la-Rouveraie,retail
+17,46.537667,6.631708,coop-supermarkt-lausanne-entrebois,Lausanne,1018,Chemin d'Entre Bois,retail
+6,46.52076,6.637616,coop-supermarkt-lausanne-caroline,Lausanne,1003,Rue Caroline,retail
+26 BIS,46.529666,6.63244,coop-bau-hobby-b-l-lausanne-borde,Lausanne,1018,Rue de la Borde,bh
+4,46.518756,6.635378,coop-city-city-lausanne-st--francois,Lausanne,1002,Avenue du Théâtre,city
+4,46.518745,6.635131,coop-supermarkt-city-lausanne-st--francois-f,Lausanne,1002,Avenue du Théâtre,retail
+4,46.518736,6.635131,coop-restaurant-lausanne-saint-francois,Lausanne,1002,Avenue du Théâtre,restaurant
+4,46.518754,6.635118,impo-st--fancois-cc-ip,Lausanne,1002,Av. du Théâtre,impo
+11,46.520536,6.633931,christ-lausanne-rue-st--francois,Lausanne,1003,Rue St. François,christ
+14,46.529409,6.630489,coop-supermarkt-lausanne-pontaise,Lausanne,1018,Rue de la Pontaise,retail
+21,46.594004,6.608422,coop-supermarkt-coop-etagnieres,Etagnières,1037,Route En Rambuz,retail
+21,46.594004,6.608422,pronto-etagnieres,Etagnières,1037,En Rambuz,pronto
+24-30,46.522653,6.630459,coop-supermarkt-city-lausanne-au-centre-food,Lausanne,1003,Rue Saint-Laurent,retail
+24-30,46.522653,6.630459,coop-city-city-lausanne-au-centre,Lausanne,1003,Rue Saint Laurent,city
+24-30,46.522653,6.630459,coop-restaurant-lausanne-au-centre,Lausanne,1003,Rue Saint-Laurent,restaurant
+24-30,46.522653,6.630459,christ-lausanne-au-centre-christ,Lausanne,1003,Rue Saint-Laurent,christ
+24-30,46.522653,6.630459,take-it-au-centre-take-it,Lausanne,1003,Rue Saint-Laurent,takeit
+24-30,46.522653,6.630459,interdiscount-lausanne-rue-saint-laurent,Lausanne,1003,Rue Saint-Laurent,id
+24-30,46.522787,6.630327,impo-lausanne-rue-st--laurent-ip,Lausanne,1003,Rue Saint-Laurent,impo
+8,46.523392,6.629419,impo-lausanne-rue-de-l-ale-ip,Lausanne,1003,Rue de l'Âle,impo
+4,46.515311,6.631598,coop-supermarkt-lausanne-grancy,Lausanne,1006,Boulevard de Grancy,retail
+1,46.522111,6.628903,interdiscount-lausanne-bel-air,Lausanne,1003,place Bel-Air,id
+10,46.517736,6.628526,interdiscount-lausanne-place-de-la-gare,Lausanne,1003,place de la Gare,id
+,46.516955,6.628746,coop-supermarkt-lausanne-gare,Lausanne,1003,Gare CFF,retail
+8,46.558972,6.614541,lumimart-romanel,Romanel,1032,Chemin du Marais,lumimart
+8,46.558972,6.614541,toptip-romanel,Romanel,1032,Chemin du Marais,toptip
+3,46.523046,6.626361,pronto-lausanne-place-chauderon,Lausanne,1003,Place Chauderon,pronto
+11,46.517246,6.627907,pronto-lausanne-gare,Lausanne,1003,Place de la gare,pronto
+2,46.586393,6.604663,coop-supermarkt-cheseaux,Cheseaux,1033,Rue du Pâquis,retail
+12,46.90234,6.58278,coop-supermarkt-fleurier,Fleurier,2114,Grand-Rue,retail
+42,46.530842,6.619635,coop-supermarkt-lausanne-bergieres,Lausanne,1004,Avenue des Bergières,retail
+68,46.507831,6.627175,pronto-lausanne-ouchy,Lausanne,1006,Avenue d'Ouchy,pronto
+33,46.510315,6.626174,coop-supermarkt-lausanne-la-harpe,Lausanne,1007,Avenue de la Harpe,retail
+60,46.526625,6.612439,coop-supermarkt-lausanne-prelaz,Lausanne,1004,Avenue de Morges,retail
+105,46.516036,6.613539,coop-supermarkt-lausanne-cour,Lausanne,1007,Avenue de Cour,retail
+28,46.534226,6.606118,impo-prilly-ip,Prilly,1008,Rte de Cossonay,impo
+28,46.534208,6.606119,coop-supermarkt-prilly-centre,Prilly,1008,Route de Cossonay,retail
+28,46.534208,6.606119,coop-restaurant-prilly-centre,Prilly,1008,Route de Cossonay,restaurant
+28,46.534208,6.606119,interdiscount-prilly-route-de-cossonay,Prilly,1008,Rte de Cossonay,id
+10,46.868102,9.881872,coop-supermarkt-klosters-platz,Klosters-Platz,7250,Bahnhofstrasse,retail
+185,46.526145,6.60825,pronto-lausanne-avenue-de-morges,Lausanne,1004,avenue de Morges,pronto
+4,47.404996,9.626865,interdiscount-heerbrugg,Heerbrugg,9435,Balgacherstrasse,id
+203,47.409664,9.624605,coop-supermarkt-heerbrugg,Heerbrugg,9435,Balgacherstrasse,retail
+203,47.409664,9.624605,coop-restaurant-heerbrugg,Heerbrugg,9435,Balgacherstrasse,restaurant
+3,47.408018,9.629335,interdiscount-widnau,Widnau,9443,Bahnhofstrasse,id
+24,46.529405,6.601357,coop-supermarkt-prilly-business-parc,Prilly,1008,Rte de Renens,retail
+7,47.407554,9.630535,coop-bau-hobby-b-h-widnau,Widnau,9443,Bahnhofstrasse,bh
+41,46.524637,6.602577,coop-supermarkt-prilly-malley,Prilly,1008,Avenue du Chablais,retail
+33,47.389476,9.649043,coop-supermarkt-diepoldsau,Diepoldsau,9444,Tramstrasse,retail
+20,46.490898,9.83506,coop-supermarkt-st--moritz-bellevue,St. Moritz,7500,Via dal Bagn,retail
+20,47.388204,9.652488,pronto-diepoldsau,Diepoldsau,9444,Tramstrasse,pronto
+12,46.498819,9.838838,coop-supermarkt-st--moritz-dorf,St. Moritz,7500,Plazza da Scuola,retail
+10,46.498743,9.839043,impo-st--moritz-ip,St. Moritz,7500,Plazza da Scoula,impo
+6/8,46.498621,9.839246,interdiscount-st--moritz,St. Moritz,7500,Plazza de Scuola,id
+30,47.414749,9.632131,pronto-heerbrugg,Heerbrugg,9435,Auerstrasse,pronto
+92,47.474703,9.58014,pronto-rheineck,Rheineck,9424,Rorschacherstrasse,pronto
+1,46.538327,6.581742,coop-supermarkt-renens-centre,Renens,1020,Place du Marché,retail
+1,46.538327,6.581742,coop-vitality-renens,Renens,1020,Place du Marché,vitality
+13,47.468363,9.589651,coop-supermarkt-rheineck,Rheineck,9424,Bahnhofstrasse,retail
+3,46.536974,6.578856,pronto-renens,Renens,1020,Place de la Gare,pronto
+26,46.721526,6.53887,pronto-orbe,Orbe,1350,Route des Granges Saint-Martin,pronto
+108,46.513218,9.862198,coop-supermarkt-celerina,Celerina,7505,Via Maistra,retail
+1,46.532199,9.870586,coop-supermarkt-samedan,Samedan,7503,Crappun,retail
+1,46.544745,6.570427,coop-vitality-crissier-centre-commercial,Crissier,1023,Chemin de Saugy,vitality
+1,46.544745,6.570427,interdiscount-crissier-xxl,Crissier,1023,Chemin de Saugy,id
+1,46.544745,6.570427,impo-crissier-leman-centre-ip,Crissier,1023,Chemin de Saugy,impo
+1,46.54479,6.570401,christ-crissier-leman-centre-christ,Crissier,1023,Chemin de Saugy,christ
+3,46.547329,6.569486,pronto-crissier-leman-centre,Crissier,1023,Chemin de Saugy,pronto
+1,46.544958,6.57002,coop-supermarkt-crissier,Crissier,1023,Chemin du Saugy,retail
+1,46.544958,6.57002,coop-bau-hobby-b-l-crissier,Crissier,1023,Chemin de Saugy,bh
+1,46.544958,6.57002,coop-restaurant-crissier,Crissier,1023,Chemin du Saugy,restaurant
+1,46.7309,6.530956,coop-supermarkt-orbe,Orbe,1350,Route de Valeyres,retail
+1,46.7309,6.530956,coop-restaurant-orbe,Orbe,1350,Route de Valeyres,restaurant
+3,46.533702,6.566198,coop-supermarkt-ecublens,Ecublens,1024,Chemin du Croset,retail
+3,46.533702,6.566198,coop-restaurant-ecublens,Ecublens,1024,Chemin du Croset,restaurant
+1,46.540867,6.555066,pronto-ecublens,Ecublens,1024,Route de Reculan,pronto
+21,47.454568,9.636638,pronto-st--margrethen,St. Margrethen,9430,Grenzstrasse,pronto
+60,47.449589,9.651474,impo-st--margrethen-ip,St. Margrethen,9430,Neudorfstrasse,impo
+5,46.822944,6.501489,coop-supermarkt-sainte-croix,Sainte-Croix,1450,Rue Neuve,retail
+1,46.607092,6.522604,coop-supermarkt-penthalaz-venoge,Penthalaz,1305,Ch. de l'Islettaz,retail
+1,46.658559,6.511449,coop-supermarkt-la-sarraz,La Sarraz,1315,Route de Ferreyres,retail
+,46.565645,6.52358,coop-restaurant-aclens-personnel,Aclens,1123,Route de la Plaine,restaurant
+17,46.488678,9.905924,coop-supermarkt-pontresina,Pontresina,7504,Via da Mulin,retail
+A,46.599944,9.96061,coop-supermarkt-zuoz,Zuoz,7524,Pro Bosio,retail
+43,46.51578,6.503741,pronto-morges,Morges,1110,Rue de Lausanne,pronto
+48,46.509429,6.498365,christ-morges-christ,Morges,1110,Grand Rue,christ
+4,46.510064,6.497872,coop-supermarkt-morges-charpentiers,Morges,1110,Rue des Fossés,retail
+4,46.510125,6.497636,coop-vitality-morges,Morges,1110,Rue des Fosses,vitality
+4,46.510062,6.497637,coop-restaurant-morges-charpentiers,Morges,1110,Rue des Fossés,restaurant
+10,46.509693,6.497631,interdiscount-morges-rue-de-fosses,Morges,1110,Rue de Fossés,id
+2,46.511066,6.49405,pronto-morges-gare,Morges,1110,Place de la Gare,pronto
+28,46.507153,6.485388,coop-supermarkt-morges-la-gottaz,Morges,1110,Avenue de La Gottaz,retail
+20,46.4854,6.460074,pronto-saint-prex,Saint-Prex,1162,Route de Morges,pronto
+1,46.482333,6.456926,coop-supermarkt-saint-prex,Saint-Prex,1162,Rue de la Gare,retail
+19,46.711932,6.378147,coop-supermarkt-vallorbe,Vallorbe,1337,Grand'Rue,retail
+,46.700416,10.094038,coop-supermarkt-zernez,Zernez,7530,Hauptstrasse,retail
+10,46.477146,6.402704,coop-supermarkt-allaman-littoral-centre,Allaman,1165,Route de la Gare,retail
+10,46.477146,6.402704,coop-restaurant-allaman-k-,Allaman,1165,Route de la Gare,restaurant
+10,46.476708,6.402022,livique-allaman,Allaman,1165,Route de la Gare,livique
+,46.476523,6.401531,interdiscount-allaman-littoral,Allaman,1165,Route de la Gare / Littoral centre,id
+12,46.476727,6.401123,pronto-allaman-littoral-centre,Allaman,1165,Route de la Gare,pronto
+29,46.457867,6.338647,coop-supermarkt-rolle,Rolle,1180,Grand-Rue,retail
+,46.323713,10.054788,coop-supermarkt-poschiavo,Poschiavo,7742,Via dal Crot,retail
+,46.444939,6.298498,pronto-bursins-cote-lac-restoroute,Bursins,1183,Relais de la Côte (aire Lac),pronto
+,46.445045,6.298366,marche-marche-la-cote-lac,Bursins,1183,A1 (Direction Lausanne),marche
+,46.446565,6.297384,burger-burger-king-la-cote-jura,Bursins,1183,A1 (Direction Genève),burger
+,46.446807,6.297275,coop-hotel-zigolini-cafe-la-cote-jura,Bursins,1183,A1 (Direction Genève),hotel
+,46.446689,6.297238,pronto-bursin-cote-jura-restoroute,Bursins,1183,Relais de la côte aire jura,pronto
+1,46.606721,6.232755,coop-supermarkt-le-sentier,Le Sentier,1347,Chemin de Rivaboux,retail
+20,46.427389,6.266054,coop-supermarkt-gland-eikenott,Gland,1196,Allée du Communet,retail
+20,46.427353,6.266042,coop-vitality-gland,Gland,1196,Allée du Communet,vitality
+4,46.424159,6.254805,coop-supermarkt-vich,Vich,1267,Chemin de la Bichette,retail
+,46.424159,6.254805,coop-restaurant-vich,Vich,1267,Chemin de la Bichette,restaurant
+4,46.423786,6.254423,pronto-vich,Vich,1267,Chemin de la Bichette,pronto
+403A,46.795435,10.295427,coop-supermarkt-scuol,Scuol,7550,Stradun,retail
+4,46.384413,6.23608,pronto-nyon-gare,Nyon,1260,Place de la gare,pronto
+6,46.382776,6.235284,interdiscount-nyon,Nyon,1260,rue de la Morâche,id
+22,46.388086,6.228731,coop-supermarkt-nyon-levratte,Nyon,1260,La Levratte,retail
+7,46.384042,6.217394,pronto-nyon,Nyon,1260,Route de Champ-Colin,pronto
+7a,46.397629,6.205944,coop-supermarkt-signy,Signy,1274,Rue des Fléchères,retail
+7a,46.397629,6.205944,coop-restaurant-signy,Signy,1274,Rue des Fléchères,restaurant
+,46.397629,6.205944,impo-signy-ip,Signy,1274,Rue de Fléchères,impo
+,46.397204,6.204848,interdiscount-signy-xxl,Signy,1274,Centre commercial / En fléchère,id
+1,46.333621,6.156754,christ-chavannes-christ,Chavannes,1279,Chemin Industriel,christ
+31,46.238699,6.197432,coop-supermarkt-vesenaz,Vésenaz,1222,Chemin du Vieux-Vésenaz,retail
+31,46.238699,6.197432,coop-vitality-vesenaz,Vésenaz,1222,Chemin du Vieux-Vésenaz,vitality
+77,46.280741,6.166603,coop-supermarkt-versoix-centre,Versoix,1290,Route Suisse,retail
+135,46.204378,6.199976,coop-supermarkt-chene-bougeries-montagne,Chêne-Bougeries,1224,Chemin de la Montagne,retail
+106,46.192503,6.201671,coop-supermarkt-thonex,Thônex,1226,Rue de Genève,retail
+106,46.192519,6.201515,interdiscount-thonex,Thônex,1226,Route de Genève,id
+35-37,46.204314,6.161895,coop-supermarkt-geneve-montchoisy,Genève,1207,Rue de Montchoisy,retail
+5,46.200487,6.160029,coop-supermarkt-geneve-eaux-vives,Genève,1207,Rue Jargonnant,retail
+5,46.200487,6.160029,coop-restaurant-geneve-eaux-vives,Genève,1207,Rue Jargonnant,restaurant
+5,46.200595,6.159197,interdiscount-geneve-eaux-vives,Genève,1207,Rue Jargonnant,id
+56,46.193241,6.161248,coop-supermarkt-geneve-florissant,Genève,1206,Route de Florissant,retail
+35,46.21199,6.149404,coop-supermarkt-geneve-paquis,Genève,1201,Rue des Pâquis,retail
+90,46.220344,6.141922,coop-restaurant-geneve-montbrillant,Genève,1202,Rue de Montbrillant,restaurant
+38,46.213199,6.145695,coop-supermarkt-geneve-rue-de-lausanne,Genève,1201,Rue de Lausanne,retail
+90,46.219976,6.141192,coop-supermarkt-geneve-montbrillant,Genève,1202,Rue de Montbrillant,retail
+6,46.202222,6.150413,impo-geneve-rue-de-rive-ip,Genève,1204,Rue de Rive,impo
+20,46.211523,6.144737,interdiscount-geneve-rue-de-lausanne,Genève,1201,"CC, rue de Lausanne",id
+4,46.202685,6.148341,interdiscount-geneve-rue-de-croix-d-or,Genève,1204,Rue de la Croix d'Or,id
+11,46.208506,6.144446,christ-geneve--rue-du-mont-blanc,Genève,1207,Rue du Mont-Blanc,christ
+,46.210194,6.143408,coop-supermarkt-geneve-gare-mont-blanc,Geneve,1201,Gare Cornavin,retail
+14,46.209719,6.14351,pronto-geneve-place-de-cornavin,Genève,1201,Place Cornavin,pronto
+8C,46.194767,6.152208,coop-supermarkt-geneve-champel,Genève,1206,Avenue de Champel,retail
+1,46.20932,6.142456,coop-supermarkt-geneve-gare-centre,Genève,1201,Gare Cornavin,retail
+5,46.20416,6.145197,coop-supermarkt-city-geneve-fusterie-food,Genève,1204,Rue du Commerce,retail
+5,46.20416,6.145197,coop-city-city-geneve-fusterie,Genève,1204,Rue du Commerce,city
+5,46.20416,6.145197,coop-restaurant-geneve-fusterie,Genève,1204,Rue du Commerce,restaurant
+5,46.20416,6.145197,christ-geneve-fusterie-christ,Genève,1204,Rue du Commerce,christ
+5,46.20416,6.145197,take-it-geneve-city-fusterie-take-it,Genève,1205,Rue de Carouge,takeit
+5,46.20416,6.145197,impo-ge-fusterie-cc-ip,Genève,1204,Rue du Commerce,impo
+15,46.224973,6.131364,coop-supermarkt-geneve-de-bude,Genève,1202,Avenue de Budé,retail
+3,46.203515,6.143864,pronto-geneve-rue-de-la-cite,Genève,1204,Rue de la cité,pronto
+18,46.208011,6.137343,coop-supermarkt-geneve-voltaire,Genève,1201,Rue Voltaire,retail
+12,46.196864,6.142856,coop-city-city-geneve-plainpalais,Genève,1205,Rue de Carouge,city
+12,46.196864,6.142856,impo-ge-plainpalais-cc-ip,Genève,1211,Rue de Carouge,impo
+12,46.196855,6.142844,coop-supermarkt-city-geneve-plainpalais-food,Genève,1205,Rue de Carouge,retail
+31,46.195289,6.143606,coop-to-go-geneve-pont-d-arve-to-go,Geneve,1205,Rue de Carouge,togo
+46,46.194476,6.143328,interdiscount-geneve-rue-de-carouge,Genève,1205,rue de Carouge,id
+72,46.201247,6.139046,coop-supermarkt-geneve-cirque,Genève,1205,Boulevard de Saint-Georges,retail
+81,46.212452,6.131664,coop-supermarkt-geneve-servette,Genève,1202,Rue de la Servette,retail
+83,46.212452,6.131664,coop-restaurant-geneve-servette,Genève,1202,Rue de la Servette,restaurant
+76,46.192204,6.143667,coop-supermarkt-geneve-augustins,Genève,1205,Rue de Carouge,retail
+28,46.231118,6.11903,coop-supermarkt-le-grand-saconnex,Le Grand-Saconnex,1218,Chemin Edouard Sarasin,retail
+11,46.18578,6.144389,pronto-carouge-centre-commercial,Carouge,1227,Rue Cardinal  Mermillod,pronto
+36,46.185254,6.144104,coop-supermarkt-carouge-cardinal-mermillod,Carouge,1227,Avenue du Cardinal Mermillod,retail
+25,46.206942,6.129762,coop-supermarkt-geneve-daubin,Genève,1203,Rue Daubin,retail
+1-3,46.207904,6.127367,coop-supermarkt-geneve-charmilles,Genève,1203,Place des Charmilles,retail
+22,46.199825,6.132019,coop-supermarkt-geneve-jonction,Genève,1205,Boulevard Carl Vogt,retail
+36,46.21324,6.123558,coop-supermarkt-geneve-vieusseux,Genève,1203,Avenue Ernest Pictet,retail
+100,46.208911,6.124946,pronto-geneve-rue-de-lyon,Genève,1204,Rue de Lyon,pronto
+20,46.188786,6.136714,coop-supermarkt-carouge-acacias,Carouge,1227,Rue des Epinettes,retail
+11,46.208245,6.12421,interdiscount-geneve-promenade-de-l-europe,Genève,1203,Promenade de l'Europe,id
+,46.23123,6.110108,interdiscount-geneve-aeroport-gare,Genève,1215,Aéroport-Gare,id
+1,46.203994,6.124533,coop-supermarkt-geneve-saint-jean,Genève,1203,Avenue du Devin du Village,retail
+,46.218792,6.113613,interdiscount-geneve-balexert-parterre,Genève,1209,Centre Balexert Parterre,id
+1,46.182092,6.135086,livique-geneve-carouge,Carouge,1227,Rue Blavignac,livique
+100,46.206287,6.11599,coop-supermarkt-geneve-sports,Genève,1203,Avenue d'Aïre,retail
+89,46.210884,6.112068,coop-supermarkt-chatelaine,Vernier,1214,Av. de la Châtelaine,retail
+10,46.179936,6.128338,christ-carouge-la-praille-christ,Carouge,1227,Route des Jeunes,christ
+10,46.179942,6.128079,coop-supermarkt-carouge-la-praille,Carouge,1227,Route des Jeunes,retail
+10,46.179942,6.128079,coop-restaurant-carouge-la-praille,Carouge,1227,Route des Jeunes,restaurant
+3,46.190133,6.119375,coop-supermarkt-petit-lancy,Petit-Lancy,1213,Place des Ormeaux,retail
+1,46.181904,6.120429,coop-supermarkt-grand-lancy,Grand-Lancy,1212,Place du 1er Août,retail
+171,46.221562,6.096021,interdiscount-vernier-blandonnet,Vernier,1214,Route du Meyrin,id
+171,46.221838,6.095742,coop-supermarkt-vernier-blandonnet,Vernier,1214,Route de Meyrin,retail
+171,46.221838,6.095742,coop-restaurant-vernier,Vernier,1214,Route de Meyrin,restaurant
+15,46.175689,6.120605,coop-supermarkt-grand-lancy-palettes,Grand-Lancy,1212,Chemin des Palettes,retail
+2-4,46.169199,6.121098,coop-supermarkt-plan-les-ouates,Plan-Les-Ouates,1228,Chemin de Vers,retail
+24,46.232397,6.082634,interdiscount-meyrin,Meyrin,1217,Avenue de Feuillasse,id
+24,46.232134,6.082433,impo-meyrin-centre-commercial-ip,Meyrin,1217,Avenue de Feuillasse,impo
+24,46.232132,6.082342,christ-meyrin-christ,Meyrin,1217,Centre Commercial,christ
+24,46.232105,6.08233,coop-supermarkt-city-meyrin-food,Meyrin,1217,Avenue de Feuillasse,retail
+24,46.23205,6.08224,coop-city-city-meyrin,Meyrin,1217,Avenue de Feuillasse,city
+13,46.227157,6.084553,lumimart-meyrin,Meyrin,1217,Chemin Riantbosson,lumimart
+8,46.203534,6.096115,coop-supermarkt-le-lignon,Le Lignon,1219,Place du Lignon,retail
+14,46.187908,6.105387,coop-bau-hobby-b-l-onex,Onex,1213,Avenue du Gros Chêne,bh
+21,46.187701,6.104576,coop-restaurant-onex,Onex,1213,Rue des Bossons,restaurant
+21,46.187736,6.104549,impo-onex-ip,Onex,1213,Rue des Bossons,impo
+21,46.187718,6.104549,coop-vitality-onex-vitality,Onex,1213,rue des Bossons,vitality
+21,46.187552,6.104165,coop-supermarkt-onex,Onex,1213,Rue des Bossons,retail
+26,46.214595,6.082843,coop-supermarkt-vernier,Vernier,1214,Rue du Village,retail
+1,46.22837,6.072493,coop-supermarkt-meyrin-verchere,Meyrin,1217,Chemin Antoine Verchère,retail
+1A,46.156062,6.096533,pronto-perly,Perly-Certoux,1258,Chemin de Champ-Budin,pronto
+16,46.174747,6.083563,coop-supermarkt-confignon,Confignon,1232,Place de l'Eglise,retail
+319,46.174172,6.070937,coop-supermarkt-bernex,Bernex,1233,Rue de Bernex,retail

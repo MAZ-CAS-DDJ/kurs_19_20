@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="team2">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="position" type="string" />
+      <attribute id="1" title="size" type="integer" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>22/10/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="KarenLouiseBardsley" label="Karen Louise Bardsley (Goalkeeper)">
+        <attvalues>
+          <attvalue for="0" value="Goalkeeper" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JenniferBeattie" label="Jennifer Beattie (Left Center Back)">
+        <attvalues>
+          <attvalue for="0" value="Left Center Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AbbieMcManus" label="Abbie McManus (Left Back)">
+        <attvalues>
+          <attvalue for="0" value="Left Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GemmaBonner" label="Gemma Bonner (Right Back)">
+        <attvalues>
+          <attvalue for="0" value="Right Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="NikitaParris" label="Nikita Parris (Center Forward)">
+        <attvalues>
+          <attvalue for="0" value="Center Forward" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JanineBeckie" label="Janine Beckie (Einwechsel)">
+        <attvalues>
+          <attvalue for="0" value="Einwechsel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="KeiraWalsh" label="Keira Walsh (Center Midfield)">
+        <attvalues>
+          <attvalue for="0" value="Center Midfield" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="NadiaNadim" label="Nadia Nadim (Einwechsel)">
+        <attvalues>
+          <attvalue for="0" value="Einwechsel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LaurenHemp" label="Lauren Hemp (Right Center Forward)">
+        <attvalues>
+          <attvalue for="0" value="Right Center Forward" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JillLouiseScott" label="Jill Louise Scott (Right Center Midfield)">
+        <attvalues>
+          <attvalue for="0" value="Right Center Midfield" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GeorgiaStanway" label="Georgia Stanway (Left Center Midfield)">
+        <attvalues>
+          <attvalue for="0" value="Left Center Midfield" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="StephanieHoughton" label="Stephanie Houghton (Right Center Back)">
+        <attvalues>
+          <attvalue for="0" value="Right Center Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MelissaLawley" label="Melissa Lawley (Left Center Forward)">
+        <attvalues>
+          <attvalue for="0" value="Left Center Forward" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="KarenLouiseBardsley" target="JenniferBeattie" weight="9" />
+      <edge id="1" source="KarenLouiseBardsley" target="KeiraWalsh" weight="2" />
+      <edge id="2" source="KarenLouiseBardsley" target="NikitaParris" weight="3" />
+      <edge id="3" source="KarenLouiseBardsley" target="JillLouiseScott" weight="2" />
+      <edge id="4" source="KarenLouiseBardsley" target="GemmaBonner" weight="5" />
+      <edge id="5" source="KarenLouiseBardsley" target="AbbieMcManus" weight="5" />
+      <edge id="6" source="KarenLouiseBardsley" target="NadiaNadim" weight="1" />
+      <edge id="7" source="KarenLouiseBardsley" target="JanineBeckie" weight="2" />
+      <edge id="8" source="KarenLouiseBardsley" target="StephanieHoughton" weight="19" />
+      <edge id="9" source="KarenLouiseBardsley" target="MelissaLawley" weight="1" />
+      <edge id="10" source="JenniferBeattie" target="KarenLouiseBardsley" weight="7" />
+      <edge id="11" source="JenniferBeattie" target="KeiraWalsh" weight="13" />
+      <edge id="12" source="JenniferBeattie" target="GemmaBonner" weight="3" />
+      <edge id="13" source="JenniferBeattie" target="NikitaParris" weight="7" />
+      <edge id="14" source="JenniferBeattie" target="JillLouiseScott" weight="3" />
+      <edge id="15" source="JenniferBeattie" target="AbbieMcManus" weight="7" />
+      <edge id="16" source="JenniferBeattie" target="NadiaNadim" weight="3" />
+      <edge id="17" source="JenniferBeattie" target="GeorgiaStanway" weight="8" />
+      <edge id="18" source="JenniferBeattie" target="StephanieHoughton" weight="8" />
+      <edge id="19" source="JenniferBeattie" target="MelissaLawley" weight="1" />
+      <edge id="20" source="AbbieMcManus" target="KarenLouiseBardsley" weight="3" />
+      <edge id="21" source="AbbieMcManus" target="JenniferBeattie" weight="14" />
+      <edge id="22" source="AbbieMcManus" target="NikitaParris" weight="5" />
+      <edge id="23" source="AbbieMcManus" target="JillLouiseScott" weight="1" />
+      <edge id="24" source="AbbieMcManus" target="JanineBeckie" weight="1" />
+      <edge id="25" source="AbbieMcManus" target="KeiraWalsh" weight="5" />
+      <edge id="26" source="AbbieMcManus" target="NadiaNadim" weight="3" />
+      <edge id="27" source="AbbieMcManus" target="LaurenHemp" weight="3" />
+      <edge id="28" source="AbbieMcManus" target="GeorgiaStanway" weight="7" />
+      <edge id="29" source="AbbieMcManus" target="MelissaLawley" weight="2" />
+      <edge id="30" source="GemmaBonner" target="KarenLouiseBardsley" weight="7" />
+      <edge id="31" source="GemmaBonner" target="JenniferBeattie" weight="1" />
+      <edge id="32" source="GemmaBonner" target="NikitaParris" weight="3" />
+      <edge id="33" source="GemmaBonner" target="JanineBeckie" weight="4" />
+      <edge id="34" source="GemmaBonner" target="JillLouiseScott" weight="9" />
+      <edge id="35" source="GemmaBonner" target="KeiraWalsh" weight="5" />
+      <edge id="36" source="GemmaBonner" target="NadiaNadim" weight="4" />
+      <edge id="37" source="GemmaBonner" target="LaurenHemp" weight="2" />
+      <edge id="38" source="GemmaBonner" target="GeorgiaStanway" weight="1" />
+      <edge id="39" source="GemmaBonner" target="StephanieHoughton" weight="19" />
+      <edge id="40" source="GemmaBonner" target="MelissaLawley" weight="13" />
+      <edge id="41" source="NikitaParris" target="KeiraWalsh" weight="1" />
+      <edge id="42" source="NikitaParris" target="JillLouiseScott" weight="2" />
+      <edge id="43" source="NikitaParris" target="JanineBeckie" weight="1" />
+      <edge id="44" source="NikitaParris" target="AbbieMcManus" weight="2" />
+      <edge id="45" source="NikitaParris" target="NadiaNadim" weight="5" />
+      <edge id="46" source="NikitaParris" target="LaurenHemp" weight="1" />
+      <edge id="47" source="NikitaParris" target="GeorgiaStanway" weight="3" />
+      <edge id="48" source="NikitaParris" target="MelissaLawley" weight="1" />
+      <edge id="49" source="JanineBeckie" target="JenniferBeattie" weight="1" />
+      <edge id="50" source="JanineBeckie" target="NadiaNadim" weight="3" />
+      <edge id="51" source="JanineBeckie" target="StephanieHoughton" weight="1" />
+      <edge id="52" source="JanineBeckie" target="GemmaBonner" weight="2" />
+      <edge id="53" source="JanineBeckie" target="NikitaParris" weight="1" />
+      <edge id="54" source="KeiraWalsh" target="KarenLouiseBardsley" weight="3" />
+      <edge id="55" source="KeiraWalsh" target="JenniferBeattie" weight="6" />
+      <edge id="56" source="KeiraWalsh" target="NikitaParris" weight="3" />
+      <edge id="57" source="KeiraWalsh" target="GemmaBonner" weight="2" />
+      <edge id="58" source="KeiraWalsh" target="JanineBeckie" weight="3" />
+      <edge id="59" source="KeiraWalsh" target="AbbieMcManus" weight="4" />
+      <edge id="60" source="KeiraWalsh" target="NadiaNadim" weight="2" />
+      <edge id="61" source="KeiraWalsh" target="LaurenHemp" weight="3" />
+      <edge id="62" source="KeiraWalsh" target="JillLouiseScott" weight="7" />
+      <edge id="63" source="KeiraWalsh" target="GeorgiaStanway" weight="7" />
+      <edge id="64" source="KeiraWalsh" target="StephanieHoughton" weight="6" />
+      <edge id="65" source="KeiraWalsh" target="MelissaLawley" weight="4" />
+      <edge id="66" source="NadiaNadim" target="JenniferBeattie" weight="1" />
+      <edge id="67" source="NadiaNadim" target="NikitaParris" weight="2" />
+      <edge id="68" source="NadiaNadim" target="GemmaBonner" weight="2" />
+      <edge id="69" source="NadiaNadim" target="JillLouiseScott" weight="1" />
+      <edge id="70" source="NadiaNadim" target="KeiraWalsh" weight="2" />
+      <edge id="71" source="NadiaNadim" target="GeorgiaStanway" weight="4" />
+      <edge id="72" source="NadiaNadim" target="MelissaLawley" weight="2" />
+      <edge id="73" source="LaurenHemp" target="GeorgiaStanway" weight="2" />
+      <edge id="74" source="LaurenHemp" target="GemmaBonner" weight="2" />
+      <edge id="75" source="JillLouiseScott" target="JenniferBeattie" weight="1" />
+      <edge id="76" source="JillLouiseScott" target="NikitaParris" weight="2" />
+      <edge id="77" source="JillLouiseScott" target="GemmaBonner" weight="8" />
+      <edge id="78" source="JillLouiseScott" target="JanineBeckie" weight="3" />
+      <edge id="79" source="JillLouiseScott" target="KeiraWalsh" weight="1" />
+      <edge id="80" source="JillLouiseScott" target="NadiaNadim" weight="3" />
+      <edge id="81" source="JillLouiseScott" target="LaurenHemp" weight="1" />
+      <edge id="82" source="JillLouiseScott" target="GeorgiaStanway" weight="1" />
+      <edge id="83" source="JillLouiseScott" target="MelissaLawley" weight="8" />
+      <edge id="84" source="GeorgiaStanway" target="KarenLouiseBardsley" weight="1" />
+      <edge id="85" source="GeorgiaStanway" target="JenniferBeattie" weight="9" />
+      <edge id="86" source="GeorgiaStanway" target="NikitaParris" weight="2" />
+      <edge id="87" source="GeorgiaStanway" target="JillLouiseScott" weight="6" />
+      <edge id="88" source="GeorgiaStanway" target="KeiraWalsh" weight="5" />
+      <edge id="89" source="GeorgiaStanway" target="LaurenHemp" weight="2" />
+      <edge id="90" source="GeorgiaStanway" target="AbbieMcManus" weight="2" />
+      <edge id="91" source="GeorgiaStanway" target="StephanieHoughton" weight="5" />
+      <edge id="92" source="GeorgiaStanway" target="MelissaLawley" weight="8" />
+      <edge id="93" source="StephanieHoughton" target="KarenLouiseBardsley" weight="6" />
+      <edge id="94" source="StephanieHoughton" target="JenniferBeattie" weight="11" />
+      <edge id="95" source="StephanieHoughton" target="AbbieMcManus" weight="2" />
+      <edge id="96" source="StephanieHoughton" target="GemmaBonner" weight="24" />
+      <edge id="97" source="StephanieHoughton" target="NikitaParris" weight="7" />
+      <edge id="98" source="StephanieHoughton" target="JillLouiseScott" weight="2" />
+      <edge id="99" source="StephanieHoughton" target="KeiraWalsh" weight="5" />
+      <edge id="100" source="StephanieHoughton" target="GeorgiaStanway" weight="2" />
+      <edge id="101" source="StephanieHoughton" target="MelissaLawley" weight="9" />
+      <edge id="102" source="MelissaLawley" target="JenniferBeattie" weight="1" />
+      <edge id="103" source="MelissaLawley" target="KeiraWalsh" weight="2" />
+      <edge id="104" source="MelissaLawley" target="JillLouiseScott" weight="3" />
+      <edge id="105" source="MelissaLawley" target="NikitaParris" weight="4" />
+      <edge id="106" source="MelissaLawley" target="GemmaBonner" weight="6" />
+      <edge id="107" source="MelissaLawley" target="AbbieMcManus" weight="1" />
+      <edge id="108" source="MelissaLawley" target="NadiaNadim" weight="2" />
+      <edge id="109" source="MelissaLawley" target="LaurenHemp" weight="1" />
+      <edge id="110" source="MelissaLawley" target="GeorgiaStanway" weight="2" />
+      <edge id="111" source="MelissaLawley" target="StephanieHoughton" weight="1" />
+    </edges>
+  </graph>
+</gexf>

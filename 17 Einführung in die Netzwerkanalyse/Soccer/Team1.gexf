@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="team1">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="position" type="string" />
+      <attribute id="1" title="size" type="integer" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>22/10/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="BethanyEngland" label="Bethany England (Right Wing)">
+        <attvalues>
+          <attvalue for="0" value="Right Wing" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="KarenJuliaCarney" label="Karen Julia Carney (Left Wing)">
+        <attvalues>
+          <attvalue for="0" value="Left Wing" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="SoyunJi" label="So-yun Ji (Center Attacking Midfield)">
+        <attvalues>
+          <attvalue for="0" value="Center Attacking Midfield" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MagdalenaEricsson" label="Magdalena Ericsson (Left Center Back)">
+        <attvalues>
+          <attvalue for="0" value="Left Center Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JessicaCarter" label="Jessica Carter (Right Back)">
+        <attvalues>
+          <attvalue for="0" value="Right Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="RutHedvigLindahl" label="Rut Hedvig Lindahl (Goalkeeper)">
+        <attvalues>
+          <attvalue for="0" value="Goalkeeper" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="JonnaAndersson" label="Jonna Andersson (Left Back)">
+        <attvalues>
+          <attvalue for="0" value="Left Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="RamonaBachmann" label="Ramona Bachmann (Center Forward)">
+        <attvalues>
+          <attvalue for="0" value="Center Forward" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="FrancescaKirby" label="Francesca Kirby (Einwechsel)">
+        <attvalues>
+          <attvalue for="0" value="Einwechsel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DrewSpence" label="Drew Spence (Einwechsel)">
+        <attvalues>
+          <attvalue for="0" value="Einwechsel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="SophieIngle" label="Sophie Ingle (Right Defensive Midfield)">
+        <attvalues>
+          <attvalue for="0" value="Right Defensive Midfield" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MarenNvdalMjelde" label="Maren Nævdal Mjelde (Left Defensive Midfield)">
+        <attvalues>
+          <attvalue for="0" value="Left Defensive Midfield" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MillieBright" label="Millie Bright (Right Center Back)">
+        <attvalues>
+          <attvalue for="0" value="Right Center Back" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ErinCuthbert" label="Erin Cuthbert (Einwechsel)">
+        <attvalues>
+          <attvalue for="0" value="Einwechsel" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="BethanyEngland" target="KarenJuliaCarney" weight="1" />
+      <edge id="1" source="BethanyEngland" target="SoyunJi" weight="4" />
+      <edge id="2" source="BethanyEngland" target="MarenNvdalMjelde" weight="1" />
+      <edge id="3" source="BethanyEngland" target="JessicaCarter" weight="1" />
+      <edge id="4" source="BethanyEngland" target="RamonaBachmann" weight="6" />
+      <edge id="5" source="KarenJuliaCarney" target="BethanyEngland" weight="2" />
+      <edge id="6" source="KarenJuliaCarney" target="SoyunJi" weight="5" />
+      <edge id="7" source="KarenJuliaCarney" target="MagdalenaEricsson" weight="2" />
+      <edge id="8" source="KarenJuliaCarney" target="JessicaCarter" weight="1" />
+      <edge id="9" source="KarenJuliaCarney" target="RutHedvigLindahl" weight="1" />
+      <edge id="10" source="KarenJuliaCarney" target="JonnaAndersson" weight="2" />
+      <edge id="11" source="KarenJuliaCarney" target="RamonaBachmann" weight="9" />
+      <edge id="12" source="KarenJuliaCarney" target="MarenNvdalMjelde" weight="3" />
+      <edge id="13" source="KarenJuliaCarney" target="MillieBright" weight="1" />
+      <edge id="14" source="KarenJuliaCarney" target="ErinCuthbert" weight="1" />
+      <edge id="15" source="SoyunJi" target="BethanyEngland" weight="2" />
+      <edge id="16" source="SoyunJi" target="KarenJuliaCarney" weight="6" />
+      <edge id="17" source="SoyunJi" target="MagdalenaEricsson" weight="2" />
+      <edge id="18" source="SoyunJi" target="JessicaCarter" weight="8" />
+      <edge id="19" source="SoyunJi" target="JonnaAndersson" weight="3" />
+      <edge id="20" source="SoyunJi" target="RamonaBachmann" weight="6" />
+      <edge id="21" source="SoyunJi" target="FrancescaKirby" weight="3" />
+      <edge id="22" source="SoyunJi" target="SophieIngle" weight="4" />
+      <edge id="23" source="SoyunJi" target="MarenNvdalMjelde" weight="4" />
+      <edge id="24" source="SoyunJi" target="MillieBright" weight="3" />
+      <edge id="25" source="MagdalenaEricsson" target="BethanyEngland" weight="2" />
+      <edge id="26" source="MagdalenaEricsson" target="SoyunJi" weight="4" />
+      <edge id="27" source="MagdalenaEricsson" target="JessicaCarter" weight="1" />
+      <edge id="28" source="MagdalenaEricsson" target="RutHedvigLindahl" weight="4" />
+      <edge id="29" source="MagdalenaEricsson" target="JonnaAndersson" weight="8" />
+      <edge id="30" source="MagdalenaEricsson" target="RamonaBachmann" weight="2" />
+      <edge id="31" source="MagdalenaEricsson" target="FrancescaKirby" weight="1" />
+      <edge id="32" source="MagdalenaEricsson" target="DrewSpence" weight="2" />
+      <edge id="33" source="MagdalenaEricsson" target="SophieIngle" weight="1" />
+      <edge id="34" source="MagdalenaEricsson" target="MarenNvdalMjelde" weight="4" />
+      <edge id="35" source="MagdalenaEricsson" target="MillieBright" weight="3" />
+      <edge id="36" source="MagdalenaEricsson" target="ErinCuthbert" weight="1" />
+      <edge id="37" source="JessicaCarter" target="BethanyEngland" weight="10" />
+      <edge id="38" source="JessicaCarter" target="KarenJuliaCarney" weight="1" />
+      <edge id="39" source="JessicaCarter" target="SoyunJi" weight="8" />
+      <edge id="40" source="JessicaCarter" target="MagdalenaEricsson" weight="2" />
+      <edge id="41" source="JessicaCarter" target="RamonaBachmann" weight="11" />
+      <edge id="42" source="JessicaCarter" target="RutHedvigLindahl" weight="6" />
+      <edge id="43" source="JessicaCarter" target="FrancescaKirby" weight="2" />
+      <edge id="44" source="JessicaCarter" target="DrewSpence" weight="1" />
+      <edge id="45" source="JessicaCarter" target="SophieIngle" weight="1" />
+      <edge id="46" source="JessicaCarter" target="MarenNvdalMjelde" weight="4" />
+      <edge id="47" source="JessicaCarter" target="MillieBright" weight="8" />
+      <edge id="48" source="RutHedvigLindahl" target="BethanyEngland" weight="3" />
+      <edge id="49" source="RutHedvigLindahl" target="KarenJuliaCarney" weight="6" />
+      <edge id="50" source="RutHedvigLindahl" target="SoyunJi" weight="6" />
+      <edge id="51" source="RutHedvigLindahl" target="MagdalenaEricsson" weight="5" />
+      <edge id="52" source="RutHedvigLindahl" target="JessicaCarter" weight="5" />
+      <edge id="53" source="RutHedvigLindahl" target="JonnaAndersson" weight="3" />
+      <edge id="54" source="RutHedvigLindahl" target="RamonaBachmann" weight="4" />
+      <edge id="55" source="RutHedvigLindahl" target="FrancescaKirby" weight="1" />
+      <edge id="56" source="RutHedvigLindahl" target="DrewSpence" weight="2" />
+      <edge id="57" source="RutHedvigLindahl" target="SophieIngle" weight="1" />
+      <edge id="58" source="RutHedvigLindahl" target="MarenNvdalMjelde" weight="1" />
+      <edge id="59" source="RutHedvigLindahl" target="MillieBright" weight="4" />
+      <edge id="60" source="RutHedvigLindahl" target="ErinCuthbert" weight="1" />
+      <edge id="61" source="JonnaAndersson" target="BethanyEngland" weight="3" />
+      <edge id="62" source="JonnaAndersson" target="KarenJuliaCarney" weight="8" />
+      <edge id="63" source="JonnaAndersson" target="SoyunJi" weight="5" />
+      <edge id="64" source="JonnaAndersson" target="MagdalenaEricsson" weight="6" />
+      <edge id="65" source="JonnaAndersson" target="RamonaBachmann" weight="9" />
+      <edge id="66" source="JonnaAndersson" target="RutHedvigLindahl" weight="2" />
+      <edge id="67" source="JonnaAndersson" target="FrancescaKirby" weight="2" />
+      <edge id="68" source="JonnaAndersson" target="DrewSpence" weight="1" />
+      <edge id="69" source="JonnaAndersson" target="MarenNvdalMjelde" weight="7" />
+      <edge id="70" source="JonnaAndersson" target="MillieBright" weight="1" />
+      <edge id="71" source="JonnaAndersson" target="ErinCuthbert" weight="1" />
+      <edge id="72" source="RamonaBachmann" target="BethanyEngland" weight="2" />
+      <edge id="73" source="RamonaBachmann" target="KarenJuliaCarney" weight="9" />
+      <edge id="74" source="RamonaBachmann" target="SoyunJi" weight="5" />
+      <edge id="75" source="RamonaBachmann" target="JessicaCarter" weight="5" />
+      <edge id="76" source="RamonaBachmann" target="JonnaAndersson" weight="2" />
+      <edge id="77" source="RamonaBachmann" target="FrancescaKirby" weight="2" />
+      <edge id="78" source="RamonaBachmann" target="DrewSpence" weight="1" />
+      <edge id="79" source="RamonaBachmann" target="SophieIngle" weight="2" />
+      <edge id="80" source="RamonaBachmann" target="MarenNvdalMjelde" weight="1" />
+      <edge id="81" source="RamonaBachmann" target="MillieBright" weight="1" />
+      <edge id="82" source="FrancescaKirby" target="SoyunJi" weight="2" />
+      <edge id="83" source="FrancescaKirby" target="JessicaCarter" weight="1" />
+      <edge id="84" source="FrancescaKirby" target="RamonaBachmann" weight="3" />
+      <edge id="85" source="FrancescaKirby" target="DrewSpence" weight="2" />
+      <edge id="86" source="FrancescaKirby" target="MillieBright" weight="1" />
+      <edge id="87" source="FrancescaKirby" target="ErinCuthbert" weight="1" />
+      <edge id="88" source="DrewSpence" target="KarenJuliaCarney" weight="1" />
+      <edge id="89" source="DrewSpence" target="RamonaBachmann" weight="7" />
+      <edge id="90" source="DrewSpence" target="MarenNvdalMjelde" weight="2" />
+      <edge id="91" source="DrewSpence" target="MillieBright" weight="1" />
+      <edge id="92" source="DrewSpence" target="FrancescaKirby" weight="2" />
+      <edge id="93" source="SophieIngle" target="BethanyEngland" weight="4" />
+      <edge id="94" source="SophieIngle" target="KarenJuliaCarney" weight="2" />
+      <edge id="95" source="SophieIngle" target="SoyunJi" weight="3" />
+      <edge id="96" source="SophieIngle" target="MagdalenaEricsson" weight="1" />
+      <edge id="97" source="SophieIngle" target="JessicaCarter" weight="1" />
+      <edge id="98" source="SophieIngle" target="RamonaBachmann" weight="3" />
+      <edge id="99" source="SophieIngle" target="MillieBright" weight="3" />
+      <edge id="100" source="MarenNvdalMjelde" target="BethanyEngland" weight="2" />
+      <edge id="101" source="MarenNvdalMjelde" target="KarenJuliaCarney" weight="1" />
+      <edge id="102" source="MarenNvdalMjelde" target="SoyunJi" weight="5" />
+      <edge id="103" source="MarenNvdalMjelde" target="MagdalenaEricsson" weight="3" />
+      <edge id="104" source="MarenNvdalMjelde" target="JessicaCarter" weight="5" />
+      <edge id="105" source="MarenNvdalMjelde" target="RutHedvigLindahl" weight="1" />
+      <edge id="106" source="MarenNvdalMjelde" target="JonnaAndersson" weight="3" />
+      <edge id="107" source="MarenNvdalMjelde" target="RamonaBachmann" weight="2" />
+      <edge id="108" source="MarenNvdalMjelde" target="SophieIngle" weight="1" />
+      <edge id="109" source="MarenNvdalMjelde" target="MillieBright" weight="2" />
+      <edge id="110" source="MarenNvdalMjelde" target="ErinCuthbert" weight="2" />
+      <edge id="111" source="MillieBright" target="BethanyEngland" weight="2" />
+      <edge id="112" source="MillieBright" target="KarenJuliaCarney" weight="2" />
+      <edge id="113" source="MillieBright" target="SoyunJi" weight="4" />
+      <edge id="114" source="MillieBright" target="MagdalenaEricsson" weight="3" />
+      <edge id="115" source="MillieBright" target="JessicaCarter" weight="9" />
+      <edge id="116" source="MillieBright" target="RamonaBachmann" weight="2" />
+      <edge id="117" source="MillieBright" target="RutHedvigLindahl" weight="4" />
+      <edge id="118" source="MillieBright" target="FrancescaKirby" weight="2" />
+      <edge id="119" source="MillieBright" target="SophieIngle" weight="2" />
+      <edge id="120" source="MillieBright" target="MarenNvdalMjelde" weight="3" />
+      <edge id="121" source="ErinCuthbert" target="FrancescaKirby" weight="1" />
+      <edge id="122" source="ErinCuthbert" target="JonnaAndersson" weight="1" />
+    </edges>
+  </graph>
+</gexf>
