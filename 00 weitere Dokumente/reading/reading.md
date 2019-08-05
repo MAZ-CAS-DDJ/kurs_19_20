@@ -1,6 +1,21 @@
 # Reading
 
-## 00 HTML
+
+## 00 Python Introduction
+
+Module 1 und 2 durcharbeiten. Es geht darum, ein Gefühl dafür zu bekommen, was Python überhaupt ist. Nicht am Ende von Module 1 und 2 bereits Python schreiben zu können. Das lernen wir im Kurs.
+
+[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)
+
+## 01 Statistics
+
+Kapitel 1, beziehungsweise die Introduction bis Seite 64. Dieses Kapitel dient als Refresh für alle, die sich schon lange nicht mehr mit den Kernkonzepten der Statistik auseinandergesetzt haben; oder die das vielleicht nie getan haben. 
+
+[Introduction to Statistics](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/reading/Online_Statistics_Education.pdf)
+
+## 02 HTML
+
+In den folgenden HTML-Tutorials stöbern. Es geht darum, zu verstehen wie HTML grob funktioniert, nicht selber HTML schreiben zu können.
 
 Auf Deutsch, ausführliche Step-by-Step-Erklärung, aber ohne Übungen
 [https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg)
@@ -16,11 +31,3 @@ Auf Englisch, Step-by-Step, interaktiv mit integriertem Editor
 
 Auf Englisch, interaktiv, mit laufenden Challenges
 [https://learn.freecodecamp.org/](https://learn.freecodecamp.org/)
-
-## 01 Statistics
-
-[Introduction to Statistics](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/reading/Online_Statistics_Education.pdf)
-
-## 02 Python Introduction
-
-(Kommt von Plotti)
