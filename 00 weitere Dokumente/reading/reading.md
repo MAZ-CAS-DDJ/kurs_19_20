@@ -3,13 +3,13 @@
 
 ## 00 Python Introduction
 
-[Python 3 Tutorial](https://www.sololearn.com/Course/Python/): Module 1 und 2 durcharbeiten. Es geht darum, ein Gefühl dafür zu bekommen, was Python überhaupt ist. Nicht am Ende von Module 1 und 2 bereits Python schreiben zu können. Das lernen wir im Kurs.
+[Python 3 Tutorial](https://www.sololearn.com/Course/Python/). Module 1 und 2 durcharbeiten. Es geht darum, ein Gefühl dafür zu bekommen, was Python überhaupt ist. Nicht am Ende von Module 1 und 2 bereits Python schreiben zu können. Das lernen wir im Kurs.
 
 
 
 ## 01 Statistics
 
-[Introduction to Statistics](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/reading/Online_Statistics_Education.pdf): Kapitel 1, beziehungsweise die Introduction bis Seite 64. Dieses Kapitel dient als Refresh für alle, die sich schon lange nicht mehr mit den Kernkonzepten der Statistik auseinandergesetzt haben; oder die das vielleicht nie getan haben.
+[Introduction to Statistics](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/reading/Online_Statistics_Education.pdf) (schweres PDF, 100MB). Kapitel 1, beziehungsweise die Introduction bis Seite 64. Dieses Kapitel dient als Refresh für alle, die sich schon lange nicht mehr mit den Kernkonzepten der Statistik auseinandergesetzt haben; oder die das vielleicht nie getan haben.
 
 
 ## 02 HTML
