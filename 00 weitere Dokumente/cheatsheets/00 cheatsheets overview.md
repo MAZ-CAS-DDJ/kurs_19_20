@@ -3,7 +3,7 @@
 0. [Command Line](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/06%20terminal_cheatsheet.md)
 1. [Markdown](https://www.google.com/url?q=https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%2520Einstieg%2520ins%2520Programmieren/06%2520terminal_cheatsheet.md&source=gmail&ust=1566390305678000&usg=AFQjCNHZ0QonxguNVqpMMTFIJP5_1VcCWA)
 2. [Python Basics](https://www.google.com/url?q=https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/05%2520Python%2520Teil%25203/Python3_reference_cheat_sheet-full.pdf&source=gmail&ust=1566390305678000&usg=AFQjCNGHtkVyCdiP4t1LWdA0KwFAmdEzlA)
-3. [Pandas](https://github.com/MAZ-CAS-DDJ/kurs_19_20/tree/master/08%20Pandas%20Teil%201/material)
+3. [Pandas](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/08%20Pandas%20Teil%201/material/Pandas_Cheat_Sheet.pdf)
 4. Ordner-Struktur Github
 
 EXTRA
