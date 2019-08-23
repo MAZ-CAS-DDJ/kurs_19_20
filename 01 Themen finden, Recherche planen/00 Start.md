@@ -8,15 +8,15 @@ In alphabetischer Reihenfolge:
 
 Reto Furter
 Leiter Graubünden / Mitglied der erweiterten Chefredaktion Somedia
-[reto.furter@somedia.ch](emailto:reto.furter@somedia.ch)
+[reto.furter@somedia.ch](mailto:reto.furter@somedia.ch)
 
 Zoe Gwerder
 Redaktorin, Zuger Zeitung
-[zoe.gwerder@zugerzeitung.ch](emailto:zoe.gwerder@zugerzeitung.ch)]
+[zoe.gwerder@zugerzeitung.ch](mailto:zoe.gwerder@zugerzeitung.ch)]
 
 Marius Huber
 Reporter Zürich, Tages-Anzeiger
-[makulatur@gmx.ch](makulatur@gmx.ch)
+[makulatur@gmx.ch](mailto:makulatur@gmx.ch)
 
 Katrin Nidzwetzki
 Infografikerin, Tamedia
@@ -24,24 +24,24 @@ Infografikerin, Tamedia
 
 Jörg Niggli
 Redaktor Wissen, SRF
-[srf@srf.ch](emailto:jo@niggli.com)
+[srf@srf.ch](mailto:jo@niggli.com)
 
 Manuela Paganini
 RadioFr.
-[manuela.paganini@jungejournalisten.ch](emailto:manuela.paganini@jungejournalisten.ch)
+[manuela.paganini@jungejournalisten.ch](mailto:manuela.paganini@jungejournalisten.ch)
 
 Sandra Rutschi
 Redaktorin, Berner Zeitung BZ
-[sandra.rutschi@bernerzeitung.ch](emailto:sandra.rutschi@bernerzeitung.ch)
+[sandra.rutschi@bernerzeitung.ch](mailto:sandra.rutschi@bernerzeitung.ch)
 
 Martin Steinegger
 Stv. Chefredaktor, Zürichsee-Zeitung
-[msteinegger@zsz.ch](emailto:msteinegger@zsz.ch)
+[msteinegger@zsz.ch](mailto:msteinegger@zsz.ch)
 
 Fabien von Allemen
 Wirtschaftsreporter, srf
-[fabi.vonallmen@gmail.com](emailto:fabi.vonallmen@gmail.com)
+[fabi.vonallmen@gmail.com](mailto:fabi.vonallmen@gmail.com)
 
 Sven Zaugg
 Redaktor, Saldo
-[sven.zaugg@ringier.ch](emailto:sven.zaugg@ringier.ch)
+[sven.zaugg@ringier.ch](mailto:sven.zaugg@ringier.ch)
