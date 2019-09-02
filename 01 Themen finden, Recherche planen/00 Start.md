@@ -20,7 +20,7 @@ Reporter Zürich, Tages-Anzeiger \
 
 Katrin Nidzwetzki
 Infografikerin, Tamedia \
-[katrin.nidzwetzki@tamedia.ch](katrin.nidzwetzki@tamedia.ch)
+[katrin.nidzwetzki@tamedia.ch](mailto:katrin.nidzwetzki@tamedia.ch)
 
 Jörg Niggli
 Redaktor Wissen, SRF \
