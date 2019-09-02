@@ -1,6 +1,6 @@
-# Spesen-Story Guardian: Die Welt verändern
+# John Snows Cholera Karte (1854)
 
-Der Spesenskandal im britischen Parlament schlug um 2009/10 und in den Jahren danach sehr hohe Wellen. Um diese Geschichte zu erzählen, brauchten englische Zeitungen, allen voran der Guardian, Crowd Sourcing aber auch Programmierskills, um die [Daten zu scrapen](https://www.theguardian.com/news/datablog/2010/jun/25/mps-expenses-spreadsheet) und [die Daten zu analysieren](https://www.theguardian.com/news/datablog+politics/mps-expenses). Die Recherche war auf lange Sicht gesehen einer der Gründe für den Brexit.
+Ein frühes Beispiel davon, welche Kraft visualisierte bereinigte Daten haben. [Die Cholera-Karte](https://www.theguardian.com/news/datablog/interactive/2013/mar/15/cholera-map-john-snow-recreated), die Tausenden von Londonern im 19. Jahrhundert das Leben rettete.
 
 # Zürich Wie Neu: Neue Lokal-Stories
 
