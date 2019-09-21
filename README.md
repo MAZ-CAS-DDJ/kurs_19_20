@@ -77,7 +77,8 @@ Anmeldeschluss	Mo, 05.08.2019
 1. Unterricht: [Dataframes handling - Peter, Paul und Maria](09%20Pandas%20Teil%202/Dataframes%20Handling.ipynb) (ssc), 45'
 1. Übung 1: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 100'
 1. Ein DDJ-Beispiel: [Bussed out](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study) (ssc), 10'
-1. Übung 2: [Daten kombinieren - Immobilienboom](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 100'
+1. Übung 2: [Plotting - Klimadaten](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb) *([Lösung](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb%20L.ipynb))* (ssc), 30'
+1. Übung 3: [Daten kombinieren - Immobilienboom](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
 1. Homework 2: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
 
 ## Selenium, Rückblick und Ausblick auf die Projekte
