@@ -1,0 +1,8 @@
+axes.titlesize : 20
+axes.labelsize : 16
+lines.linewidth : 3
+lines.markersize : 10
+xtick.labelsize : 14
+ytick.labelsize : 14
+axes.grid : True
+grid.color : red
