@@ -91,16 +91,16 @@ Anmeldeschluss	Mo, 05.08.2019
 4. Ausblick auf Projekte (bsk), 30' + 90'
 
 ## Pandas Vertiefung, Teil 1
-**14. Oktober**
+**14. Oktober 2019**
 1. Ein DDJ-Beispiel: [How well do you know your country](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz) (ssc), 15'
 1. Unterricht: [Date+Time Basics](11%20Pandas%20Teil%203/Date+Time%20Basics.ipynb) *([Lösung](11%20Pandas%20Teil%203/Date+Time%20Basics%20L.ipynb))* (ssc), 60'
 1. Unterricht: [Time Series - SMI-Index](11%20Pandas%20Teil%203/Time%20Series.ipynb) *([Lösung](11%20Pandas%20Teil%203/Time%20Series%20L.ipynb))* (ssc), 90'
-1. Übung: [Exploring und Plotting II - Börsenkurse](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%20II.ipnyb)
+1. Übung: [Exploring und Plotting II - Börsenkurse](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202.ipnyb) *([Lösung](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202%20L.ipynb))* (ssc), 60'
 1. Unterricht: [Pandas und Funktionen](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen.ipynb) *([Lösung](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen%20L.ipynb))* (ssc), 60'
 1. Homework: [Viele Dateien - Krypto-Coins](11%20Pandas%20Teil%203/Viele%20Dateien.ipynb) *([Lösung](11%20Pandas%20Teil%203/Viele%20Dateien%20L.ipynb))* (ssc), 60'
 
 ## Pandas Vertiefung, Teil 2
-**15. Oktober**
+**15. Oktober 2019**
 1. Wiedereinstieg: DDJ-Beispiele (ssc), 15'
 1. Übung: [Regex in Python - Songtexts](12%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))* (ssc), 90'
 1. Unterricht: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
