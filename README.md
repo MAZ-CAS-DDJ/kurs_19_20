@@ -69,7 +69,7 @@ Anmeldeschluss	Mo, 05.08.2019
 1. Einführung in Pandas: [Fragen formulieren - Kraftwerke](08%20Pandas%20Teil%201/Einführung%20Pandas.ipynb)*([Lösung](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb))* (ssc), 30'
 1. Übung: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
 1. Wiedereinstieg: DDJ-Beispiele anschauen
-1. [Hilfsmaterialien](08%20Pandas%20Teil%201/material/) (ssc), 20'
+1. [Hilfsmaterialien](00%20weitere%20Dokumente/hilfsmaterial/) (ssc), 20'
 1. Übung: [Filtern und Felder kombinieren - NBA All-Stars](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren%20L.ipynb))* (ssc), 80'
 1. Homework: [Explorieren, Filtern, Kombinieren - Fussballstadien](08%20Pandas%20Teil%201/Homework%201.ipynb) *([Lösung](08%20Pandas%20Teil%201/Homework%201%20L.ipynb))*, (ssc) 60'
 
@@ -103,9 +103,9 @@ Anmeldeschluss	Mo, 05.08.2019
 **15. Oktober 2019**
 1. Wiedereinstieg: DDJ-Beispiele (ssc), 15'
 1. Übung: [Regex in Python - Songtexts](12%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))* (ssc), 90'
-1. Unterricht: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
-1. Homework: [Regex - Senators](12%20Pandas%20Teil%204/Homework%203.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Homework%203%20L.ipynb))*
-1. Homework: [Beautiful Charts](11%20Pandas%20Teil%203/Beautiful%20Charts.ipynb) *([Lösung](11%20Pandas%20Teil%203/Beautiful%20Charts%20L.ipynb))* (ssc), 30'
+1. Übung: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
+1. Homework: [Regex - Senators](12%20Pandas%20Teil%204/Homework%203.ipynb) *([Lösung](12%20Pandas%20Teil%204/Homework%203%20L.ipynb))*
+1. Homework: [Beautiful Charts](11%20Pandas%20Teil%204/Beautiful%20Charts.ipynb) *([Lösung](11%20Pandas%20Teil%204/Beautiful%20Charts%20L.ipynb))* (ssc), 30'
 ## PDF auslesen und erste Textanalyse
 **28. und 29. Oktober 2019**
 
