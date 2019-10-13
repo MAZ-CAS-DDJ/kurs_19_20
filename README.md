@@ -67,21 +67,21 @@ Anmeldeschluss	Mo, 05.08.2019
 1. Einstieg: Datenjournalismus ist... (ssc), 15'
 1. Ein DDJ-Beispiel: [Film dialogues from 2000 screenplays](https://pudding.cool/2017/03/film-dialogue/) (ssc), 10'
 1. Einführung in Pandas: [Fragen formulieren - Kraftwerke](08%20Pandas%20Teil%201/Einführung%20Pandas.ipynb)*([Lösung](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb))* (ssc), 30'
-1. Übung 1: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
+1. Übung: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
 1. Wiedereinstieg: DDJ-Beispiele anschauen
 1. [Hilfsmaterialien](08%20Pandas%20Teil%201/material/) (ssc), 20'
-1. Übung 2: [Filtern und Felder kombinieren - NBA All-Stars](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren%20L.ipynb))* (ssc), 80'
-1. Homework 1: [Explorieren, Filtern, Kombinieren - Fussballstadien](08%20Pandas%20Teil%201/Homework%201.ipynb) *([Lösung](08%20Pandas%20Teil%201/Homework%201%20L.ipynb))*, (ssc) 60'
+1. Übung: [Filtern und Felder kombinieren - NBA All-Stars](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren%20L.ipynb))* (ssc), 80'
+1. Homework: [Explorieren, Filtern, Kombinieren - Fussballstadien](08%20Pandas%20Teil%201/Homework%201.ipynb) *([Lösung](08%20Pandas%20Teil%201/Homework%201%20L.ipynb))*, (ssc) 60'
 
 ## Pandas Einführung, Teil 2
 **26. September 2019**
 1. Einstieg: Ein DDJ-Beispiel: [Pick your own Brexit](https://www.bloomberg.com/graphics/2018-pick-your-own-brexit/) (ssc), 10'
 1. Unterricht: [Dataframes handling - Peter, Paul und Maria](09%20Pandas%20Teil%202/Dataframes%20Handling.ipynb) (ssc), 45'
-1. Übung 1: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 90'
+1. Übung: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 90'
 1. Wiedereinstieg: DDJ-Beispiele
-1. Übung 2: [Plotting - Klimadaten](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb) *([Lösung](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb%20L.ipynb))* (ssc), 30'
-1. Übung 3: [Daten kombinieren - Immobilienboom](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
-1. Homework 2: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
+1. Übung: [Plotting - Klimadaten](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb) *([Lösung](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb%20L.ipynb))* (ssc), 30'
+1. Homework: [Daten kombinieren - Immobilienboom](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
+1. Homework: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
 
 ## Selenium, Rückblick und Ausblick auf die Projekte
 **27. Septmeber 2019**
@@ -90,20 +90,22 @@ Anmeldeschluss	Mo, 05.08.2019
 3. Rückblick: Wo braucht es mehr Vertiefung? (bsk), 60'
 4. Ausblick auf Projekte (bsk), 30' + 90'
 
-## Pandas Vertiefung, Teil 1 & Teil 2
-**14. & 15. Oktober**
+## Pandas Vertiefung, Teil 1
+**14. Oktober**
 1. Ein DDJ-Beispiel: [How well do you know your country](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz) (ssc), 15'
 1. Unterricht: [Date+Time Basics](11%20Pandas%20Teil%203/Date+Time%20Basics.ipynb) *([Lösung](11%20Pandas%20Teil%203/Date+Time%20Basics%20L.ipynb))* (ssc), 60'
 1. Unterricht: [Time Series - SMI-Index](11%20Pandas%20Teil%203/Time%20Series.ipynb) *([Lösung](11%20Pandas%20Teil%203/Time%20Series%20L.ipynb))* (ssc), 90'
-1. Ein DDJ-Beispiel: [Brasilien-Wahlen](https://www.estadao.com.br/infograficos/politica,bolsonaro-vence-em-97-das-cidades-mais-ricas-e-haddad-em-98-das-pobres,93585) (ssc), 15'
-1. Übung: [Pandas und Funktionen](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen.ipynb) *([Lösung](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen%20L.ipynb))* (ssc), 60'
-1. Übung: [Viele Dateien - Krypto-Coins](11%20Pandas%20Teil%203/Viele%20Dateien.ipynb) *([Lösung](11%20Pandas%20Teil%203/Viele%20Dateien%20L.ipynb))* (ssc), 60'
-1. Unterricht: [Beautiful Charts](11%20Pandas%20Teil%203/Beautiful%20Charts.ipynb) *([Lösung](11%20Pandas%20Teil%203/Beautiful%20Charts%20L.ipynb))* (ssc), 30'
-1. Ein DDJ-Beispiel: [Population in 3D](https://pudding.cool/2018/10/city_3d/) (ssc), 15'
+1. Übung: [Exploring und Plotting II - Börsenkurse](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%20II.ipnyb)
+1. Unterricht: [Pandas und Funktionen](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen.ipynb) *([Lösung](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen%20L.ipynb))* (ssc), 60'
+1. Homework: [Viele Dateien - Krypto-Coins](11%20Pandas%20Teil%203/Viele%20Dateien.ipynb) *([Lösung](11%20Pandas%20Teil%203/Viele%20Dateien%20L.ipynb))* (ssc), 60'
+
+## Pandas Vertiefung, Teil 2
+**15. Oktober**
+1. Wiedereinstieg: DDJ-Beispiele (ssc), 15'
 1. Übung: [Regex in Python - Songtexts](12%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))* (ssc), 90'
 1. Unterricht: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
-1. Homework 3: [Regex - Senators](12%20Pandas%20Teil%204/Homework%203.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Homework%203%20L.ipynb))*
-
+1. Homework: [Regex - Senators](12%20Pandas%20Teil%204/Homework%203.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Homework%203%20L.ipynb))*
+1. Homework: [Beautiful Charts](11%20Pandas%20Teil%203/Beautiful%20Charts.ipynb) *([Lösung](11%20Pandas%20Teil%203/Beautiful%20Charts%20L.ipynb))* (ssc), 30'
 ## PDF auslesen und erste Textanalyse
 **28. und 29. Oktober 2019**
 
