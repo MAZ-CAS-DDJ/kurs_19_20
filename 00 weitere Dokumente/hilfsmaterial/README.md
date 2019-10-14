@@ -44,6 +44,7 @@
 - [List of Fonts](http://jonathansoma.com/lede/data-studio/matplotlib/list-all-fonts-available-in-matplotlib-plus-samples/)
 
 # Regex
+- [Simons Cheat Sheet](regex.md) - Eine kleine Gliederung
 - [Offizielle Dokumentation](https://docs.python.org/3/library/re.html)
 - [Ein Online-Regex-Tester](https://pythex.org/)
 - [Ein weiterer Online-Texter](https://regex101.com/)
