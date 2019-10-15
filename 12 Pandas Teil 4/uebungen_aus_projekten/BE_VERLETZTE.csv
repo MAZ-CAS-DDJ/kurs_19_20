@@ -1,0 +1,348 @@
+,Gemeinde,Sachschaden,Personenschaden,Getötete,Schwerverletzte,Leichtverletzte,Anzahl Verletzte
+0,Aarberg,26,12,0,2,15,17
+1,Aarwangen,10,15,0,2,14,16
+2,Adelboden,8,11,1,3,9,12
+3,Aefligen,0,0,0,0,0,0
+4,Aegerten,3,3,0,0,4,4
+5,Aeschi bei Spiez,9,6,0,2,5,7
+6,Affoltern im Emmental,3,4,0,0,4,4
+7,Alchenstorf,1,1,0,0,2,2
+8,Allmendingen,5,3,0,2,1,3
+9,Amsoldingen,2,0,0,0,0,0
+10,Arch,1,2,0,0,2,2
+11,Arni (BE),2,1,0,0,1,1
+12,Attiswil,2,1,0,0,1,1
+13,Auswil,1,0,0,0,0,0
+14,Bannwil,1,1,0,1,0,1
+15,Bargen (BE),2,4,0,0,4,4
+16,Bäriswil,1,3,0,0,5,5
+17,Bätterkinden,4,6,0,0,7,7
+18,Beatenberg,4,4,0,0,5,5
+19,Bellmund,1,0,0,0,0,0
+20,Belp,25,30,0,5,27,32
+21,Belprahon,1,0,0,0,0,0
+22,Berken,0,1,0,1,0,1
+23,Bern,353,345,5,69,333,402
+24,Bettenhausen,2,1,0,0,1,1
+25,Biel/Bienne,196,201,1,23,193,216
+26,Biglen,1,1,0,1,0,1
+27,Bleienbach,5,2,0,0,2,2
+28,Blumenstein,0,4,0,2,3,5
+29,Bolligen,13,7,0,2,5,7
+30,Boltigen,14,12,0,5,16,21
+31,Bönigen,4,2,0,3,3,6
+32,Bowil,2,5,1,2,4,6
+33,Bremgarten bei Bern,3,1,0,0,1,1
+34,Brenzikofen,1,0,0,0,0,0
+35,Brienz (BE),7,6,0,2,6,8
+36,Brienzwiler,3,8,1,5,4,9
+37,Brügg,16,14,0,1,15,16
+38,Brüttelen,0,4,0,3,3,6
+39,Buchholterberg,1,2,0,0,8,8
+40,Büetigen,2,0,0,0,0,0
+41,Bühl,1,1,0,0,1,1
+42,Büren an der Aare,4,8,0,1,7,8
+43,Burgdorf,48,48,2,7,45,52
+44,Burgistein,4,1,0,1,0,1
+45,Busswil bei Melchnau,0,0,0,0,0,0
+46,Champoz,0,0,0,0,0,0
+47,Clavaleyres,0,0,0,0,0,0
+48,Corcelles (BE),3,0,0,0,0,0
+49,Corgémont,2,5,0,1,4,5
+50,Cormoret,3,6,0,1,8,9
+51,Cortébert,2,0,0,0,0,0
+52,Court,0,3,0,0,3,3
+53,Courtelary,4,3,0,3,1,4
+54,Crémines,2,3,0,1,2,3
+55,Därligen,9,5,0,0,9,9
+56,Därstetten,2,0,0,0,0,0
+57,Deisswil bei Münchenbuchsee,1,0,0,0,0,0
+58,Diemerswil,0,0,0,0,0,0
+59,Diemtigen,4,4,0,2,6,8
+60,Diessbach bei Büren,2,5,0,1,4,5
+61,Dotzigen,6,3,0,1,4,5
+62,Dürrenroth,2,1,0,0,1,1
+63,Eggiwil,4,4,0,2,7,9
+64,Epsach,1,1,0,1,0,1
+65,Eriswil,0,2,0,1,1,2
+66,Eriz,0,2,0,1,1,2
+67,Erlach,1,0,0,0,0,0
+68,Erlenbach im Simmental,9,9,0,1,10,11
+69,Ersigen,5,1,0,0,2,2
+70,Eschert,0,0,0,0,0,0
+71,Evilard,3,3,0,1,2,3
+72,Fahrni,0,1,0,1,0,1
+73,Farnern,0,0,0,0,0,0
+74,Ferenbalm,3,4,0,1,3,4
+75,Finsterhennen,1,1,0,0,1,1
+76,Forst-Längenbühl,0,0,0,0,0,0
+77,Fraubrunnen,4,8,0,1,8,9
+78,Frauenkappelen,1,1,0,0,1,1
+79,Freimettigen,0,0,0,0,0,0
+80,Frutigen,17,12,1,5,7,12
+81,Gals,4,0,0,0,0,0
+82,Gampelen,4,4,0,1,3,4
+83,Gerzensee,1,2,0,0,2,2
+84,Golaten,0,1,0,0,1,1
+85,Gondiswil,0,1,0,1,0,1
+86,Graben,1,1,0,0,1,1
+87,Grandval,0,1,0,1,0,1
+88,Grindelwald,7,5,0,1,4,5
+89,Grossaffoltern,5,4,0,1,4,5
+90,Grosshöchstetten,6,5,0,1,5,6
+91,Gsteig,5,2,0,1,1,2
+92,Gsteigwiler,1,0,0,0,0,0
+93,Guggisberg,0,4,0,2,2,4
+94,Gündlischwand,1,3,0,0,4,4
+95,Gurbrü,1,2,0,0,2,2
+96,Gurzelen,0,1,0,0,1,1
+97,Guttannen,3,7,0,2,7,9
+98,Habkern,0,2,0,1,1,2
+99,Hagneck,2,1,0,0,1,1
+100,Hasle bei Burgdorf,8,17,0,0,18,18
+101,Hasliberg,2,1,0,0,1,1
+102,Häutligen,1,0,0,0,0,0
+103,Heiligenschwendi,1,1,0,0,1,1
+104,Heimberg,14,12,0,2,13,15
+105,Heimenhausen,3,1,0,0,1,1
+106,Heimiswil,0,3,0,2,1,3
+107,Hellsau,0,0,0,0,0,0
+108,Herbligen,0,2,0,1,1,2
+109,Hermrigen,0,0,0,0,0,0
+110,Herzogenbuchsee,20,14,1,2,13,15
+111,Hilterfingen,9,7,0,1,9,10
+112,Hindelbank,10,3,0,1,2,3
+113,Höchstetten,1,2,1,0,3,3
+114,Hofstetten bei Brienz,3,1,0,0,1,1
+115,Homberg,0,0,0,0,0,0
+116,Horrenbach-Buchen,0,0,0,0,0,0
+117,Huttwil,13,9,0,2,9,11
+118,Iffwil,0,1,0,1,0,1
+119,Inkwil,1,0,0,0,0,0
+120,Innertkirchen,7,24,0,12,15,27
+121,Ins,14,8,0,3,7,10
+122,Interlaken,38,29,0,10,23,33
+123,Ipsach,5,8,0,2,6,8
+124,Iseltwald,0,0,0,0,0,0
+125,Ittigen,25,27,0,5,26,31
+126,Jaberg,1,0,0,0,0,0
+127,Jegenstorf,4,13,0,2,13,15
+128,Jens,1,0,0,0,0,0
+129,Kallnach,2,4,0,2,2,4
+130,Kandergrund,7,1,0,1,0,1
+131,Kandersteg,3,2,0,1,3,4
+132,Kappelen,7,7,0,2,7,9
+133,Kaufdorf,1,1,0,0,1,1
+134,Kehrsatz,5,5,0,3,5,8
+135,Kernenried,0,0,0,0,0,0
+136,Kiesen,2,4,0,0,5,5
+137,Kirchberg (BE),17,6,0,1,5,6
+138,Kirchdorf (BE),3,3,1,1,2,3
+139,Kirchenthurnen,1,2,0,1,1,2
+140,Kirchlindach,2,4,0,0,4,4
+141,Köniz,78,71,0,11,64,75
+142,Konolfingen,13,10,0,3,7,10
+143,Koppigen,2,3,0,1,2,3
+144,Krattigen,4,5,1,6,2,8
+145,Krauchthal,6,4,0,0,5,5
+146,Kriechenwil,1,1,0,1,0,1
+147,La Ferrière,1,2,0,0,2,2
+148,Landiswil,0,2,0,0,3,3
+149,La Neuveville,8,9,0,3,8,11
+150,Langenthal,35,46,1,7,50,57
+151,Langnau im Emmental,17,19,2,2,17,19
+152,Lauenen,1,0,0,0,0,0
+153,Laupen,12,5,0,0,6,6
+154,Lauperswil,4,10,0,2,13,15
+155,Lauterbrunnen,11,2,0,0,4,4
+156,Leissigen,7,3,0,4,3,7
+157,Lengnau (BE),11,9,0,1,12,13
+158,Lenk,6,2,0,1,3,4
+159,Leuzigen,2,0,0,0,0,0
+160,Ligerz,0,2,0,1,1,2
+161,Linden,2,3,0,1,15,16
+162,Lohnstorf,2,0,0,0,0,0
+163,Lotzwil,1,4,0,0,4,4
+164,Loveresse,1,1,0,0,2,2
+165,Lüscherz,1,1,0,0,1,1
+166,Lütschental,1,3,0,3,0,3
+167,Lützelflüh,8,7,0,3,6,9
+168,Lyss,30,31,2,5,33,38
+169,Lyssach,27,11,1,0,12,12
+170,Madiswil,10,7,0,2,5,7
+171,Matten bei Interlaken,12,6,0,2,9,11
+172,Mattstetten,1,0,0,0,0,0
+173,Meienried,0,0,0,0,0,0
+174,Meikirch,5,8,1,4,7,11
+175,Meinisberg,2,1,0,0,1,1
+176,Meiringen,20,10,0,4,11,15
+177,Melchnau,0,3,0,0,3,3
+178,Merzligen,0,1,0,0,1,1
+179,Mirchel,2,0,0,0,0,0
+180,Mont-Tramelan,0,1,0,1,0,1
+181,Moosseedorf,18,16,0,2,21,23
+182,Mörigen,2,1,0,0,1,1
+183,Mötschwil,1,2,0,0,2,2
+184,Moutier,18,13,0,4,12,16
+185,Mühleberg,4,4,0,3,1,4
+186,Mühlethurnen,0,2,0,0,2,2
+187,Münchenbuchsee,12,24,0,2,26,28
+188,Münchenwiler,2,1,0,0,1,1
+189,Münsingen,20,29,0,8,23,31
+190,Müntschemier,3,2,0,0,2,2
+191,Muri bei Bern,21,15,1,3,12,15
+192,Neuenegg,9,8,0,1,8,9
+193,Nidau,38,25,0,3,29,32
+194,Niederbipp,17,18,1,3,22,25
+195,Niederhünigen,1,2,0,1,1,2
+196,Niedermuhlern,1,1,0,0,1,1
+197,Niederönz,1,1,0,0,1,1
+198,Niederried bei Interlaken,1,1,0,0,2,2
+199,Nods,0,2,0,1,1,2
+200,Oberbalm,3,1,1,0,0,0
+201,Oberbipp,3,2,0,0,2,2
+202,Oberburg,10,9,0,2,11,13
+203,Oberdiessbach,11,11,0,4,15,19
+204,Oberhofen am Thunersee,7,6,0,1,6,7
+205,Oberhünigen,0,0,0,0,0,0
+206,Oberlangenegg,0,2,0,0,3,3
+207,Oberried am Brienzersee,1,2,0,2,0,2
+208,Obersteckholz,1,0,0,0,0,0
+209,Oberthal,0,1,0,0,1,1
+210,Oberwil bei Büren,1,0,0,0,0,0
+211,Oberwil im Simmental,3,5,0,1,12,13
+212,Ochlenberg,3,2,0,0,3,3
+213,Oeschenbach,0,0,0,0,0,0
+214,Oppligen,2,4,0,1,4,5
+215,Orpund,8,7,0,1,10,11
+216,Orvin,2,4,0,0,4,4
+217,Ostermundigen,38,29,0,0,34,34
+218,Perrefitte,1,0,0,0,0,0
+219,Péry-La Heutte,8,1,0,1,0,1
+220,Petit-Val,2,0,0,0,0,0
+221,Pieterlen,10,5,0,0,6,6
+222,Plateau de Diesse,2,3,0,0,4,4
+223,Pohlern,0,1,0,0,1,1
+224,Port,14,2,0,0,4,4
+225,Radelfingen,3,1,0,0,1,1
+226,Rapperswil (BE),6,5,0,0,5,5
+227,Reconvilier,1,2,0,0,2,2
+228,Reichenbach im Kandertal,19,5,0,1,4,5
+229,Reisiswil,0,1,0,1,0,1
+230,Renan (BE),2,2,0,0,5,5
+231,Reutigen,0,3,0,0,3,3
+232,Riggisberg,13,13,0,6,7,13
+233,Ringgenberg (BE),5,5,0,1,4,5
+234,Roches (BE),0,0,0,0,0,0
+235,Roggwil (BE),13,11,0,1,12,13
+236,Rohrbach,0,2,0,1,1,2
+237,Rohrbachgraben,1,0,0,0,0,0
+238,Romont (BE),0,1,0,0,1,1
+239,Röthenbach im Emmental,2,5,0,0,5,5
+240,Rubigen,10,10,0,1,11,12
+241,Rüderswil,4,8,0,2,8,10
+242,Rüdtligen-Alchenflüh,4,5,0,1,4,5
+243,Rüeggisberg,4,8,0,2,7,9
+244,Rüegsau,2,0,0,0,0,0
+245,Rumendingen,1,0,0,0,0,0
+246,Rumisberg,0,2,0,0,2,2
+247,Rümligen,2,3,0,2,4,6
+248,Rüschegg,1,6,0,1,5,6
+249,Rüti bei Büren,1,1,0,0,1,1
+250,Rüti bei Lyssach,0,0,0,0,0,0
+251,Rütschelen,0,1,0,1,0,1
+252,Saanen,22,18,0,3,20,23
+253,Safnern,3,1,0,0,1,1
+254,Saicourt,0,5,0,2,4,6
+255,Saint-Imier,10,12,0,7,8,15
+256,Sauge,1,0,0,0,0,0
+257,Saules (BE),0,1,0,0,1,1
+258,Saxeten,0,0,0,0,0,0
+259,Schangnau,1,1,0,0,1,1
+260,Schattenhalb,3,5,0,2,3,5
+261,Schelten,0,0,0,0,0,0
+262,Scheuren,1,2,0,0,2,2
+263,Schüpfen,5,9,1,2,6,8
+264,Schwadernau,2,0,0,0,0,0
+265,Schwanden bei Brienz,0,0,0,0,0,0
+266,Schwarzenburg,13,18,0,4,19,23
+267,Schwarzhäusern,3,0,0,0,0,0
+268,Schwendibach,0,0,0,0,0,0
+269,Seeberg,3,6,0,0,10,10
+270,Seedorf (BE),8,2,0,0,2,2
+271,Seehof,0,0,0,0,0,0
+272,Seftigen,2,2,0,0,2,2
+273,Signau,3,6,0,2,6,8
+274,Sigriswil,8,8,0,1,8,9
+275,Siselen,3,2,0,2,0,2
+276,Sonceboz-Sombeval,2,3,0,1,4,5
+277,Sonvilier,1,1,0,0,2,2
+278,Sorvilier,0,0,0,0,0,0
+279,Spiez,34,25,0,7,23,30
+280,Steffisburg,35,37,0,5,32,37
+281,Stettlen,3,1,0,0,1,1
+282,Stocken-Höfen,1,1,0,1,2,3
+283,St. Stephan,3,2,0,0,2,2
+284,Studen (BE),7,8,0,0,8,8
+285,Sumiswald,10,9,0,3,9,12
+286,Sutz-Lattrigen,4,5,1,0,4,4
+287,Täuffelen,6,9,0,2,10,12
+288,Tavannes,15,8,0,2,7,9
+289,Teuffenthal (BE),0,0,0,0,0,0
+290,Thierachern,11,10,0,5,5,10
+291,Thörigen,2,2,0,0,2,2
+292,Thun,129,138,0,26,135,161
+293,Thunstetten,15,7,0,2,7,9
+294,Toffen,6,2,0,1,1,2
+295,Trachselwald,0,2,0,1,1,2
+296,Tramelan,7,4,0,0,4,4
+297,Treiten,2,0,0,0,0,0
+298,Trub,1,0,0,0,0,0
+299,Trubschachen,6,2,0,1,1,2
+300,Tschugg,0,0,0,0,0,0
+301,Twann-Tüscherz,4,8,0,3,7,10
+302,Uebeschi,0,0,0,0,0,0
+303,Uetendorf,19,16,1,6,14,20
+304,Unterlangenegg,3,6,0,0,10,10
+305,Unterseen,11,17,0,4,14,18
+306,Ursenbach,1,3,0,0,3,3
+307,Urtenen-Schönbühl,12,11,0,2,13,15
+308,Uttigen,2,3,0,1,2,3
+309,Utzenstorf,4,8,1,2,10,12
+310,Valbirse,1,4,1,0,3,3
+311,Vechigen,10,8,0,5,6,11
+312,Villeret,5,5,0,1,4,5
+313,Vinelz,4,1,0,0,1,1
+314,Wachseldorn,1,0,0,0,0,0
+315,Wald (BE),2,2,0,0,3,3
+316,Walkringen,4,6,0,1,5,6
+317,Walliswil bei Niederbipp,2,1,0,2,1,3
+318,Walliswil bei Wangen,2,1,0,0,1,1
+319,Walperswil,3,0,0,0,0,0
+320,Walterswil (BE),0,1,0,0,1,1
+321,Wangen an der Aare,4,2,0,1,2,3
+322,Wangenried,0,0,0,0,0,0
+323,Wattenwil,1,5,0,0,5,5
+324,Wengi,3,4,0,1,3,4
+325,Wichtrach,5,13,0,5,11,16
+326,Wiedlisbach,13,5,0,0,10,10
+327,Wiggiswil,0,1,0,0,2,2
+328,Wilderswil,13,11,0,1,16,17
+329,Wiler bei Utzenstorf,0,3,0,2,1,3
+330,Wileroltigen,1,0,0,0,0,0
+331,Willadingen,1,0,0,0,0,0
+332,Wimmis,5,3,0,0,3,3
+333,Wohlen bei Bern,8,9,0,2,14,16
+334,Wolfisberg,0,0,0,0,0,0
+335,Worb,19,23,0,2,27,29
+336,Worben,4,2,0,1,1,2
+337,Wynau,2,4,0,0,4,4
+338,Wynigen,6,10,0,2,9,11
+339,Wyssachen,0,2,1,1,0,1
+340,Zäziwil,2,1,0,0,1,1
+341,Zielebach,1,0,0,0,0,0
+342,Zollikofen,21,15,1,4,10,14
+343,Zuzwil (BE),0,0,0,0,0,0
+344,Zweisimmen,6,5,1,1,4,5
+345,Zwieselberg,1,1,0,1,0,1
+346,¹ Zahlen für lebensbedrohlich Verletzte und erheblich Verletzte erst ab 2015 verfügbar,0,0,0,0,0,0
