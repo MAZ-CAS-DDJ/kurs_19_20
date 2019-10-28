@@ -55,4 +55,4 @@
 
 ____________________________________________________
 
-Und jetzt bauen wir einen [Headless Scraper](https://docs.google.com/document/d/1LIO5-VXDW2piwR8gAHPT8rJS2N6CLCIsY6deJsjU9LE/edit) mit Selenium auf unserem Server.
+Und jetzt bauen wir einen [Headless Scraper](https://docs.google.com/document/d/1LIO5-VXDW2piwR8gAHPT8rJS2N6CLCIsY6deJsjU9LE/edit), schieben den den HR-Scraper von gestern auf unseren Server und lösen ihn aus.
