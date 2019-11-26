@@ -5,6 +5,17 @@ Analyse von 34771 von Donald Trump verfassten Twitter-Meldungen zwischen dem 4. 
 ![Trump Hate](dt.png)
 Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)
 
+
+- These formulieren: **Trumps Hass nimmt zu. Aber er erhält dafür weniger Applaus**
+- These checken: Relevanz? neu? Aufwand/Ertrag? **Es gab ähnliche Geschichten, aber nichts Umfassendendes zu allen Trump-Tweets. Aufwand und Ertrag ist überschaubar. Am Ende 2 Arbeitstage**
+- Knackpunkt bestimmen = Priorität für Recherchestart
+- Briefing Person konsultieren **Fiel in diesem Fall weg**
+- Daten beschaffen/reinigen/analysieren/visualisieren -> These justieren
+- Ergänzen durch klassische Recherche (Experten, Politiker etc.)
+- Dokumentieren Code und statistische Annahmen
+
+
+
 ## 0 Daten-Quelle
 
 Für die Untersuchung berücksichtigt, wurden alle 34'771 Kurzmeldungen, die der 45. US-Präsident Donald Trump zwischen dem 4. Mai 2009 und dem 13. August 2019 im sozialen Netzwerk publiziert hat. Abgelegt sind die Inhalte im [«Trump Twitter Archive»](http://www.trumptwitterarchive.com).
