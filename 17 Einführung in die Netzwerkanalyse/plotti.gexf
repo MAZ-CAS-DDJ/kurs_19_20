@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>09/12/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Plotti" label="Plotti" />
+      <node id="Katrin" label="Katrin" />
+      <node id="Sven" label="Sven" />
+      <node id="Zoe" label="Zoe" />
+      <node id="Jörg" label="Jörg" />
+      <node id="Fabian" label="Fabian" />
+      <node id="Sandra" label="Sandra" />
+      <node id="Manuela" label="Manuela" />
+      <node id="Martin" label="Martin" />
+      <node id="Reto" label="Reto" />
+      <node id="Marius" label="Marius" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Plotti" target="Katrin" />
+      <edge id="1" source="Plotti" target="Sven" />
+      <edge id="2" source="Plotti" target="Zoe" />
+      <edge id="3" source="Katrin" target="Marius" />
+      <edge id="4" source="Sven" target="Jörg" />
+      <edge id="5" source="Sven" target="Fabian" />
+      <edge id="6" source="Zoe" target="Jörg" />
+      <edge id="7" source="Fabian" target="Sandra" />
+      <edge id="8" source="Sandra" target="Manuela" />
+      <edge id="9" source="Manuela" target="Martin" />
+      <edge id="10" source="Martin" target="Reto" />
+      <edge id="11" source="Reto" target="Marius" />
+    </edges>
+  </graph>
+</gexf>
