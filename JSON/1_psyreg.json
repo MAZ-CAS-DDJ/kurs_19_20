@@ -1,0 +1,80 @@
+{
+    "idPerson": 1,
+    "name": "Birchler Pedross",
+    "vorname": "Angelina",
+    "geschlechtId": 12001,
+    "geburtsdatum": null,
+    "jahrgang": 1968,
+    "sprachkompetenzIds": [
+        13000
+    ],
+    "nationalitaet1Id": 10001,
+    "nationalitaet2Id": null,
+    "gln": "7601003917000",
+    "uid": null,
+    "adressenBewilligungen": [
+        {
+            "kantonId": 11020,
+            "praxisname": "-",
+            "strasse": "Zelgstr. 5",
+            "plz": "8003",
+            "ort": "Zürich",
+            "telefon1": "",
+            "emailadresse": "",
+            "zusatz1": "",
+            "zusatz2": ""
+        }
+    ],
+    "adressenNeunzigTageDienstleister": [],
+    "bewilligungenErteilt": [
+        {
+            "kantonId": 11020,
+            "auflageEinschraenkungen": [
+                {
+                    "typId": 8003,
+                    "datumEntscheid": "2010-08-02T00:00:00",
+                    "datumBefristung": "2020-08-31T00:00:00"
+                }
+            ],
+            "datumEntscheid": "2010-08-02T00:00:00",
+            "datumErteilung": "2018-10-23T15:12:51.923",
+            "datumBefristung": "2018-10-30T07:07:15.607"
+        }
+    ],
+    "bewilligungenEntzogen": [],
+    "bewilligungenVerweigert": [],
+    "bewilligungenKeineBewilligung": [],
+    "neunzigTageDienstleister": [],
+    "abschluesse": [
+        {
+            "berufsbezeichnungId": 54001,
+            "abschlussId": 55001,
+            "ausstellungsdatum": "2001-01-01T00:00:00",
+            "ausstellungslandId": 10001,
+            "anerkennungstypId": null,
+            "anerkennungsdatum": null,
+            "datumNachpruefung": null,
+            "weiterbildungsgangId": null,
+            "weiterbildungstitelArtId": 0,
+            "organisationName": null,
+            "organisationPlz": null,
+            "organisationOrt": null
+        },
+        {
+            "berufsbezeichnungId": 54002,
+            "abschlussId": 55004,
+            "ausstellungsdatum": "2009-07-04T00:00:00",
+            "ausstellungslandId": 10001,
+            "anerkennungstypId": null,
+            "anerkennungsdatum": null,
+            "datumNachpruefung": null,
+            "weiterbildungsgangId": null,
+            "weiterbildungstitelArtId": 1054,
+            "organisationName": "Föderation Schweizer Psychologinnen und Psychologen FSP",
+            "organisationPlz": "3000",
+            "organisationOrt": "Bern 14"
+        }
+    ],
+    "canDoMutationsantrag": false,
+    "canHaveBewilligungen": true
+}

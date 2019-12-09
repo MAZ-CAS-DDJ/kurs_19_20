@@ -1,0 +1,74 @@
+{
+    "idPerson": 2,
+    "name": "Schafroth",
+    "vorname": "Sandra",
+    "geschlechtId": 12001,
+    "geburtsdatum": null,
+    "jahrgang": 1970,
+    "sprachkompetenzIds": [
+        13000
+    ],
+    "nationalitaet1Id": 10001,
+    "nationalitaet2Id": null,
+    "gln": "7601003945683",
+    "uid": "CHE355653839",
+    "adressenBewilligungen": [
+        {
+            "kantonId": 11005,
+            "praxisname": "Praxis für Psychotherapie",
+            "strasse": "Freie Strasse 59",
+            "plz": "4051",
+            "ort": "Basel",
+            "telefon1": "",
+            "emailadresse": null,
+            "zusatz1": null,
+            "zusatz2": null
+        }
+    ],
+    "adressenNeunzigTageDienstleister": [],
+    "bewilligungenErteilt": [
+        {
+            "kantonId": 11005,
+            "auflageEinschraenkungen": [],
+            "datumEntscheid": "2015-08-01T00:00:00",
+            "datumErteilung": "2018-04-17T12:20:02.067",
+            "datumBefristung": "2018-04-17T12:24:44.74"
+        }
+    ],
+    "bewilligungenEntzogen": [],
+    "bewilligungenVerweigert": [],
+    "bewilligungenKeineBewilligung": [],
+    "neunzigTageDienstleister": [],
+    "abschluesse": [
+        {
+            "berufsbezeichnungId": 54001,
+            "abschlussId": 55001,
+            "ausstellungsdatum": "2005-02-08T00:00:00",
+            "ausstellungslandId": 10001,
+            "anerkennungstypId": null,
+            "anerkennungsdatum": null,
+            "datumNachpruefung": null,
+            "weiterbildungsgangId": null,
+            "weiterbildungstitelArtId": 0,
+            "organisationName": null,
+            "organisationPlz": null,
+            "organisationOrt": null
+        },
+        {
+            "berufsbezeichnungId": 54002,
+            "abschlussId": 55004,
+            "ausstellungsdatum": "2013-11-30T00:00:00",
+            "ausstellungslandId": 10001,
+            "anerkennungstypId": null,
+            "anerkennungsdatum": null,
+            "datumNachpruefung": null,
+            "weiterbildungsgangId": null,
+            "weiterbildungstitelArtId": 1054,
+            "organisationName": "Föderation Schweizer Psychologinnen und Psychologen FSP",
+            "organisationPlz": "3000",
+            "organisationOrt": "Bern 14"
+        }
+    ],
+    "canDoMutationsantrag": false,
+    "canHaveBewilligungen": true
+}
