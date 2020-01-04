@@ -103,7 +103,7 @@ Anmeldeschluss	Mo, 05.08.2019
 **15. Oktober 2019**
 1. Wiedereinstieg: DDJ-Beispiele (ssc), 15'
 1. Übung: [Regex in Python - Songtexts](12%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))* (ssc), 90'
-1. Übung: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *(([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
+1. Übung: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
 1. Homework: [Regex - Senators](12%20Pandas%20Teil%204/Homework%203.ipynb) *([Lösung](12%20Pandas%20Teil%204/Homework%203%20L.ipynb))*
 1. Homework: [Beautiful Charts](11%20Pandas%20Teil%204/Beautiful%20Charts.ipynb) *([Lösung](11%20Pandas%20Teil%204/Beautiful%20Charts%20L.ipynb))* (ssc), 30'
 ## PDF auslesen und erste Textanalyse
@@ -117,6 +117,11 @@ Anmeldeschluss	Mo, 05.08.2019
 
 ## Arbeiten mit Geodaten
 **06. Januar 2020**
+1. Übung: [Aufwärmügung](19%20Geopandas/Aufwärmübung.ipynb) *([Lösung](19%20Geopandas/Aufwärmübung%20L.ipynb))* (ssc), 60'
+1. Übung: [Geopandas Intro](19%20Geopandas/Geopandas%20Intro.ipynb) *([Lösung](19%20Geopandas/Geopandas%20Intro%20L.ipynb))* (ssc), 60'
+1. Unterricht: [Geodatenhandling 1](19%20Geopandas/Geodatenhandling%201.ipynb) (ssc), 60'
+1. Übung: [Geodatenhandling 2](19%20Geopandas/Geodatenhandling%202.ipynb) *([Lösung](19%20Geopandas/Geodatenhandling%20L2%20L.ipynb))* (ssc), 60'
+1. Übung: [Geopandas Training](19%20Geopandas/Geopandas%20Training.ipynb) *([Lösung](19%20Geopandas/Geopandas%20Training%20L.ipynb))* (ssc), 60'
 
 ## Abschlusstag
 **16. März 2020**
