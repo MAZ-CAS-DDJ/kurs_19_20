@@ -9,7 +9,7 @@ by Simon Schmid. Work in progress, without any guarantees. Spotted a mistake? Ma
 
 ## FILE IN / OUT
 
-**`gdf.read_file(filename)`**                   *- read a file into a dataframe. Can be .shp or other* ([documentation](http://geopandas.org/io.html))
+**`gdf.read_file(filename)`**                   *- read a file into a dataframe. Can be .shp or other*  ([documentation](http://geopandas.org/io.html))
 
 **`gdf.to_file(filename)`**                     *- save a geodataframe to a file. Default is .shp*
 - `driver='GeoJSON'`                            *- as GeoJSON*
@@ -25,7 +25,7 @@ by Simon Schmid. Work in progress, without any guarantees. Spotted a mistake? Ma
 
 ## COORDINATE SYSTEMS
 
-**`gdf.crs`**                                    *- the CRS (coordinate reference system) property*([documentation](http://geopandas.org/projections.html))
+**`gdf.crs`**                                    *- the CRS (coordinate reference system) property* ([documentation](http://geopandas.org/projections.html))
 - `= {'init': 'epsg:xxxx'}`                      *- Initialize the CRS. Choose any EPSG number. See:* https://epsg.io/
 
 **`gdf.to_crs({'proj': xxxx})`**                 *- Transform coordinates to other CRS using abbreviation*
