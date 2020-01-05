@@ -51,3 +51,8 @@
 - [Ein Cheat-Sheet](https://www.dataquest.io/blog/large_files/python-regular-expressions-cheat-sheet.pdf)
 - [Ein weiteres Cheat-Sheet](https://www.shortcutfoo.com/app/dojos/python-regex/cheatsheet)
 - [Ein Online Traningskurs](https://www.shortcutfoo.com/app/dojos/python-regex/learn)
+
+# Geopandas
+- [Simons Cheat Sheet](geopandas.md) - Meine Notizen, mit Links
+- [Offizielle Dokumentation](http://geopandas.org/)
+- [Making Maps](http://geopandas.org/mapping.html)
