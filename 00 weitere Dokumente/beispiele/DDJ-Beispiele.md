@@ -5,11 +5,13 @@ Zusammengestellt für den MAZ-Kurs "Datenjournalismus"
 ## Recherche
 BGÖ-Anfrage, Scraping und weitere besondere Methoden der Daten-Zusammenstellung
 - **Athens Live:** [Mapping the dominance of Airbnb in Athens](https://medium.com/athenslivegr/mapping-the-dominance-of-airbnb-in-athens-4cb9e0657e80) (2018)
+- **BBC:** [Unduly lenient sentences review scheme 'inadequate'](https://www.bbc.com/news/uk-47879288) (2019)
 - **Handelszeitung:** [Der Club der weissen Männer](https://www.handelszeitung.ch/unternehmen/zahlen-der-club-der-weissen-manner) (2019)
 - **Handelszeitung:** [Was Big Pharma zahlt](https://www.handelszeitung.ch/unternehmen/was-big-pharma-zahlt-die-geldflusse-ins-gesundheitswesen) (2019)
 - **SRF:** [So werden Ärzte bestraft](https://www.srf.ch/news/schweiz/gesperrte-mediziner-so-werden-aerzte-bestraft) (2019)
 - **SRF:** [Unterschlagenes Wissen schadet](https://www.srf.ch/news/schweiz/studien-skandal-unterschlagenes-wissen-schadet) (2019)
 - **Watson:** [Flugzeug oder Bahn? So reisen Schweizer Beamte](https://www.watson.ch/schweiz/gesellschaft%20&%20politik/729967208-flugzeug-oder-bahn-so-reisen-die-schweizer-beamten) (2019)
+- **SRF:** [Lotteriefonds-Auswertung](https://www.srf.ch/news/schweiz/lotteriefonds-auswertung-vor-allem-grossinstitutionen-profitieren) (2020)
 ## Textanalyse
 Worthäufigkeiten, Sentiment-Analyse und weitere computerlinguistische Techniken
 - **NZZ:** [Das «Rössli» schlägt alle](https://www.nzz.ch/inland-sommerserie-schweizer-karten-interaktiv/vergleich-restaurantnamen-in-der-schweiz-1.18123894) (2013)
@@ -30,15 +32,19 @@ Storytelling mit Daten: besondere Plots, ungewöhnliche Chartformen, etc.
 - **New York Times:** [More than 228,000 students have experienced gun violence](https://www.washingtonpost.com/graphics/2018/local/school-shootings-database/) (2018)
 - **Passmark:** [12 Years in South Africa's Schools](http://passmark.org.za/schools/) (2018)
 - **Spiegel:** [Wo der Weg zum Bargeld weit ist](https://www.spiegel.de/wirtschaft/service/geldautomaten-wie-sind-sie-in-deutschland-verteilt-a-1226430.html) (2018)
+- **BBC:** [How much warmer is your city?](https://www.bbc.co.uk/news/resources/idt-985b9374-596e-4ae6-aa04-7fbcae4cb7ee) (2019)
 - **Fivethirtyeight:** [How Popular Is Donald Trump](https://projects.fivethirtyeight.com/trump-approval-ratings/?ex_cid=rrpromo) (2019)
 - **New York Times:** [The Rich Really Do Pay Lower Taxes Than You](https://www.nytimes.com/interactive/2019/10/06/opinion/income-tax-rate-wealthy.html) (2019)
 - **Republik:** [Bern ist im Sommer bald so heiss wie Mailand](https://www.republik.ch/2019/07/11/bern-ist-im-sommer-bald-so-heiss-wie-mailand) (2019)
 - **Republik:** [Die europäischen Parteien im Zeitraffer](https://www.republik.ch/2019/05/13/die-europaeischen-parteien-im-zeitraffer) (2019)
 - **Republik:** [Die schönste Klimagrafik der Welt](https://www.republik.ch/2019/04/08/die-schoenste-klimagrafik-der-welt) (2019)
 - **SRF:** [So haben die Schweizer Gemeinden in den letzten 40 Jahren gewählt](https://www.srf.ch/news/schweiz/wahlen-2019/wahlen-2019-so-haben-die-schweizer-gemeinden-in-den-letzten-40-jahren-gewaehlt) (2019)
+- **Süddeutsche:** [Anatomie einer Katastrophe](https://projekte.sueddeutsche.de/artikel/politik/was-die-klimakrise-wirklich-bedeutet-e946076/) (2019)
 - **Tages-Anzeiger:** [Wo es viele Kinder ans Gymi schaffen](https://www.tagesanzeiger.ch/zuerich/region/wo-es-viele-kinder-ans-gymi-schaffen/story/30076325) (2019)
 - **Tages-Anzeiger:** [Zahlen die Reichen genug Steuern?](https://interaktiv.tagesanzeiger.ch/2019/zahlen-reiche-genug-steuern/?nosome) (2019)
 - **Watson:** [Wie Ava Max innert Tagen zur Nummer 1 wurde](https://www.watson.ch/leben/wissen/270726641-hitparade-diese-kuenstler-kamen-schnell-zu-ihrem-nummer-1-hit-wie-aktuell-ava-max) (2019)
+- **New York Times:** [Most States That Are Reopening Fail to Meet White House Guidelines](https://www.nytimes.com/interactive/2020/05/07/us/coronavirus-states-reopen-criteria.html) (2020)
+- **New York Times:** [The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html) (2020)
 ## Mapping
 Choropleth, Point maps und allerlei weitere geografische Darstellungsformen
 - **SRF:** [Wo die Schweiz wächst – und wo sie schrumpft](https://www.srf.ch/news/wo-die-schweiz-waechst-und-wo-sie-schrumpft-2) (2015)
